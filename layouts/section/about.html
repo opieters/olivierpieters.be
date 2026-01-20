@@ -1,0 +1,60 @@
+{{ define "main" }}
+
+<div class="row">
+    <div class="four columns">
+      
+      <img src="{{ (.Resources.GetMatch "Olivier Pieters.jpg").Permalink }}" alt="{{ .Site.Data.cv.personal.name}}" class="op-logo">
+      <img src="{{ (.Resources.GetMatch "op-small.svg").Permalink }}" alt="Olivier Pieters logo" class="op-logo">
+    </div>
+    <div class="eight columns">
+      <h2 id="bio">Short Biography</h2>
+
+      <p>I am a software engineer at <a href="https://iqgeo.com">IQGeo</a>. I obtained my PhD in Computer Science at the same university by investigating the computational aspects of plants at <a href="http://www.ugent.be/en" target="_blank">Ghent University</a>. Moreover, I graduated as Master of Science in Electrical Engineering with main subject Communication and Information Technology (CIT) at the same in July 2017. I am passionate about science, technology, photography, languages and travel. Sometimes, I work on personal projects. You can find them <a href="/projects" target="_blank">here</a>. A five word description of me would be: enthusiastic, observant, perfectionistic, driven and minimalistic.</p>
+    </div>
+  </div>
+  
+  <div class="divider"></div>
+  
+  <div>
+    <h2 id="contact">Contact</h2>
+    <p>You can contact me using mail (<code>me (at) {this domain} (dot) be</code>), <a href="https://be.linkedin.com/in/{{ .Site.Params.linkedin }}" target="_blank">LinkedIn</a> or <a href="https://twitter.com/{{ .Site.Params.twitter }}" target="_blank">Twitter</a>. If you wish to send an encrypted message, you can find my public key <a href="#pgp-key">below</a> and on <a href="https://keybase.io/{{ .Site.Params.keybase }}" target="_blank">keybase.io</a>.</p>
+  </div>
+  
+  <div class="divider"></div>
+  
+  <div>
+    <h2 id="about-this-website">About this Website</h2>
+  
+    <p>This is a mainly a static site, created with <a href="https://gohugo.io" target="_blank">Hugo</a>. Static means it only uses HTML5, CSS and (mimited) JavaScript to display the content on this site, no server side language such as PHP is used. The photo galleries and posts that include mathematics require a browser with JavaScript support. The photo galleries are created using free (for non-commercial use) and open source frameworks, <a href="http://sachinchoolur.github.io/lightGallery/" target="_blank">lightGallery</a> and <a href="http://isotope.metafizzy.co" target="_blank">Isotope</a>. <a href="https://khan.github.io/KaTeX/" target="_blank">KaTeX</a> provides support for high quality mathematical expressions. Please mind that you will need a recent browser to view this site in its full glory.</p>
+  
+    <p>As of March 6, 2016 this website is W3C HTML5/CSS3 compilant through validation with <a href="https://github.com/svenkreiss/html5validator" target="_blank">html5validator</a>. The latest Hugo build was on {{ now.Format "02/01/2006" }} at {{ now.Format "15:04"  }}.</p>
+    <div class="center-element">
+        <img alt="html5-compilant" src="{{ (.Resources.GetMatch "html5.svg").Permalink }}" class="max-50px-wide" />
+        <img alt="CSS3 styling" src="{{ (.Resources.GetMatch "html5_css3_styling.svg").Permalink }}" class="max-50px-wide" />
+    </div>
+  </div>
+  
+  <div class="divider"></div>
+  
+  <div class="license">
+    <h2 id="license">License</h2>
+  
+    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="Creative Commons License" src="{{ (.Resources.GetMatch "by-nc-sa.eu.svg").Permalink }}" class="max-100px-wide" /></a>
+    <p>All text, images and code on this website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>, unless otherwise specified on the page.</p>
+  </div>
+
+  <div class="divider"></div>
+  
+  <div class="pgp-key">
+    <h2 id="pgp-key">Main PGP key</h2>
+  
+    <p>This is the PGP key for my primary email address: <code>me (at) {this domain} (dot) be</code>.</p>
+    <pre><code>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: Keybase Go 2.10.0 (darwin)
+Comment: https://keybase.io/download
+
+xsBNBFvbIDgBCACvbC9nQoimFDmbMlXibdTmJk1QSVngZU8bv+qosTDn+/7YrPfMbzqt7QwTdVD4kkJZwlR9dobWdmrjG64CQeHQNi81S9gpdpVUBjuxlcmVGmBrw1kas2Bo0e6UO+/ykkRpJg/YsPVxVNDTKh8tVWrt1z0yn/E5FTPV8VNqnmDzbu+/anmAmN8WGU3MIE7olyB5oi/Wck4x/z/0UAZuvSiMqnz8cn19YJ4Eu/BhspinwOf06Uz0tO/Cvs1PvqMhb/xb+cdKCJtX2nunaTj4S+hmPXcjtOmeN/waT5j+EGu502PF+oFm4wygqwJXxKYEYxWgKZiVd7lEHecxhehsGJDvABEBAAHNLSJtZUBvbGl2aWVycGlldGVycy5iZSIgPG1lQG9saXZpZXJwaWV0ZXJzLmJlPsLAcgQQAQgAJgUCW9sgOAkQ0RuQ1Ul4hNsCGwMCGQEGCwkHCAMCBBUICgIDFgIBAABbWQgAe0pt8PXP7XPFyTBtoVI1877rIvOnN8qdakI3B4kXzy80ytnk//NqsdLvp2vyTqaXVFpID3EH8AgVVI6qxzXRo7za3wBekSu+KYeExsp4dzHl+mqTwNaWK7SpWsjXePkWMOB9kjDzYfAg0ZpLcsErlq83iphXDaoQGjSMwfWs4OMO5zGSKSpqhsFRqOE4QAxajlp7lZ/cr7Huzk+pvKgzkFTcpcBhFk+rtHqd45mJgYJ+C4CJCtcv7dUAcgpEq27QeEnO6dOxSrhOCxwdAhob2Dzw2zHs7Bb/YfIqxRuvFAAg0d9uGPf03jP/f2+Jioap3M28jtj3lOtyv5pOvmkQt87ATQRb2yA4AQgAwagQminyzYINjs/LqVI2okNtnotVGMxYUzCR7B3/Teobtf3M/cs9JBYF8ue2+Mn9wuOz/ZTg8jwYO5nsn6ch0KEZ7X/EGo0O0pwaWlQtuAtJYj2BiCTyYBpBl8rMfROVAutdm28UlIfO8rhy996JGW1d/t8KYOv3Vzk68Onvu8UKnzp7EaVi6KKMZkYS9SWuCEmUclxsICxoBFdt/Lau3s+0aEzL//zXoUS9t32HtOkKHPgpep52+RxTfVMsKjI03kWrRMj444UrcIklHwXoe3QvpM9cARIoG99vyx7phUOhvaOvhCgul41fPwh9qt5mdgTkwFb59l93CcqICpCglwARAQABwsBfBBgBCAATBQJb2yA4CRDRG5DVSXiE2wIbDAAAYxMIAIadk0M2GhTxvJs5+XQjHJ+Z/CfsnhdYJqyqSdjppvd7AHZerxPTWHFe0oewUefLCa6ZjgcPKW9+9KNXV4ZvmD+k+Iib4Xi49GTT/Ntz8UJAApeqWNluHV++jS6N+Zk/Nu1uDHowBHzMcUOGJYNfxDl6LPBmtYPZZiC/Pto0LGaHay1ROWPqb+9MW4lsRdi4uSJH2omXgmOcwOEBG5cqvHGLtqvxqPzYO6Y53NNuulb2KWyt5btHxywqMm8DJuy0UZ9IO90ykI3FA4xyfE1ifW3Hm8DB2Bba0aow1BQMGIcDQ4tpE9yE9sNfKLoTTz28kJ5f2cVR0coLZK1oqpTHah4==ZqnW
+-----END PGP PUBLIC KEY BLOCK-----</code></pre>
+  </div>
+
+{{ end }}

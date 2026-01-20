@@ -1,0 +1,141 @@
+.card > h1, h2, h3, {
+  margin-bottom: $spacing-unit / 2;
+}
+
+h2, h3 {
+  font-weight: 400;
+  @media screen and (min-width: $on-phablet) {
+    text-align: left;
+  }
+}
+
+.location > img {
+  height: 1.5em;
+  color: green;
+  width: auto;
+  margin-right: 10px;
+}
+
+.profile {
+  .name {
+    font-size: 20pt;
+  }
+  .birthday {
+    font-style: italic;
+  }
+}
+
+.skills {
+  .name {
+    display: inline;
+    width: 100%;
+  }
+  .level {
+    display: inline;
+    float:right;
+    width: 100px;
+  }
+  .row:not(:first-child) {
+    margin-top: $spacing-unit / 2;
+  }
+  .six:not(:first-child) {
+    margin-top: $spacing-unit / 2;
+    @media screen and (min-width: $on-phablet) {
+      margin-top: 0px;
+    }
+  }
+}
+
+.languages {
+  .row:not(:first-child) {
+    margin-top: $spacing-unit / 2;
+  }
+  .language-name {
+    font-weight: 500;
+  }
+  .level {
+  }
+  .six:not(:first-child) {
+    margin-top: $spacing-unit / 2;
+    @media screen and (min-width: $on-phablet) {
+      margin-top: 0px;
+    }
+  }
+}
+
+.teaching {
+  .row:not(:first-child) {
+    margin-top: $spacing-unit / 2;
+  }
+  .course-name {
+    font-weight: 500;
+  }
+  .period {
+  }
+  .description{
+    
+  }
+  .six:not(:first-child) {
+    margin-top: $spacing-unit / 2;
+    @media screen and (min-width: $on-phablet) {
+      margin-top: 0px;
+    }
+  }
+}
+
+
+.experience {
+  .title, .company {
+    font-size: 20pt;
+    font-weight: bold;
+  }
+  .logo {
+    max-width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .period {
+    text-align: center;
+    @media screen and (min-width: $on-phablet) {
+      text-align: left;
+    }
+  }
+  .seven {
+    margin-top: $spacing-unit / 2;
+  }
+}
+
+.education{
+  padding:10px;
+  h2 {
+    margin-bottom: $spacing-unit / 6;
+  }
+  .field {
+    font-size: 14pt;
+    font-style: italic;
+  }
+  .meta {
+    text-align: center;
+    @media screen and (min-width: $on-phablet) {
+      text-align: left;
+    }
+  }
+  .logo {
+    max-width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.card {
+  padding: $spacing-unit / 2;
+  &:not(:nth-of-type(1)){
+    margin-top: 30px;
+  }
+  &:nth-child(even){
+    background-color: $card-color;
+  }
+  &:nth-child(odd){
+    background-color: none;
+  }
+}

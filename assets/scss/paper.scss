@@ -1,0 +1,137 @@
+.paper {
+
+    counter-increment: h1counter;
+    
+    header {
+        h1 {
+            font-size: 40px;
+        }
+
+        .abstract {
+            h2 {
+                font-weight: 600;
+                margin-top: 50px;
+                font-size: 20px;
+                text-align: center;
+            }
+            p {
+                margin-left: 20px;
+                margin-right: 20px;
+            }
+        }
+
+        .authors {
+            margin-bottom: 20px;
+            .paper-author {
+                padding: 5px;
+                background-color: lighten($blue, 42%);
+            }
+        }
+
+        .published {
+            margin-bottom: 20px;
+        }
+
+        .keywords {
+            margin-bottom: 20px;
+            .paper-keyword {
+                padding: 5px;
+                background-color: lighten($blue, 42%);
+            }
+        }
+
+        .meta {
+            margin-bottom: 40px;
+        }
+    }
+
+    h1, h2, h3, h4, h5 {
+        text-align: left;
+    }
+
+    h1 {
+        font-weight: 500;
+        font-size: 2em;
+    }
+
+    h2 {
+        font-weight: 400;
+        font-size: 1.5em;
+    }
+
+    h3 {
+        font-weight: 300;
+        font-size: 1.25em;
+    }
+
+    p {
+        text-align: justify;
+    }
+
+    figure {
+        figcaption {
+            text-align: justify;
+        }
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    table {
+        border-top: 2px solid black;
+        border-bottom: 2px solid black;
+        margin-top: 20px;
+        margin-bottom: 30px;
+
+        caption {
+        text-align: justify;
+        }
+        th {
+            border-left: none;
+            border-right: none;
+            border-bottom: medium;
+            border-top: thick;
+        }
+        td {
+            border-left: none;
+            border-right: none;
+            border-bottom: medium;
+            border-top: thick;
+        }
+
+        tr:nth-child(even){
+            background: none;
+        }
+
+
+        tbody tr:first-child {
+            td{
+                border-top: 1px solid black;
+            }
+        }
+
+        tbody tr.hline {
+            td{
+                border-top: 1px solid black;
+            }
+        }
+
+    }
+
+    #cost-calculation-table th.rotate-labels {
+            /* Something you can count on */
+            height: 140px;
+            white-space: nowrap;
+          
+           div {
+            transform: 
+              /* Magic Numbers */
+              translate(0px, 45px)
+              /* 45 is really 360 - 45 */
+              rotate(270deg);
+            width: 40px;
+        
+
+        }
+    }
+}
+

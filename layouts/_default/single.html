@@ -1,0 +1,15 @@
+{{ define "head" }}
+{{ with .Params.exclude_from_search }}
+{{ if eq . true }}
+<meta name="robots" content="noindex">
+{{ end }}
+{{ end }}
+{{ end }}
+
+{{ define "title" }}
+{{ .Title }}
+{{ end }}
+
+{{ define "main" }}
+{{ .Content }}
+{{ end }}

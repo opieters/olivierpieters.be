@@ -1,0 +1,188 @@
+personal:
+  name: Olivier Pieters
+  birthday: 10 December 1994
+  location: Ghent, Belgium
+  description: "I am a postdoctoral researcher at Ghent University and ILVO, in collaboration with imec and OnePlanet. I recently obtained my PhD in Computer Science at the same university by investigating the computational aspects of plants. During my bachelor and master programmes, I studied electrical engineering with a special focus on communication and information technology.  I'm passionate about science, technology, photography and languages. A five word description of me would be: enthusiastic, observant, perfectionistic, driven and minimalistic."
+
+experience:
+  -
+    title: Postdoctoral Researcher
+    company: Ghent University
+    from: March 2022
+    to: present
+    location: Ghent
+    description: Expanding the results towards more plant species and trait observations. This researchs builds on the work done in my PhD and is mainly focussed on broadening it. Moreover, we are also collaborating with OnePlanet to scale the system to bigger expeirmental setups. 
+  -
+    title: PhD Researcher
+    company: Ghent University
+    from: September 2017
+    to: February 2022
+    location: Ghent
+    description: Evaluating the computational aspects of plants. This research was promoted by Francis wyffels, Tom De Swaef and Michiel Stock. We provided the first proof-of-concept in situ experimental demonstartion of reservoir computing with a strawberry plant. To achieve these results, we worked with a hyperspectral camera and leaf thickness sensors to observe the plant's state. Moreover, we also developed a new measurement platform for deep phenotyping.
+  -
+    title: Summer Internship
+    company: Newtec
+    from: June 2015
+    to: August 2015
+    location: Sint-Niklaas
+    description: Redesign and analysis (in terms of computational complexity, design complexity and performance) of existing low-pass filters for parallelised operation. These filters were implemented in VHDL and verified using ModelSim simulations and a Python test bench.
+  -
+    title: Summer Internship
+    company: Huawei
+    from: August 2014
+    to: September 2014
+    location: Shenzhen, Guangdong, China
+    description: The Huawei Telecom Seeds for the Future program includes both a cultural and a technical aspect. A Mandarin language training at the University of Geosciences in Beijing and an introduction to Chinese culture and historical landmarks formed the cultural aspect. The technological aspect consisted of a Huawei Training on ICT Technologies & Solutions and work experience at Huawei's Shenzen headquarter.
+skills:
+  -
+    skill: MATLAB
+    level: 5
+  -
+    skill: LaTeX
+    level: 5
+  -
+    skill: Python
+    level: 5
+  -
+    skill: Embedded C
+    level: 4
+  -
+    skill: VHDL
+    level: 4
+  -
+    skill: MS Office
+    level: 4
+  -
+    skill: macOS
+    level: 4
+  -
+    skill: C
+    level: 3
+  -
+    skill: C++
+    level: 3
+  -
+    skill: Linux
+    level: 3
+  -
+    skill: Electrical Engineering
+    level: 3
+  -
+    skill: HTML5
+    level: 3
+  -
+    skill: Programming (general)
+    level: 3
+  -
+    skill: MS Windows
+    level: 3
+  -
+    skill: Shell scripting
+    level: 3
+  -
+    skill: ModelSim
+    level: 2
+  -
+    skill: Ruby on Rails
+    level: 1
+  -
+    skill: BRIO-classic
+    level: 1
+  -
+    skill: Javascript
+    level: 1
+languages:
+  -
+    language: Dutch
+    level: mother tongue
+  -
+    language: English
+    level: full professional proficiency
+  -
+    language: French
+    level: limited working proficiency
+  -
+    language: German
+    level: elementary proficiency
+  -
+    language: Chinese
+    level: elementary proficiency
+education:
+  -
+    degree: Doctor of Computer Science Engineering
+    field: Reservoir Computing with Plants
+    location: Ghent University
+    from: September 2017
+    to: February 2022
+  -
+    degree: Master of Science in Electrical Engineering
+    field: Communication and Information Technology
+    location: Ghent University
+    from: September 2015
+    to: June 2017
+  -
+    degree: Bachelor of Science in Engineering
+    field: Electrical Engineering
+    grade: Magna cum laude
+    location: Ghent University
+    from: September 2012
+    to: June 2015
+  -
+    degree: Language Studies
+    field: Chinese Language
+    location: CVO Handelsschool Aalst
+    from: September 2010
+    to: June 2012
+  -
+    degree: Secondary School
+    field: Science and Mathematics
+    location: SVI Gijzegem
+    grade: Summa cum laude
+    from:  September 2006
+    to: June 2012
+interests:
+  - applied mathematics
+  - applied physics
+  - machine learning
+  - engineering
+  - embdeed systems
+  - electronics
+  - digital photography
+  - gaming
+  - phenotyping
+teaching_experience:
+  - 
+    year: 2017 to 2020
+    course: Digital electronics
+    description: Guiding practicals on VHDL coding in Vivado.
+  - 
+    year: 2017
+    course: Machine Learning
+    description: Correcting student reports.
+  -
+    year: 2017 to 2018
+    course: Mechatronics
+    description: High-level guiding and evaluation student projects.
+  -
+    year: 2018
+    course: Bachelor Project
+    description: Guiding students in the design and construction of a smart growth chamber.
+  -
+    year: 2018
+    course: Electrical Networks
+    description: Design of a low-pass sensor project for the students and mentoring them.
+  -
+    year: 2019
+    course: Digital Signal Processing
+    description: Design of a LIA-based sensor project for the students and mentoring them.
+  -
+    year: 2021
+    course: Hardware Design Project
+    description: Mentoring students in the design and realisation of a soft robot finger with embedded sensing.
+thesis_students:
+  -
+    name: Arthur Van de Velde
+    title: A Universal Model for Detecting Stomata in Plants
+  -
+    name: George Latmos
+    title: Non-intrusive Plant Measurements Using a LIA-based Laser Transciever

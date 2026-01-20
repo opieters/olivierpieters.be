@@ -1,0 +1,31 @@
+{{ define "head" }}
+<meta name="robots" content="noindex">
+{{ end }}
+
+{{ define "title" }}
+  {{ .Title }}
+{{ end }}
+
+{{ define "main" }}
+    <h1>{{ .Title }}</h1>
+
+    <p>Search for a specific blog post on this website.</p>
+
+    <div class="center-element">
+        <input type="text" id="search" placeholder="Search" autocomplete="off" class="search-box">
+    </div>
+
+    <div class="invisible-divider"></div>
+
+    <div id="results" class="search-results">
+    </div>
+{{ end }}
+
+
+{{ define "post_footer" }}
+
+{{ $lunr := resources.Get "vendor/node_modules/lunr/lunr.js" }}
+{{ $search := resources.Get "js/search.js" }}
+{{ $searchJS := slice $lunr $search | resources.Concat "js/gloabl_search.js" }}
+<script src="{{ $searchJS.Permalink }}" integrity="{{ $searchJS.Data.Integrity }}"></script>
+{{ end }}

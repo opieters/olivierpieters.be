@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg2"
+   version="1.1"
+   viewBox="0 0 203 203">
+  <g
+     fill-rule="evenodd"
+     fill="none"
+     stroke-width="1"
+     stroke="none"
+     id="not-OK">
+    <circle
+       fill="#F05524"
+       r="101.5"
+       cy="101.5"
+       cx="101.5"
+       id="Oval" />
+    <rect
+       rx="19"
+       height="139"
+       width="31"
+       y="32"
+       x="86"
+       transform="translate(101.500000, 101.500000) rotate(-45.000000) translate(-101.500000, -101.500000) "
+       fill="#FFFFFF"
+       id="Stroke2" />
+    <rect
+       style="fill:#ffffff"
+       rx="19"
+       height="139"
+       width="31"
+       y="-69.5"
+       x="128.04268"
+       transform="matrix(0.70710678,0.70710678,0.70710678,-0.70710678,0,0)"
+       id="Stroke1" />
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+{{ range (where .Site.Data.reading_list ".year" (int (.Get 0))) }}
+    <ul class="book-list">
+        {{ range .books }}
+            <li>
+                <span class="book-title">{{ .title }}</span> – <span class="book-author">{{ .author }}</span>
+            </li>
+        {{ end }}
+    </ul>
+{{ end }}
+

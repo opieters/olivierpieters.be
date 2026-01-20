@@ -1,0 +1,23 @@
+{{ define "main" }}
+    <h1>Photography</h1>  
+    <div class="gallery-overview" > 
+    {{ $n_galleries := (len .Pages) | sub 1 }}
+    {{ $pages := .Pages.ByDate.Reverse }}
+    {{ range $idx, $page := $pages }}
+        {{ if eq (mod $idx 2) 0 }}
+        <div class="row">
+        {{ end }}
+            <div class="six columns">
+                <h2>{{ .Title }}</h2>  
+                <a href="{{ .Permalink }}" >  
+                <img alt="{{ .Title }}" src="https://olivierpieters.be/images/{{ .Params.thumbnail }}" /> </a>
+            </div>
+        {{ if eq (mod $idx 2) 1 }}
+        </div>
+        {{ end }}
+    {{ end }}
+    {{ if eq (mod $n_galleries 2) 0 }}
+    </div>
+    {{ end }}
+    </div>
+{{ end }}

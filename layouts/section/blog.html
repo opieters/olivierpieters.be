@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+{{ $paginator := .Paginate .Data.Pages 10 }}
+
+<ul class="post-list">
+    {{ range $paginator.Pages }}
+    <li>
+        {{ partial "post_summary.html" . }}
+    </li>
+    {{ end }}
+</ul>
+
+<!-- Pagination links -->
+<div class="pagination centre-element">
+    {{ if $paginator.HasPrev }} 
+    <a href="{{ $paginator.Prev.URL }}"><span class="previous button-active">&#10094;</span></a>
+    {{ else }}
+    <span class="previous button-inactive">&#10094;</span>
+    {{ end }}
+    <span class="page_number button-inactive">{{ $paginator.PageNumber }}/{{ $paginator.TotalPages }}</span>
+    {{ if $paginator.HasNext }}
+    <a href="{{ $paginator.Next.URL }}"><span class="next button-active">&#10095;</span></a>
+    {{ else }}
+    <span class="next button-inactive">&#10095;</span>
+    {{ end }}
+</div>
+
+{{ end }}

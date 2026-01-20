@@ -1,0 +1,46 @@
+baseURL: "https://olivierpieters.be/"
+#languageCode: "en-gb"
+title: "Olivier Pieters"
+
+metaDataFormat: "yaml"
+
+#uglyurls: true
+#enableRobotsTXT: true
+#canonifyURLs:               false
+
+#PygmentsStyle: "monokai"
+#pygmentsuseclasses: true
+
+params:
+  description: "Olivier Pieters' personal website and blog."
+  author: "Olivier Pieters"
+  twitter: OlivierPieters
+  linkedin: opieters
+  keybase: opieters
+  github: opieters
+  analytics: false
+  integrity: false
+
+
+ignorefiles: ["/content/research/gloxinia/original-tex/*"]
+
+permalinks:
+  blog: "/blog/:year/:month/:day/:slug/"
+  project: /projects/:title
+
+pygmentsUseClasses: true
+
+taxonomies:
+  tag: tags
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+blackfriday:
+#  angledQuotes: false
+  fractions: false
+#  plainIDAnchors: true
+  #extensions:
+  #  - hardLineBreak

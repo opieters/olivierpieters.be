@@ -1,0 +1,1723 @@
+layers:
+  -
+    title: "South Wales"
+    colour: "#f0f"
+    items:
+      -
+        title: Chepstow Castle
+        link: http://cadw.gov.wales/daysout/chepstow-castle/?lang=en
+        description: "Chepstow Castle (Welsh: Cas-gwent) at Chepstow, Monmouthshire, Wales, is the oldest surviving post-Roman stone fortification in Britain. Located above cliffs on the River Wye, construction began in 1067 under the instruction of the Norman Lord William fitzOsbern. Originally known as Striguil, it was the southernmost of a chain of castles built in the Welsh Marches, and with its attached lordship took the name of the adjoining market town in about the 14th century."
+        location:
+          latitude: 51.64404
+          longitude: -2.67518
+        icon: monument
+      -
+        title: Tintern Abbey
+        description: "Tintern Abbey was founded by Walter de Clare, Lord of Chepstow, on 9 May 1131. It is situated adjacent to the village of Tintern in Monmouthshire, on the Welsh bank of the River Wye, which forms the border between Monmouthshire in Wales and Gloucestershire in England. It was only the second Cistercian foundation in Britain, and the first in Wales. Falling into ruin after the Dissolution of the Monasteries in the 16th century, the remains were celebrated in poetry and often painted by visitors from the 18th century onwards. In 1984 Cadw took over responsibility for the site."
+        link: http://cadw.gov.wales/daysout/tinternabbey/?lang=en
+        location:
+          latitude: 51.69686
+          longitude: -2.67702
+        icon: religious-christian
+      -
+        title: The Inn At Penallt
+        description: "The Inn at Penallt is a 17th Century traditional country Inn located in the Wye Valley with spectacular views of the Forest of Dean.
+        The Inn was acquired by Chris & Bronwyn Boston in January 2016 after they realised that the Inn was an exceptional destination venue. The Inn had already secured a fantastic reputation as a ‘foodie retreat’ and we see huge potential to build on and expand the Inn’s offerings."
+        link: "http://www.theinnatpenallt.co.uk"
+        location:
+          latitude: 51.77912
+          longitude: -2.69393
+        icon: restaurant
+      -
+        title: Dewstow Gardens
+        description: "Dewstow House, Caldicot, Monmouthshire, Wales, is a Grade II listed building[1] notable for its network of very rare and unusual underground gardens constructed in the late nineteenth and early twentieth centuries.
+
+        The house is a simple three-bay villa with extensive views over the Severn Estuary.
+
+        Within the grounds lie one of the most extraordinary gardens in Britain, a network of underground passages and top-light chambers with artificial rock-work and stalactities. The garden structures have three separate Grade II* listings as a result of their importance. The gardens have been rediscovered, excavated and restored at the beginning of the twentyfirst century and are now open to the public."
+        link: "http://www.dewstowgardens.co.uk"
+        location:
+          latitude: 51.59175
+          longitude: -2.76211
+        icon: garden
+      -
+        title: Usk
+        description: "Usk (Welsh: Brynbuga) is a small town in Monmouthshire, south-east Wales, situated 10 miles (16 km) northeast of Newport.
+
+        Town of Usk and River from Llanbadoc Rock; 1860.
+
+        Front page of the earliest surviving copy of the Welsh newspaper The Illustrated Usk Observer; 7 July 1855
+        It is located on the River Usk, which is spanned by an arched stone bridge at the western entrance to the town. A castle above the town overlooks the ancient crossing point. It developed as a small market town, with some industry including the making of Japanware, and a notable prison. In recent years Usk has become known for its history of success in Britain in Bloom competitions, winning the Large Village award in 2005. The resident population of the town in 2001 was 2,318,[1] increasing to 2,834 at the 2011 census."
+        link: "https://en.wikipedia.org/wiki/Usk"
+        location:
+          latitude: 51.70353
+          longitude: -2.9034
+        icon: town-hall
+      -
+        title: The Celtic Manor Resort
+        link: "http://www.celtic-manor.com"
+        description: "Celtic Manor Resort is a golf, spa and leisure hotel and resort in Newport, South East Wales. It consists of two adjoining hotels, a country inn, luxury lodges, two spas, 6 restaurants, three championship golf courses, two golf and country clubs, high ropes courses, adventure golf, laser tag, archery and a multi-purpose conference centre. It was the venue for the 2010 Ryder Cup, the first to be held in Wales, and hosted the 2014 NATO summit."
+        location:
+          latitude: 51.6022
+          longitude: -2.93138
+        icon: golf
+      -
+        title: Caerleon Roman Fortress
+        link: http://cadw.gov.wales/daysout/Caerleon-roman-fortress-baths/?lang=en
+        description: "Caerleon was one of only three permanent fortresses in Roman Britain known as Isca to the Romans, the fortress itself was a playing-card shape, covering 50 acres of land in which the Museum now lies.
+
+        Just a few minutes walk from the galleries takes you to the most complete Amphitheatre in Britain, beautifully presented Fortress Baths, and the only remains of a Roman Legionary Barracks on view anywhere in Europe."
+        location:
+          latitude: 51.61015
+          longitude: -2.95401
+        icon: monument
+      -
+        title: Newport Transporter Bridge
+        description: "The Newport Transporter Bridge (Welsh: Pont Gludo Casnewydd) is a transporter bridge that crosses the River Usk in Newport, South East Wales. The bridge is the lowest crossing on the River Usk. It is a Grade I listed structure. The transporter bridge is very rare, with only eight out of a total of 20 built, remaining in use worldwide."
+        link: "http://www.visitmonmouthshire.com/thedms.aspx?dms=3&feature=2&venue=1121087"
+        location:
+          latitude: 51.57113
+          longitude: -2.98724
+        icon: monument
+      -
+        title: Belle Vue Park
+        description: "Belle Vue Park is a large Victorian public park in the west side of the city of Newport in South Wales. It was awarded a prestigious Green Flag Award on July 17, 2008."
+        link: "https://en.wikipedia.org/wiki/Belle_Vue_Park"
+        location:
+          latitude: 51.5786
+          longitude: -3.00299
+        icon: park
+      -
+        title: Tredegar House
+        description: "Tredegar House (Welsh: Tŷ Tredegar) is a 17th-century Charles II-era country house mansion in Coedkernew, at the western edge of the city of Newport, Wales. For over five hundred years it was home to the Morgan family, later Lords Tredegar; one of the most powerful and influential families in the area. Described as \"The grandest and most exuberant country house\" in Monmouthshire and one of the \"outstanding houses of the Restoration period in the whole of Britain\" the mansion stands in a reduced landscaped garden of 90 acres (0.36 km2) (0.14 of a square mile) forming the non-residential part of Tredegar Park. The property became a Grade I listed building on 3 March 1952 and has been under the care of the National Trust since March 2012."
+        link: "https://www.nationaltrust.org.uk/tredegar-house"
+        location:
+          latitude: 51.5616
+          longitude: -3.0281
+        icon: monument
+      -
+        title: Cardiff Castle
+        link: "http://www.cardiffcastle.com"
+        description: "Cardiff Castle (Welsh: Castell Caerdydd) is a medieval castle and Victorian Gothic revival mansion located in the city centre of Cardiff, Wales. The original motte and bailey castle was built in the late 11th century by Norman invaders on top of a 3rd-century Roman fort. The castle was commissioned by either William the Conqueror or by Robert Fitzhamon, and formed the heart of the medieval town of Cardiff and the Marcher Lord territory of Glamorgan. In the 12th century the castle began to be rebuilt in stone, probably by Robert of Gloucester, with a shell keep and substantial defensive walls being erected. Further work was conducted by Richard de Clare, 6th Earl of Gloucester in the second half of the 13th century. Cardiff Castle was repeatedly involved in the conflicts between the Anglo-Normans and the Welsh, being attacked several times in the 12th century, and stormed in 1404 during the revolt of Owain Glyndŵr."
+        location:
+          latitude: 51.48223
+          longitude: -3.18117
+        icon: monument
+      -
+        title: Llantwit Major
+        description: "Llantwit Major (Welsh: Llanilltud Fawr) is a small coastal town and community in the Vale of Glamorgan, Wales, lying on the Bristol Channel coast. It is one of four towns in the Vale of Glamorgan and the third largest by population (13,366 (2001)) after Barry and Penarth, and ahead of Cowbridge, which lies about 4.5 miles (7.2 km) to the northeast. The town centre of Llantwit Major lies about 9 miles (14 km) southeast of the centre of Bridgend, 10 miles (16 km) west of the centre of Barry, and about 15 miles (24 km) miles south-west of the centre of the Welsh capital of Cardiff."
+        location:
+          latitude: 51.40925
+          longitude: -3.48524
+        link: "http://llantwitmajorguide.co.uk"
+        icon: town-hall
+      -
+        title: Glamorgan Heritage Coast
+        link: "http://www.visitwales.com/things-to-do/activities/walking-hiking/historical-walks/scenic-glamorgan-coast"
+        icon: golf
+        description: "Be captivated on this 9-mile Glamorgan Heritage Coast trail. Forming a section of the Wales Coast Path, its cliffs, nature reserves and ancient churches offer spectacular sights along the way."
+        location:
+          latitude: 51.40177
+          longitude: -3.52911
+      -
+        title: Nash Point Lighthouse
+        description: "Nash Point Lighthouse is an iconic 19th century, grade 2 listed, historic building. It is a major part of our social and maritime history and was the last manned lighthouse in Wales, being de-manned in August 1998, just a month, or so, before the last manned lighthouse in the U.K. (North Foreland in Kent) was switched over to automatic operation."
+        link: "http://nashpoint.co.uk"
+        location:
+          latitude: 51.40087
+          longitude: -3.55226
+        icon: lighthouse
+      -
+        title: Dunraven Bay
+        description: "This beach is a great place to fossil hunt and has some of the best rock pools along the coast, has a great sandy beach, large car –park and visitor facilities."
+        link: "http://www.valeofglamorgan.gov.uk/en/enjoying/visit_the_vale/Heritage-Coast/Dunraven-Bay.aspx"
+        location:
+          latitude: 51.44454
+          longitude: -3.60793
+        icon: water
+      -
+        title: Ogmore Castle
+        link: "http://cadw.gov.wales/daysout/ogmorecastle/?lang=en"
+        description: Substantial remains of a Norman stone-built castle, raised by the de Londres family. The initial earthwork castle was established by William de Londres, soon after 1100.
+        location:
+          latitude: 51.48064
+          longitude: -3.61151
+        icon: monument
+      -
+        title: Merthyr Mawr
+        link: "http://www.first-nature.com/waleswildlife/e-nnr-merthyr-mawr.php"
+        description: "This lovely sand dune nature reserve was once joined to Kenfig National Nature Reserve, and a continuous belt of sand and dune systems ran all the way along the coast from the Ogmore estuary as far west as the Gower Peninsula. Although there are interruptions to the sandy beaches these days, we are lucky in Wales to still have some large and relatively unspoilt coastal and sand dune habitats which are home to many fascinating plants, insects and birds."
+        location:
+          latitude: 51.48535
+          longitude: -3.60816
+        icon: park
+      -
+        title: Coity Castle
+        link: "http://cadw.gov.wales/daysout/coitycastle/?lang=en"
+        description: "Coity Castle in Glamorgan, Wales is a Norman castle built by Sir Payn 'the Demon' de Turberville (fl. 1126), one of the legendary Twelve Knights of Glamorgan supposed to have conquered Glamorgan under the leadership of Robert FitzHamon (d.1107), Lord of Gloucester. Now in ruins, it stands in the Community of Coity Higher near the town of Bridgend, in the County Borough of Bridgend. Very close to the castle is the battlemented parish church of St Mary the Virgin, dating from the 14th century."
+        location:
+          latitude: 51.52202
+          longitude: -3.55318
+        icon: monument
+  -
+    title: "Mid Wales"
+    colour: "#0ff"
+    items:
+      -
+        title: Carreg Cennen Castle
+        link: "https://carregcennencastle.com"
+        description: "Carreg Cennen Castle (Welsh: Castell Carreg Cennen meaning castle (on the) rock (above the) Cennen) is a castle near the River Cennen, in the village of Trap, four miles south of Llandeilo in Carmarthenshire, Wales. The castle is within the Brecon Beacons National Park, and its location has been described as spectacular, due to its position above a limestone precipice. It has been in a ruinous state since 1462 and is now in the care of Cadw, the Welsh Government historic environment service.
+
+        Carreg Cennen is a haunting, atmospheric castle that appears to spring out of legend and fairytale."
+        location:
+          latitude: 51.85438
+          longitude: -3.93564
+        icon: monument
+      -
+        title: Penderyn Distillery Visitor Centre
+        link: http://www.welsh-whisky.co.uk/The-Distillery/Visitor-Centre.aspx
+        description: "Penderyn Single Malt Whisky was launched by His Royal Highness Prince Charles, The Prince of Wales, on 1st March 2004 at St. David’s Hall in Cardiff. Since then, Penderyn Single Malt Whisky has experienced considerable success. It is now found on the shelves of both supermarkets and specialist whisky shops throughout the UK and is distributed to 16 countries, including 28 US states. Penderyn Single Malt Whisky has also won high critical acclaim and a number of prestigious international whisky awards and medals, and is now considered one of the world's finest premium whiskies."
+        location:
+          latitude: 51.76369
+          longitude: -3.52127
+        icon: beer
+      -
+        title: Cyfarthfa Castle Museum and Art Gallery
+        link: http://www.visitmerthyr.co.uk/attractions/cyfarthfa-park-museum.aspx
+        description: "Built in 1824, Cyfarthfa Castle Museum and Art Gallery - described as the most impressive monument of the Industrial Iron Age in South Wales - was once home to Ironmaster William Crawshay II and his family.  It serves as a reminder to the Ironmaster's dominance over the town and the wealth the iron industry brought to the area."
+        location:
+          latitude: 51.75732
+          longitude: -3.3888
+        icon: monument
+      -
+        title: Blaenavon World Heritage Centre
+        link: http://www.visitblaenavon.co.uk/en/Homepage.aspx
+        description: "Blaenavon (Welsh: Blaenafon) is a town in south eastern Wales, lying at the source of the Afon Lwyd north of Pontypool, within the boundaries of the historic county of Monmouthshire and the preserved county of Gwent. The town lies high on a hillside and has a population of 6,055. Blaenavon literally means 'front of the river' or loosely 'river's source' in the Welsh language. Parts of the town and surrounding country form the Blaenavon Industrial Landscape, inscribed as a World Heritage Site by UNESCO in 2000."
+        location:
+          latitude: 51.77308
+          longitude: -3.08741
+        icon: town-hall
+      -
+        title: Blaenavon Ironworks
+        link: http://cadw.gov.wales/daysout/blaenavonironworks/?lang=en
+        description: "Blaenavon Ironworks is a former industrial site which is now a museum in Blaenavon in Wales. The ironworks was of crucial importance in the development of the ability to use cheap, low quality, high sulphur iron ores worldwide. It was the site of the experiments by Sidney Gilchrist Thomas and his cousin Percy Gilchrist that led to 'the basic steel process' or 'Gilchrist-Thomas process'."
+        location:
+          latitude: 51.77627
+          longitude: -3.08921
+        icon: industrial
+      -
+        title: Black Mountains
+        description: "The Black Mountains (Welsh: Y Mynyddoedd Duon) are a group of hills spread across parts of Powys and Monmouthshire in southeast Wales, and extending across the England–Wales border into Herefordshire. They are the easternmost of the four ranges of hills that comprise the Brecon Beacons National Park, and are frequently confused with the westernmost, which is known as the Black Mountain. The Black Mountains may be roughly defined as those hills contained within a triangle defined by the towns of Abergavenny in the southeast, Hay-on-Wye in the north and the village of Llangors in the west. Other 'gateway' towns to the Black Mountains include Talgarth and Crickhowell. The range of hills is well known to walkers and ramblers for the ease of access and views from the many ridge trails, such as that on the Black Hill (Herefordshire) at the eastern edge of the massif."
+        link: https://en.wikipedia.org/wiki/Black_Mountains,_Wales
+        location:
+          latitude: 51.89111
+          longitude: -3.12713
+        icon: triangle-stroked
+      -
+        title: Offa's Dyke Centre
+        description: "The Centre, opened in 1999, forms the focus for activities based on the 8th Century earthwork built by Offa, the King of Mercia. The dyke follows the Welsh English border from the hills above Prestatyn to the Severn Estuary near Chepstow. With its free exhibition and car park, the Centre caters for the needs of a wide range of visitors, from those taking toddlers to play in the surrounding park and play area, to those exploring the border area by car, cycle or on foot, to education groups studying the history of the area, and particularly that of Offa's Dyke. There is something here for everyone."
+        link: http://www.offasdyke.demon.co.uk/odc.htm
+        location:
+          latitude: 52.34592
+          longitude: -3.05177
+        icon: museum
+      -
+        title: Drygarn Fawr
+        description: "Drygarn Fawr is a mountain in the county of Powys, Wales. It is one of the highest summits in Mid Wales standing at 645 metres above sea level. Rising above the remote moorland plateau of the Cambrian Mountains, the summit is topped by two distinctive, large cairns. The mountain has a gentle, grassy, conical shape with a few rocks near the summit. Nearby are the summits of Gorllwyn and Y Gamriw, both over 600m."
+        link: http://www.walkhighlands.co.uk/hewitts/drygarn-fawr
+        location:
+          latitude: 52.21213
+          longitude: -3.66565
+        icon: triangle-stroked
+      -
+        title: Strata Florida Abbey
+        description: "Strata Florida Abbey (Welsh: Abaty Ystrad Fflur) (About this sound pronunciation (help·info)) is a former Cistercian abbey situated just outside Pontrhydfendigaid, near Tregaron in the county of Ceredigion, Wales. The abbey was originally founded in 1164. 'Strata Florida' is a latinisation of the Welsh Ystrad Fflur; 'Valley of Flowers'. The Welsh word Ystrad is synonymous with 'Strath' and 'Dale', while Fflur ('Flower') is also the name of the nearby river. After the region around St. David's was firmly occupied by the Norman Marcher lordship of Pembroke by the early 12th century, with St. David's firmly under Norman influence thereafter, the princely Dinefwr family of Deheubarth transferred their patronage to Strata Florida, interring many of their family members there."
+        link: http://cadw.gov.wales/daysout/strata-florida-abbey/?lang=en
+        location:
+          latitude: 52.27537
+          longitude: -3.83852
+        icon: religious-christian
+      -
+        title: Monmouthshire and Brecon Canal
+        link: https://canalrivertrust.org.uk/enjoy-the-waterways/canal-and-river-network/monmouthshire-and-brecon-canal
+        description: "Meandering through the Welsh countryside the isolated Monmouthshire & Brecon Canal is the most popular attraction in the stunning Brecon Beacons National Park.
+
+        It is one of our most beautiful and peaceful waterways following the line of the lovely wooded Usk Valley, it is a true hidden gem. The navigable section of the canal runs for 35 miles from Brecon to the Pontymoile basin.
+
+        Its location makes it a haven for wildlife and a favourite with nature-lovers, walkers and cyclists. The northern section forms part of the Taff Trail Long Distance Footpath, a 55 mile route that can be walked or cycled that starts at Brecon Basin and ends in Cardiff"
+        location:
+          latitude: 51.827071
+          longitude: -3.102571
+        icon: water
+      -
+        title: Llangorse Lake
+        description: "Llangorse Lake is the largest natural lake in the southern half of
+        Wales and was created by glaciers during the last Ice Age.
+
+        The lake is fed by water running off the surrounding hills and is home to a diverse range of plants and animals. The lake is also home to a 9th Century artificial island, known as the Crannog which has a small accessible visitor centre in the style of a thatched, round house."
+        link: http://www.breconbeacons.org/itineraries/brecon-llangorse-lake
+        location:
+          latitude: 51.930782
+          longitude: -3.262495
+        icon: water
+      -
+        title: Big Pit - National Coal Museum
+        description: Discover Wales's rich mining heritage in this amazing award-winning interactive museum complete with underground tour. Experience the sights, sounds, smells and atmosphere of an authentic coal mine.
+        link: http://www.breconbeacons.org/businesses/2672
+        location:
+          latitude: 51.772823
+          longitude: -3.105132
+        icon: museum
+      -
+        title: "Llanthony Priory"
+        description: The beautiful and evocative ruins of Llanthony Priory are situated in the picturesque Vale of Ewyas, close to the Black Mountains. These haunting remains are all that survives of one of the greatest buildings of medieval Wales.
+        link: http://www.breconbeacons.org/llanthony-priory
+        icon: monument
+        location:
+          latitude: 51.944615
+          longitude: -3.036924
+      -
+        title: "Elan Valley"
+        description: "The Elan Valley (Welsh: Cwm Elan) is a river valley situated to the west of Rhayader, in Powys, Wales, sometimes known as the 'Welsh Lake District'. It covers 70 square miles (180 km2) of lake and countryside.
+
+        The valley contains the Elan Valley Reservoirs and Elan Village, designed by architect Herbert Tudor Buckland as part of the same scheme. Elan Village is the only purpose-built Arts and Crafts 'Model Village' in Wales."
+        link: https://en.wikipedia.org/wiki/Elan_Valley
+        location:
+          latitude: 52.262222
+          longitude: -3.588611
+        icon: park
+      -
+        title: "National Showcaves of Wales"
+        link: http://www.showcaves.co.uk
+        description: "There are ten attractions all included in the one entry ticket, and there is plenty to see and do for all ages.
+
+        The 3 different caves Dan-yr-Ogof, Cathedral Cave and Bone Cave each offer a unique underground experience. In Dan-yr-Ogof you walk through the beautifully decorated passageways for just under 1 kilometre; in Cathedral Cave you walk through its enormous caverns, carved out millions of years ago, and at the end of this cave experience the excitement of walking behind the 40 feet high waterfalls that cascade around you in the ‘Dome of St Paul’s’, an atmospheric end to a truly wonderful cave; and in Bone Cave learn why 42 human skeletons were buried here, and how our ancestors used caves all those years ago."
+        location:
+          latitude: 51.831229
+          longitude: -3.686938
+        icon: museum
+      -
+        title: White Castle
+        description: "White Castle, which started life as a simple earthwork stronghold soon after the Norman Conquest, was rebuilt in stone in the later 12th and 13th centuries. Granted to Hubert de Burgh by King John in 1201, the castle convincingly conjures up a romantic vision of the Middle Ages. There is a large and now grassy outer ward enclosed by walls and towers, but it is the self-contained and well-preserved inner ward that captures the imagination. Powerful round towers and high curtain walls, built on a steep earth mound encircled by a deep, water-filled moat, guard the heart of the castle."
+        link: http://www.cadw.wales.gov.uk/daysout/whitecastle/?lang=en
+        location:
+          latitude: 51.845948
+          longitude: -2.901819
+        icon: monument
+      -
+        title: Brecon Mountain Railway
+        description: "Travel in one of our all-weather observation coaches behind a vintage steam locomotive through beautiful scenery into the Brecon Beacons National Park along the full length of the Taf Fechan Reservoir to Torpantau, high in the Brecon Beacons - on one of the most popular railways in Wales."
+        link: http://www.breconmountainrailway.co.uk/
+        location:
+          latitude: 51.778166
+          longitude: -3.364745
+        icon: rail
+      -
+        title: "Pen y Fan"
+        description: "Pen y Fan /pɛn.ə.ˈvæn/ is the highest peak in south Wales, situated in the Brecon Beacons National Park. At 886 metres (2,907 ft) above sea-level, it is also the highest British peak south of Cadair Idris in Snowdonia. The twin summits of Pen y Fan and Corn Du at 873 m (2,864 ft) were formerly referred to as Cadair Arthur or 'Arthur's Seat'."
+        link: http://www.visitwales.com/things-to-do/activities/walking-hiking/mid-wales/four-ways-to-walk-up-pen-y-fan
+        location:
+          latitude: 51.884095
+          longitude: -3.436695
+        icon: golf
+      -
+        title: "Mountain biking - Brecon Beacons"
+        link: http://www.breconbeacons.org/mountain-biking
+        description: "The Brecon Beacons has some of the very best terrain in Wales for mountain biking. Whatever type of riding you're looking for – fast descents, skills sessions or gentle off-road trails – you'll find a location to suit. Just don’t forget to take in the breathtaking scenery. [Hire a mountain bike](http://www.drovercycles.co.uk/bike-hire/)."
+        icon: bicycle
+        location:
+          latitude: 51.881472
+          longitude: -3.443590
+  -
+    title: "North Wales"
+    colour: "#bbb"
+    items:
+      -
+        title: Llywernog Silver-Lead Mine
+        link: http://www.silverminetours.co.uk
+        description: "This 18th Century silver-lead mine was saved from dereliction in 1973 and opened within a 7-acre Discovery Park in the Heart of the beautiful Cambrian Mountains.
+
+        The award-wining Heritage trail has an underground tour, working water wheels, machinery and tramways and a panning shed for you to work the mine material for minerals. The ‘Miners Trail’ is the name given to the self-guided footpath linking natural and man-made features of the Mine. The guided underground tour has only 8 steps so everyone can easily go beyond the ‘Earthquake Zone’ to the Great Chasm where the ‘Captain’s Tale’ unfolds. It is a fun, all-weather attraction with colourful indoor exhibitions and the best collection of silver-lead mining artefacts in Wales."
+        location:
+          latitude: 52.40995
+          longitude: -3.86444
+        icon: industrial
+      -
+        title: Vale of Rheidol Railway
+        link: http://www.rheidolrailway.co.uk
+        description: "The Vale of Rheidol Railway (Welsh: Rheilffordd Cwm Rheidol) is a 1 ft 11 3⁄4 in (603 mm) narrow gauge heritage railway, opened in 1902, that runs for 11 3⁄4 miles (18.9 km) between Aberystwyth and Devil's Bridge in the county of Ceredigion, Wales.[1]
+
+        From 1968 until 1989, when it was the first part of British Rail to be privatised, it was the sole steam-operated line on the nationalised British Rail network.
+
+        Unlike most other preserved railways in the United Kingdom, the Vale of Rheidol Railway did not have a period of closure between its operation as part of the national rail system and becoming a heritage railway, and has operated a service for tourists throughout its life."
+        location:
+          latitude: 52.41112
+          longitude: -4.07911
+        icon: rail
+      -
+        title: RSPB Ynys-hir
+        description: "s always at RSPB reserves the birds put on a splendid show, thanks to the excellent reserve management. Bird watching starts in the car park with a host of birds at the different sections of the bird feeding station.
+
+        Finches, tits, woodpeckers and nuthatch can all take their fill - and in winter will almost clear out the feeder in the time it takes you to walk round the reserve. Grey squirrels inevitably get a meal out of it as well!
+
+        The range of habitats ensures variety and the trails provide a delightful walk even if you come during summer afternoons when birds are least in evidence. The oakwoods support all the characteristic birds of broadleaved woodland including pied flycatcher, redstart, wood warbler and both great and lesser spotted woodpeckers. The too often despised conifers are preferred by goldcrests and coal tits and in winter attract crossbills.
+
+        On the river look out for red-breasted merganser, a fish-eating duck with a toothed beak to ensure its catch does not escape. Common sandpiper frequent the river margins. In winter a small flock of Greenland white-fronted geese visit the marsh. They can be seen from the observation hides."
+        link: https://www.rspb.org.uk/discoverandenjoynature/seenature/reserves/guide/y/ynys-hir/
+        location:
+          latitude: 52.54672
+          longitude: -3.94515
+        icon: park
+      -
+        title: Aberdyfi
+        description: "Aberdyfi (English: Mouth of the River Dyfi), or Aberdovey (the Anglicised spelling is still in common use) is a village and community on the north side of the estuary of the River Dyfi in Gwynedd, on the west coast of Wales.
+
+        The village was founded around the harbour and shipbuilding industry, but is now best known as a seaside resort with a high quality beach. The town centre is on the river and seafront, around the original harbour, jetty and beach but it stretches back from the coast and up the steep hillside in the midst of typical Welsh coastal scenery of steep green hills and sheep farms. Penhelig, with its own railway station, is the eastern part of the town.
+
+        Aberdyfi is a popular tourist attraction, with many returning holidaymakers, especially from the metropolitan areas of England, such as the West Midlands, which is less than 100 miles to the east. A relatively large proportion of houses in the village are now holiday homes, resulting in high house prices. The town is located within the Snowdonia National Park. In the 2011 census, 38.5% of the population of Aberdyfi ward identified themselves as Welsh (or combined)."
+        link: http://www.aberdyfi.com
+        location:
+          latitude: 52.54396
+          longitude: -4.04609
+        icon: town-hall
+      -
+        title: Tywyn
+        description: "Tywyn (/ˈtaʊ.ɪn/; Welsh: [ˈtəʊ.ᵻn]), formerly Towyn,[1] is a town and seaside resort on the Cardigan Bay coast of southern Gwynedd, Wales. It was previously in the historic county of Merionethshire. It is famous as the location of the Cadfan Stone, a stone cross with the earliest known example of written Welsh, and the home of the Talyllyn Railway.
+
+        Popular attractions are: Tywyn beach, Grandmas Sweet shop, Corbett Square and Halo Factory Shop"
+        link: https://visit-tywyn.co.uk
+        location:
+          latitude: 52.587
+          longitude: -4.08724
+        icon: town-hall
+      -
+        title: Corris Craft Centre
+        description: "At Corris Craft Centre you’ll find a great collection of shops, attractions and activities to keep the whole family entertained for hours. There's free parking and free WIFI available in the café too.
+
+        Situated in Southern Snowdonia in Mid Wales the Corris Craft Centre boasts 9 individual Craft Studios – which are octagonal shaped pods bursting with creativity – where you can meet the talented designer-makers and buy their handmade items. Perfect for finding a special something, inspired by, and handmade in Wales. There’s lots of opportunities for hands-on fun too, a surprisingly great way to unwind and have some fun with your own clever creations to take home."
+        link: http://www.corriscraftcentre.co.uk/
+        location:
+          latitude: 52.65458
+          longitude: -3.85039
+        icon: marker
+      -
+        title: Fairbourne Railway
+        link: http://www.fairbournerailway.com/
+        description: "The Fairbourne Railway (Welsh: Rheilffordd y Friog) is a 12 1⁄4 in (311 mm) gauge railway running for 2 miles (3.2 km) from the village of Fairbourne on the Mid-Wales coast, alongside the beach to the end of a peninsula at Barmouth Ferry railway station, where there is a connection with the Barmouth Ferry across the Mawddach estuary to the seaside resort of Barmouth (Welsh: Abermaw)."
+        location:
+          latitude: 52.69568
+          longitude: -4.05034
+        icon: rail
+      -
+        title: Pony Path, Tŷ Nant, Cader Idris
+        description: "The Pony Path from Ty Nant is the main footpath up Cader Idris from the Dolgellau side of the mountain. It is a reasonably safe route, which also offers the most rewarding views.
+
+        The Fox’s Path rises from the Gwernan hotel. This path requires walkers to walk along a very steep and loose scree slope above Llyn y Gader in order to reach the summit. Extreme care is needed when undertaking this path, especially when it's windy, wet or when the stones are covered with ice and snow. Descending this path requires very good physical fitness and we do not recommend anyone who are not experienced on these kinds of terrain to choose this path."
+        location:
+          latitude: 52.7235
+          longitude: -3.92478
+        link: http://www.eryri-npa.gov.uk/visiting/walking/mountain-walks/pony-path-ty-nant
+        icon: golf
+      -
+        title: Clogau, Bontddu
+        description: "The walk takes you up to the old Clogau gold mines where there are lovely views of the mountains of Southern Snowdonia and of the Mawddach estuary. The Clogau mines were the largest and the most productive in the area. Although this was originally a copper mine, over 165 tons of minerals were quarried here between 1862 and 1911 from which 78 thousand ounces of gold was extracted. 'Clogau' literally means steep cliff."
+        link: http://www.eryri-npa.gov.uk/visiting/walking/leisure-walks/clogau,-bontddu
+        location:
+          latitude: 52.7486
+          longitude: -3.9740
+        icon: golf
+      -
+        title: Penmaenpool Bridge
+        description: "Penmaenpool (Welsh: Pwll Penmaen) is a hamlet on the south side of estuary of the River Mawddach in Wales, near Dolgellau."
+        link: https://en.wikipedia.org/wiki/Penmaenpool
+        location:
+          latitude: 52.74879
+          longitude: -3.93537
+        icon: monument
+      -
+        title: Glyn Aran Walk, Dolgellau
+        link: http://www.eryri-npa.gov.uk/visiting/walking/leisure-walks/glyn-aran-walk
+        description: "This is a circular walk from the historic market town of Dolgellau, which allows the walker to enjoy panoramic views of the town and of the northern slopes of the Cader Idris range. It first follows a fairly steep track before joining a country road and then descending across fields back into town.
+
+        Although never far from the town, this walk gives the true feeling of the Welsh countryside - and in particular of the Snowdonia National Park - with its stone walls, hill farms, small fields, distant mountains, richness of wild flowers, woodlands and bird-life. Glyn Aran walk is enjoyable at any time of the year."
+        location:
+          latitude: 52.74304
+          longitude: -3.88549
+        icon: golf
+      -
+        title: Mawddach Trail
+        description: The Mawddach Trail footpath walk and cycle route winds for 9.5 miles (15km) along the disused railway track on the southern edge of the spectacular Mawddach estuary. Whilst the trail can be joined at several points it starts at the picturesque market town of Dolgellau and finishes by crossing the iconic railway bridge over the mouth of the estuary into Barmouth.
+        link: http://www.mawddachtrail.co.uk/mawddach-trail.html
+        location:
+          latitude: 52.74372
+          longitude: -3.8848
+        icon: bicycle
+      -
+        title: Torrent Walk
+        description: Torrent Walk runs about a mile along the Afon (River) Clywedog and was created by the Richards family of the Caerynwch estate in the late 1800s. It has been a popular walk with locals and visitors since Victorian times.
+        link: http://dolgellau.wales/places/torrent-walk.php
+        location:
+          latitude: 52.75104
+          longitude: -3.83109
+        icon: golf
+      -
+        title: Waen-oer Ridge
+        description: "The Waun-oer Ridge Walk climbs from the village of Dinas Mawddwy over the bare mountains of Maesglase, Craig Portas, Cribin Fawr and Waun-oer and then down the slopes of Mynydd Ceiswyn to Bwlch Llyn Bach pass,Tal-y-llyn.This is the area of the Red Bandits of Mawddwy (Gwylliaid Cochion Mawddwy in Welsh), the C16 robbers known to rob those travelling through Bwlch Oerddrws pass at the upper part
+        of Cwm Cerist.The placenames on Bwlch Oerddrws, for example Llety’r Lladron (robbers lodging) and Llety’r Gwylliaid (bandits lodging), reminds us of this troubled time in the area of Mawddwy. (hard mountain walk, 6h)"
+        link: http://www.eryri-npa.gov.uk/__data/assets/pdf_file/0008/275282/WaenOerRidge_e.pdf
+        location:
+          latitude: 52.73145
+          longitude: -3.69651
+        icon: golf
+      -
+        title: Coed y Brenin Forest Park
+        description: "Set within Snowdonia National Park, Coed y Brenin Forest Park is one of Natural Resources Wales’ premier recreation sites.
+
+        Along with its world famous mountain bike trails, Coed Y Brenin has lots to offer visitors of all ages and abilities.
+
+        Good for Mountain Biking."
+        location:
+          latitude: 52.82116
+          longitude: -3.89268
+        link: http://www.beicsbrenin.co.uk/visitor-centre/
+        icon: park
+      -
+        title: Shell Island
+        description: Shell Island, also known as Mochras, is a peninsula lying west of Llanbedr in Gwynedd, Wales. It was formed after the River Artro was diverted by the Earl of Winchelsey in 1819 from its previous course where it entered the sea to the south of Shell Island. Prior to this, access to the ancient settlement on the island would have been through the village of Llandanwg, which is now across the estuary.
+        link: https://en.wikipedia.org/wiki/Shell_Island_(Wales)
+        location:
+          latitude: 52.8191
+          longitude: -4.1427
+        icon: water
+      -
+        title: Llyn Tegid
+        description: "To the south west of the town of Bala, between the Berwyn, Aran and Arenig mountains lies Llyn Tegid, or you may have heard it referred to as Bala Lake. At 4 miles long and up to ¾ of a mile wide it is Wales’ largest natural lake. It is owned and managed by the Snowdonia National Park Authority as a recreational resource, who also protects the lake and its special biodiversity."
+        link: http://www.eryri-npa.gov.uk/visiting/places-to-visit/llyn-tegid
+        location:
+          latitude: 52.89721
+          longitude: -3.6088
+        icon: water
+      -
+        title: Tomen y Mur
+        description: "his circular walk will lead you from the shores of the man-made reservoir, Llyn Trawsfynydd, and across farmland to the most fascinating feature of the walk, the Roman fort of Tomen y Mur. Tomen y Mur is one of the most interesting archaeological sites
+        in Snowdonia, and is one of the most complete Roman military settlements in Britain.The fort is situated on a hillside at the cross roads of four Roman roads with commanding views of the local area. It was constructed in AD 78 by Gnaeus Julius Agricola, a Roman general responsible for much of the Roman conquest of Britain, to maintain order amongst the native Celts and protect road communications."
+        location:
+          latitude: 52.92579
+          longitude: -3.94379
+        icon: golf
+        link: http://www.eryri-npa.gov.uk/__data/assets/pdf_file/0007/261592/TomenyMur_e.pdf
+      -
+        title: Harlech and Harlech Castle
+        description: "Harlech (Welsh pronunciation: [ˈharlɛx]) is a town and seaside resort in Gwynedd, within the historical boundaries of Meirionnydd in northwest Wales. Lying on Tremadog Bay and within the Snowdonia National Park, it has a population of 1,447, of whom 51% speak Welsh.[1] The town is in the unitary authority of Gwynedd which was formed in 1996. From 1974 to 1996 it was in the Meirionydd District of the 1974 County of Gwynedd, and before 1974 it was in the historic county of Merionethshire.
+
+        The town is best known for the landmark Harlech Castle, begun in 1283 by Edward I of England, captured by Owain Glyndŵr, and later the stronghold of Henry Tudor. The castle was built next to the sea, but geological processes have changed the shape of the coastline, and the castle now lies on a cliff face, about half a mile (800 m) inland.[3] The town has since developed, with housing estates on the flat low town area and hillside properties in the high town around the shopping street, church, and castle. The two areas are linked by a steep and winding road called 'Twtil'."
+        link: http://www.harlech.com
+        location:
+          latitude: 52.85889
+          longitude: -4.10785
+        icon: town-hall
+      -
+        title: Portmeirion
+        link: http://www.portmeirion-village.com
+        description: Portmeirion is a tourist village in Gwynedd, North Wales. It was designed and built by Sir Clough Williams-Ellis between 1925 and 1975 in the style of an Italian village, and is now owned by a charitable trust.
+        location:
+          latitude: 52.91215
+          longitude: -4.09926
+        icon: town-hall
+      -
+        title: Porthmadog Maritime Museum
+        link: http://www.porthmadogmaritimemuseum.org.uk
+        description: "The museum, situated in the last remaining slate shed on the harbour, has a large collection of artefacts depicting the seafaring activities of the area - the development of the port, the shipbuilding, the ships, and the lives of the seafarers."
+        location:
+          latitude: 52.92418
+          longitude: -4.12892
+        icon: museum
+      -
+        title: Porthmadog
+        link: http://www.porthmadog.co.uk
+        description: "Porthmadog (/pɔːrθˈmædɒɡ/; Welsh pronunciation: [pɔrθˈmadoɡ]), known locally as 'Port',[1] and since 1974, rendered into Welsh from its former Anglicised form, Portmadoc, is a small coastal town and community in the Eifionydd area of Gwynedd, in Wales. Prior to the Local Government Act 1972 it was in the administrative county of Caernarfonshire. The town lies 5 miles (8 km) east of Criccieth, 11 miles (18 km) south west of Blaenau Ffestiniog, 25 miles (40 km) north of Dolgellau and 20 miles (32 km) south of Caernarfon. The community had a population of 4,185 (2011 census)."
+        location:
+          latitude: 52.92784
+          longitude: -4.13338
+        icon: town-hall
+      -
+        title: Welsh Highland Heritage Railway
+        link: http://www.whr.co.uk
+        description: "The Welsh Highland Heritage Railway is a small, friendly railway where the train ride is just part of the experience. Our vintage train also stops at the sheds, where you can get off for a guided, hands-on tour."
+        location:
+          latitude: 52.93115
+          longitude: -4.13416
+        icon: rail
+      -
+        title: Welsh Highland Railway
+        description: "The Welsh Highland Railway (WHR) or Rheilffordd Eryri is a 25-mile (40.2 km) long, restored 1 ft 11 1⁄2 in (597 mm) narrow gauge heritage railway in the Welsh county of Gwynedd, operating from Caernarfon to Porthmadog, and passing through a number of popular tourist destinations including Beddgelert and the Aberglaslyn Pass. At Porthmadog it connects with the Ffestiniog Railway and to the short Welsh Highland Heritage Railway.[a] In Porthmadog it uses the United Kingdom's only mixed gauge flat rail crossing."
+        link: http://www.festrail.co.uk
+        location:
+          latitude: 52.93849
+          longitude: -4.11581
+        icon: rail
+      -
+        title: Criccieth Castle
+        description: "Criccieth Castle (Welsh: Castell Cricieth) is a native Welsh castle situated on the headland between two beaches in Criccieth, Gwynedd, in North Wales, on a rocky peninsula overlooking Tremadog Bay. It was built by Llywelyn the Great of the kingdom of Gwynedd but it was heavily modified following its capture by English forces of Edward I in the late 13th century."
+        link: http://cadw.gov.wales/daysout/criccieth-castle/?lang=en
+        location:
+          latitude: 52.91601
+          longitude: -4.23247
+        icon: monument
+      -
+        title: Plas Heli - Welsh National Sailing Academy and Events Centre
+        description: Nestled between the dunes and marina of Pwllheli cutting a striking new form, the design for the new Welsh National Sailing Academy and Events Centre is a very different concept in community sport and events provision.
+        link: http://www.plasheli.org/index.php/en/
+        location:
+          latitude: 52.88798
+          longitude: -4.40446
+        icon: museum
+      -
+        title: Hell's Mouth
+        description: This beach’s dramatic English name is based not just on its semicircular shape resembling a wide, open mouth. Its hellish dimension comes from a savage, south-westerly aspect that offers precious little shelter to sailors. Surfers, on the other hand, treat it as a Nirvana of consistently good waves, especially at the north end of the beach. Swimmers should beware of the strong currents and undertows. Care should also be taken on the soft cliff tops of boulder clay, remnants from the last Ice Age (walkers are advised to keep away from the cliff edge and from the base of the cliff due to regular landslips). The beach of golden sand with a scattering of pebbles extends for about four miles.
+        link: http://www.visitsnowdonia.info/hells_mouth-137.aspx
+        location:
+          latitude: 52.81085
+          longitude: -4.55591
+        icon: water
+      -
+        title: Aberdaron
+        description: "Aberdaron is a community and former fishing village at the western tip of the Llŷn Peninsula (Welsh: Penrhyn Llŷn) in the Welsh county of Gwynedd. It lies 14.8 miles (23.8 km) west of Pwllheli and 33.5 miles (53.9 km) south west of Caernarfon, and has a population of 965. It is sometimes referred to as the 'Land's End of Wales', or in Welsh Pendraw'r Byd (roughly 'far end of the world'). The community includes Bardsey Island (Welsh: Ynys Enlli), the coastal area around Porthor, and the villages of Anelog, Llanfaelrhys, Penycaerau, Rhoshirwaun, Rhydlios, Uwchmynydd and Y Rhiw."
+        link: https://en.wikipedia.org/wiki/Aberdaron
+        location:
+          latitude: 52.81375
+          longitude: -4.69172
+        icon: town-hall
+      -
+        title: Edge of Wales Walk
+        link: http://www.edgeofwaleswalk.co.uk
+        description: "Edge of Wales Walk - highlights of the Llŷn Coastal Path, the Wales Coast Path and the North Wales Pilgrim Way
+
+        Discover the spectacular scenery of the Llŷn Peninsula coast path which contains some of the very best sections of the new Wales Coast Path and forms the western section of the North Wales Pilgrim Way."
+        location:
+          latitude: 52.80687
+          longitude: -4.71389
+        icon: golf
+      -
+        title: Whistling Sands
+        description: "The views are spectacular along this rugged coastline on the northern side of the Llyn Peninsula. This is a great walk to absorb some of the history and heritage of the area. (1mi)"
+        link: https://www.nationaltrust.org.uk/llyn-peninsula/trails/porthor-and-the-whistling-sands-walk
+        location:
+          latitude: 52.83557
+          longitude: -4.72397
+        icon: golf
+      -
+        title: Giant Slayer Walk, Tre'r Ceiri, Llithfaen, Llŷn Peninsula
+        description: "Yr Eifl, at 564m above sea level, is the highest of The Rivals; an overlooked yet fascinating range of small hills on the quiet Llyn Peninsula. This walk takes you to the summit of Yr Eifl for stunning seascapes over the Irish Sea on three sides, and a view to the mountains of Snowdonia on the other. The most fascinating feature of this walk however, is the second highest hill of Tre'r Ceiri; the site of Britain's best preserved and possible the largest remaining Iron Age hill fort. The fort is protected on all sides by an impressive perimeter wall and the interior of the fort contains the remains of over a hundred Iron Age stone round houses. This is an easy to moderate walk, ideal for those days when the higher reaches of Snowdonia are shrouded in cloud and the Llyn Peninsula is still basking in sunshine."
+        link: http://www.trekkingbritain.com/yreiflandtrerceiri.htm
+        location:
+          latitude: 52.96156
+          longitude: -4.44967
+        icon: golf
+      -
+        title: Glasfryn Parc
+        link: http://www.glasfryn.co.uk
+        description: "Where to begin? Think of an activity and there’s a good chance that you can do it here. Go karts, quad bikes, archery, fishing and ten-pin bowling are just some of the things on offer. There’s also a state-of-the-art wakeboarding and watersports park packed with exciting features"
+        location:
+          latitude: 52.94911
+          longitude: -4.39272
+        icon: baseball
+      -
+        title: Sygun Copper Mine
+        link: http://www.syguncoppermine.co.uk
+        description: "Sygun Copper Mine offers a rare opportunity for those with a sense of adventure and curiosity, to discover for themselves the wonders of an historic copper mine.
+
+        Our Self-guided audio-visual tours allow you to explore the old workings on foot, in complete safety. There are winding tunnels and large, colourful chambers and caverns with, magnificent stalactite and stalagmite formations and copper ore veins which contain traces of gold, silver and other precious metals.
+
+        Above ground activities: Museum of Antiquities, Gold Panning, Pottery Painting, Metal Detecting, Adventure Playground and Lake Side Walks."
+        location:
+          latitude: 53.01859
+          longitude: -4.08187
+        icon: industrial
+      -
+        title: Castell Dolwyddelan
+        link: http://cadw.gov.wales/daysout/dolwyddelan-castle/?lang=en
+        description: "Dolwyddelan Castle (Welsh: Castell Dolwyddelan) is a Welsh castle located near Dolwyddelan in Conwy County Borough in North Wales. It is thought to have been built in the early 13th century by Llywelyn the Great, Prince of Gwynedd and North Wales. Though the castle was then only one tower with two floors, a second tower was built in the late 13th century and a third floor was added to the first during the late 15th century repairs."
+        location:
+          latitude: 53.05295
+          longitude: -3.9082
+        icon: monument
+      -
+        title: Rhyd Ddu Path
+        description: "This path up Snowdon is the quietest of the six main routes to the summit, and the one that offers the most striking mountain scenery, especially towards Moel Hebog and the hills of Nantlle.
+
+        The first mile climbs gradually along the old track that served the Bwlch Cwm Llan slate quarry, but it then leaves the track and climbs quite steeply over rocky terrain to Llechog ridge. The path follows the ridge over bare and exposed ground and then along Bwlch Main before the final climb to the summit.
+
+        Some parts of the final section leads along a narrow and rocky path with steep slopes below, so extreme care must be taken on these parts. When there is snow and ice on the ground this part should be left to experienced walkers with the appropriate equipment."
+        link: http://www.eryri-npa.gov.uk/visiting/walking/mountain-walks/rhyd-ddu-path
+        location:
+          latitude: 53.05309
+          longitude: -4.13608
+        icon: golf
+      -
+        title: Ranger Path
+        description: "This path up Snowdon is thought to be the earliest of the six main routes to the summit. Before the road through Llanberis Pass was built, men lugged copper ore from the Britannia Copper Mine on Snowdon up the eastern side of the mountain to Bwlch Glas.
+
+        Horses would then draw the ore down on a sledge along this path to the shores of Llyn Cwellyn to be transported by horse and cart to Caernarfon.
+
+        The path was named in English after a mountain guide called John Morton who called himself the ‘Snowdon Ranger’. At the beginning of the nineteenth century he built an inn on the site where the Youth Hostel stands today, opposite the car park. The inn was known as the ‘Snowdon Ranger’, ‘Snowdon Inn’ or ‘Glanllyn’ (meaning ‘lakeside’), from where he would guide visitors to the summit of Snowdon along this path.
+
+        The path climbs gradually up to, and around the slopes of Moel Cynghorion to Bwlch Cwm Brwynog. It then climbs steeply over the shoulder above Clogwyn Du’r Arddu before merging with the Llanberis path, and then the Pyg and Miners’ tracks at Bwlch Glas, and then on to the summit."
+        link: http://www.eryri-npa.gov.uk/visiting/walking/mountain-walks/snowdon-ranger
+        location:
+          latitude: 53.07402
+          longitude: -4.14537
+        icon: golf
+      -
+        title: Bach Ventures
+        description: "Choose from Gorge Scrambling,Coasteering , Kayaking , Sea Kayaking, Rock Climbing Canoeing or Mountain day. Each activity is tailored to your group to allow you to enjoy your time at your own pace as we do not mix groups. We have a passion for developing everyone's enjoyment and knowledge of our area and activities we offer. Our staff all hold the required NGB qualifications so you are in safe hands. So come and have some fun!"
+        link: http://www.bachventures.co.uk
+        location:
+          latitude: 53.09858
+          longitude: -4.19603
+        icon: water
+      -
+        title: Cwm Idwal
+        description: It takes you into a normally inaccessible upland environment, and through beautiful ice-sculpted Cwm Idwal – a bowl-shaped hollow filled with the crystal clear waters of Llyn Idwal. The site is world famous for its rock formations and its rare and fragile plant life.
+        link: https://www.nationaltrust.org.uk/carneddau-and-glyderau/trails/cwm-idwal-walk
+        location:
+          latitude: 53.12348
+          longitude: -4.02018
+        icon: golf
+      -
+        title: Llanberis Lake Railway
+        description: "Narrow gauge steam railway runs along the shores of Padarn Lake. Includes a gallery, timetable and fares."
+        link: http://www.lake-railway.co.uk
+        location:
+          latitude: 53.12233
+          longitude: -4.11483
+        icon: rail
+      -
+        title: Zip World
+        link: http://www.zipworld.co.uk/
+        description: "Velocity is the 'Nearest Thing to Flying'! Home to the longest zip line in Europe and the fastest in the world.
+
+        This adrenalin fuelled attraction offers visitors a totally unique experience. Speeds in excess of 100mph can be reached.
+
+        Velocity has two pairs of zip lines. The experience starts with the 'Little Zipper'. This is a great introduction and confidence builder with a maximum speed of around 45mph. The journey takes riders into the heart of the historic Penrhyn Quarry where the off road journey to the Big Zipper commences."
+        location:
+          latitude: 53.16917
+          longitude: -4.06321
+        icon: playground
+      -
+        title: Greenwood Forest Park
+        link: http://www.greenwoodforestpark.co.uk
+        description: "GreenWood Forest Park (formerly The GreenWood Centre) is a theme park at Y Felinheli in North Wales. The park was opened by Stephen and Andrea Bristow in 1993 and attracts around 150,000 visitors a year."
+        location:
+          latitude: 53.18016
+          longitude: -4.19649
+        icon: playground
+      -
+        title: Beacon Climbing Centre
+        link: "https://www.beaconclimbing.com"
+        description: "Designed, built and used by people that are passionate about climbing, Beacon is the largest indoor climbing centre in North Wales. We welcome all climbers, no matter whether you are just starting out or pushing the big grades. You’ll find a full range of climbing from relatively easy challenges for those new to the sport to fiendishly difficult climbs capable of testing the best climbers around. Whether you are a regular visitor or just passing through, we hope that every visit to Beacon leaves you motivated and inspired for your future climbing endeavours, whatever they may be."
+        location:
+          latitude: 53.13823
+          longitude: -4.252
+        icon: playground
+      -
+        title: RibRide
+        link: https://www.ribride.co.uk
+        description: "We are Wales’ best adventure boat tour company. Our skippers are your fast and fun guides to the natural history of Anglesey. Ride a RIB on the Menai Strait or join us on a Bear Grylls adventure boat tour to the islands and high cliffs of the north Anglesey coast. Come with us for an unbeatable adventure."
+        location:
+          latitude: 53.2247
+          longitude: -4.1617
+        icon: water
+      -
+        title: Seawake
+        description: "Come and explore the beautiful coastline of Anglesey and the Menai Strait on one of our powerboat trips. We have fast and slow boats including 6, 8, 10 and 12 person RIBs, with a variety of trips available"
+        link: http://www.seawake.co.uk
+        location:
+          latitude: 53.22718
+          longitude: -4.16224
+        icon: water
+      -
+        title: Pili Palas Nature World - zoo
+        link: http://www.pilipalas.co.uk/
+        description: "Small, hands-on zoo aimed at kids with meerkat, bug and butterfly enclosures, plus indoor play zone."
+        location:
+          latitude: 53.23513
+          longitude: -4.18655
+        icon: playground
+      -
+        title: Crimpiau Capel Curig
+        description: "For the height, this is one of the best viewpoints in Eryri. They’re uninterrupted down towards Tryfan and Ogwen in one direction, whilst the Snowdon Horseshoe fills the other. You just don’t know where to look!
+
+        It’s an ideal short walk from Capel Curig if you’ve got a spare half day or for those lazy afternoons, where you can just take your time on the summit. For more challenge you can couple it with an ascent of Creigiau Gleision and return via Llyn Cowlyd.
+
+        6km - 3h"
+        link: http://www.mudandroutes.com/crimpiau-from-capel-curig/
+        location:
+          latitude: 53.10366
+          longitude: -3.911
+        icon: golf
+      -
+        title: Ty Hyll - Ugly House
+        description: "Pot Mêl tearoom at Ty Hyll
+
+        Shrouded in mystery, Ty Hyll (the Ugly House) is some 3 miles west of Betws-y-Coed, on the A5 towards Capel Curig.
+        Its origins allegedly go back to 1475, when two brothers built themselves a hideaway in the Snowdonia forest and carving the date over the fireplace.
+
+        Today the house is in the ownership of local charity the Snowdonia Society, and run as a visitor centre and cosy cottage tearoom.
+        Visitors can enjoy home baked local produce and also learn about the legends of the house and the local environment, particularly the honeybees and wildlife garden that give the tearoom its name."
+        link: http://www.theuglyhouse.co.uk
+        location:
+          latitude: 53.10072
+          longitude: -3.85951
+        icon: monument
+      -
+        title: Llanfairfechan Trail
+        description: "A circular walk from the top of Llanfairfechan town which crosses the thousand foot contour line to take you to the foot of the Carneddau range of mountains. Explore a landscape rich in archaeological sites dating from the Stone Age.
+
+        7km - 4h"
+        link: http://www.conwy.gov.uk/doc.asp?docid=1276&catid=1504
+        location:
+          latitude: 53.24631
+          longitude: -3.95936
+        icon: golf
+      -
+        title: Penmaenmawr - In the footsteps of Neolithic Man
+        description: "The small resorts of Penmaenmawr - Head of the Great Stone-  and Llanfairfechan stand below old granite quarries laced by tramway inclines and backed by waves of hills rising to the high Carneddau Mountains. These industrial relics, which produced the millions of cobbles that paved the streets of Lancashire 's towns and cities, are newcomers compared with the long history that unfolds us this walk climbs steeply up to the lonely moors. We follow an ancient trackway richly endowed with stone circles and other traces of our stone-age ancestors. On these slopes at Graiglwyd was a Neolithic axe factory, one of the most important in Britain , whilst nearby is the sublime Druid's Circle (Meini Hirion), with thirty stones, ten still standing. Magnificent views draw the eye inland to the mountains and across the bay to Anglesey and the Great Orme.  This is a linear (one-way) walk. The best idea is to park in Penmaenmawr (there's a car park opposite the station) and catch a train (about one very 90 minutes, not Sundays) to Llanfairfechan or take a service 5 bus from the main street (every half hour, hourly Sundays) towards Caernarfon.
+
+        10km, 3h"
+        link: http://snowdonian-walking.co.uk/penmaenmawr.htm
+        location:
+          latitude: 53.25964
+          longitude: -3.97743
+        icon: golf
+      -
+        title: Go Below Underground Adventures
+        description: "Test your nerve by journeying through a mountain via a series of exciting adventurous challenges on one of our three epic underground adventures. Try your hand at zip-lining through caverns, or climbing up a vertical shaft, boating across a lake, traverse over an abyss, scale a waterfall or abseil your way down to the deepest point in the UK! It’s Adrenaline pumping, heart thumping, pulse jumping fun, guided by the most fun, experienced and qualified instructors in the country!"
+        link: http://www.go-below.co.uk
+        location:
+          latitude: 53.06555
+          longitude: -3.77645
+        icon: playground
+      -
+        title: River Conwy
+        description: "The River Conwy (Welsh pronunciation: [ˈkɔnʊɨ]; Welsh: Afon Conwy) is a river in north Wales. From its source to its discharge in Conwy Bay it is a little over 27 miles (43 km) long. 'Conwy' was formerly Anglicised as 'Conway.'"
+        link: https://en.wikipedia.org/wiki/River_Conwy
+        location:
+          latitude: 53.0785
+          longitude: -3.76455
+        icon: water
+      -
+        title: Trefriw Woollen Mills Ltd
+        description: "Visit Trefriw Woollen Mills where we manufacture Welsh tapestry bedspreads, tweeds and travelling rugs from the raw wool.
+
+        See the weaving and our water powered turbine and visit our shop for products made up in our fabrics and bought in knitwear, accessories and sheepskin goods. "
+        location:
+          latitude: 53.15068
+          longitude: -3.82458
+        link: http://www.t-w-m.co.uk/article.php/2/visit
+        icon: industrial
+      -
+        title: Conwy Valley Maze
+        description: "World's largest maze."
+        link: http://www.big-maze.co.uk
+        location:
+          latitude: 53.17873
+          longitude: -3.83448
+        icon: playground
+      -
+        title: Bodnant Welsh Food
+        description: "Discover the true taste of Wales at Bodnant Welsh Food Centre.
+
+        Wales’ growing reputation as a nation of passionate producers and fanatical foodies is nowhere more apparent than at the Bodnant Welsh Food Centre. Set in the heart of the Conwy Valley and surrounded by the stunning scenery of Snowdonia, Bodnant’s multi-award-winning Welsh Food Centre provides a memorable visit, whether it’s for a few hours, a day or even longer stay in the adjoining farmhouse."
+        link: http://www.bodnant-welshfood.co.uk/
+        location:
+          latitude: 53.23386
+          longitude: -3.80457
+        icon: restaurant
+      -
+        title: Bodnant Garden Centre
+        link: http://bodnant-plants.co.uk
+        description: "Bodnant Garden is one of the most beautiful gardens in the UK, spanning some 80 acres and is situated above the River Conwy on ground sloping towards the west and looking across the valley towards the Snowdonia range."
+        icon: garden
+        location:
+          latitude: 53.23642
+          longitude: -3.7993
+      -
+        title: "SeaQuarium Rhyl"
+        description: "SeaQuarium offers an underwater voyage of discovery, where you can experience aquatic life from several regions of the world including the Amazon, the Pacific Ocean, the Indian Ocean, the Red Sea and from our own shores around Britain."
+        link: http://www.seaquarium.co.uk/rhyl-index.php
+        location:
+          latitude: 53.32338
+          longitude: -3.49161
+        icon: water
+      -
+        title: Dyserth Waterfall
+        description: "The River Ffyddion rises 4.5 miles to the east of here and is joined a mile away at Marian Mills by water from a spring called Ffynnon Asa. After falling some 70 feet over this waterfall the river makes its way westwards and joins the River Clwyd west of Rhuddlan."
+        link: http://www.dyserth.com/waterfall.html
+        location:
+          latitude: 53.30205
+          longitude: -3.41777
+        icon: water
+      -
+        title: Bodelwyddan
+        description: "Bodelwyddan (Welsh pronunciation: [bɔdɛlˈwəðan]) is a town, electoral ward and community in Denbighshire, Wales, approximately 5 miles (8 km) South of Rhyl. The Parish includes several smaller hamlets.
+
+        Attraction: castle, St. Margaret's church..."
+        location:
+          latitude: 53.26806
+          longitude: -3.49845
+        icon: town-hall
+      -
+        title: Rhuddlan Castle
+        link: http://cadw.gov.wales/daysout/rhuddlancastle/?lang=en
+        description: "Rhuddlan Castle (Welsh: Castell Rhuddlan) is a castle located in Rhuddlan, Denbighshire, Wales. It was erected by Edward I in 1277 following the First Welsh War.
+
+        Much of the work was overseen by master mason James of St George. Rhuddlan, which was not completed until 1282, was built concurrently with Flint Castle, at a time when King Edward I of England was consolidating his conquest of Wales. It was temporarily his residence, and his daughter, Elizabeth, is presumed to have been born there."
+        location:
+          latitude: 53.28921
+          longitude: -3.4646
+        icon: monument
+      -
+        title: Denbigh Castle
+        link: http://cadw.gov.wales/daysout/denbighcastle/?lang=en
+        description: "Denbigh Castle (Welsh: Castell Dinbych) was a fortress built following the 13th-century conquest of Wales by Edward I.
+
+        The castle, which stands on a rocky promontory above the Welsh market town of Denbigh, Denbighshire, was built upon an earlier Welsh stronghold. It was defended by a unique triple-towered gateway.
+
+        A planned town (bastide) was laid out at the same time as the castle. The Anglo-Norman borough was an attempt by Edward I to pacify the Welsh."
+        location:
+          latitude: 53.18104
+          longitude: -3.42054
+        icon: monument
+      -
+        title: Afan Forest Park
+        link: "http://www.afanforestpark.co.uk/default.aspx?page=323"
+        description: "The Afan Forest Park (formally and locally known as Afan Argoed Country Park) is a 48-square-mile (120 km2) forest park in Britain. It is set in the Afan Valley in Neath Port Talbot, in south Wales. It is well known for its mountain biking and hiking or hillwalking trails. It is situated seven miles (11 km) from Junction 40 of the M4 (the Port Talbot turn)."
+        location:
+          latitude: 51.67421
+          longitude: -3.65225
+        icon: park
+      -
+        location:
+          latitude: 51.5761
+          longitude: -3.2203
+        link: "https://en.wikipedia.org/wiki/Caerphilly_Castle"
+        title: "Caerphilly Castle"
+        description: "Caerphilly Castle (Welsh: Castell Caerffili) is a medieval fortification in Caerphilly in South Wales. The castle is a ruin, but parts have been reconstructed."
+        icon: monument
+      -
+        title: Great Orme Tramway
+        link: http://www.greatormetramway.co.uk
+        description: "The Great Orme Tramway (Welsh: Tramffordd y Gogarth) is a cable-hauled 3 ft 6 in (1,067 mm) gauge tramway in Llandudno in north Wales. It takes passengers from Llandudno Victoria Station to just below the summit of the Great Orme headland.
+
+        This is Great Britain's only remaining cable-operated street tramway, and one of only a few surviving in the world, and it is owned by Conwy County Borough Council. The line comprises two sections, where each section is an independent funicular and passengers change cars at the halfway station. Whilst the upper section runs on its own right of way and is very similar to many other funicular lines, the lower section is an unusual street-running funicular."
+        location:
+          latitude: 53.32725
+          longitude: -3.83559
+        icon: rail
+      -
+        title: Great Orme
+        description: "The Great Orme (Welsh: Y Gogarth or Pen y Gogarth) is a prominent limestone headland on the north coast of Wales, next to the town of Llandudno. It is referred to as Cyngreawdr Fynydd in a poem by the 12th-century poet Gwalchmai ap Meilyr. Its English name derives from the Viking (Old Norse) word for sea serpent, which it is said to resemble. It is echoed by the Little Orme, a smaller but very similar limestone headland on the eastern side of Llandudno Bay in the parish of Llanrhos."
+        link: https://en.wikipedia.org/wiki/Great_Orme
+        location:
+          latitude: 53.33252
+          longitude: -3.85225
+        icon: park
+      -
+        title: Welsh Mountain Zoo
+        link: http://www.welshmountainzoo.org
+        description: "The Welsh Mountain Zoo is set in North Wales, high above Colwyn Bay with panoramic views and breathtaking scenery; its beautiful gardens are home to this caring conservation zoo. Roam the wooded pathways, relax on the grassy slopes and spend a lovely day learning about many rare and endangered species from Britain and around the world including Snow Leopards, Chimpanzees, Red Pandas and Sumatran Tigers!"
+        location:
+          latitude: 53.29382
+          longitude: -3.74558
+        icon: playground
+      -
+        title: The Glassblobbery
+        link: http://www.glassblobbery.com/epages/BT4340.sf/en_GB/?ObjectPath=Categories
+        description: "We have all sorts of handmade glass art and glass sculptures including glass animals, glass flowers, glass dragons and other glass sea creatures all bespoke and lovingly hand made at our studio."
+        lcation:
+          latitude: 52.97148
+          longitude: -3.45136
+        icon: museum
+      -
+        title: Caer Drewyn Hill Fort
+        description: "This massive Iron Age hillfort is set on the slope of a hill overlooking the attractive town of Corwen and the meandering River Dee. Unlike most hillforts, Caer Drewyn has walls of stone, rather than the more typical earthen banks and ditches. The fort is composed of a huge rampart with entrances on the north-east and south."
+        link: http://www.britainexpress.com/attractions.htm?attraction=5005
+        location:
+          latitude: 52.98331
+          longitude: -3.37085
+        icon: monument
+      -
+        title: Ruthin Gaol
+        description: "Ruthin gaol is the only purpose-built Pentonville style prison open to the public as a heritage attraction. People can spend time exploring its nooks and crannies and learn about life in the Victorian prison system. See how the prisoners lived their daily lives: what they ate, how they worked, and the punishments they suffered. Explore the cells including the punishment, 'dark' and condemned cell. Find out about the Welsh Houdini and William Hughes who was the last man to be hanged there."
+        link: https://www.denbighshire.gov.uk/en/visitor/places-to-visit/museums-and-historic-houses/ruthin-gaol.aspx
+        location:
+          latitude: 53.11647
+          longitude: -3.31035
+        icon: prison
+      -
+        location:
+          latitude: 53.1393
+          longitude: -4.2769
+        link: "https://en.wikipedia.org/wiki/Caernarfon_Castle"
+        title: Caernarfon Castle
+        description: "Caernarfon Castle (Welsh: Castell Caernarfon) is a medieval fortress in Caernarfon, Gwynedd, north-west Wales cared for by Cadw, the Welsh Government's historic environment service. There was a motte-and-bailey castle in the town of Caernarfon from the late 11th century until 1283 when King Edward I of England began replacing it with the current stone structure. The Edwardian town and castle acted as the administrative centre of north Wales and as a result the defences were built on a grand scale. There was a deliberate link with Caernarfon's Roman past and the Roman fort of Segontium is nearby."
+        icon: monument
+      -
+        title: "Dyffryn Ardudwy"
+        location:
+          latitude: 52.788
+          longitude: -4.096
+        description: "Dyffryn Ardudwy is a village and community in the Ardudwy area of Gwynedd, Wales. There are a number of prehistoric cromlechs in and around the village, and they are some of the earliest tombs erected on these islands."
+        link: "https://en.wikipedia.org/wiki/Dyffryn_Ardudwy"
+        icon: town-hall
+      -
+        title: Lake Vyrnwy
+        description: "Lake Vyrnwy (Welsh: Llyn Efyrnwy, pronounced [ɛˈvərnʊɨ] or Llyn Llanwddyn) is a reservoir in Powys, Wales. Its stone-built dam, built in the 1880s, was the first of its kind in the world. It was built for the purpose of supplying Liverpool and the districts later designated as Merseyside with fresh water. It flooded the head of the Vyrnwy valley and submerged the small village of Llanwddyn. The Lake Vyrnwy Nature Reserve and Estate that surrounds the lake is jointly managed by the Royal Society for the Protection of Birds (RSPB) and Severn Trent Water, and is a popular destination for days out, and for ornithologists, cyclists and hikers. The reserve is designated as a national nature reserve, a Site of Special Scientific Interest, a Special Protection Area, and a Special Area of Conservation."
+        location:
+          latitude: 52.78
+          longitude: -3.5
+        link: https://en.wikipedia.org/wiki/Lake_Vyrnwy
+        icon: water
+      -
+        title: "Llangollen"
+        location:
+          latitude: 52.97
+          longitude: -3.17
+        link: "https://en.wikipedia.org/wiki/Llangollen"
+        description: "Llangollen (Welsh pronunciation: [ɬaŋˈɡɔɬɛn]) is a small town and community in Denbighshire, north-east Wales, situated on the River Dee and on the edge of the Berwyn mountains.
+
+        In the neighbourhood are Castell Dinas Brân, Eglwyseg Rocks, [Railway Station](https://en.wikipedia.org/wiki/Llangollen_railway_station),  [Pontcysyllte-aquaduct](https://en.wikipedia.org/wiki/Pontcysyllte_Aqueduct), Castle Street (bridge), Valle Crucis Abbey and [Ellesmere Canal (by boat?)](https://en.wikipedia.org/wiki/Llangollen_Canal#/media/File:Llangollen_Canal_UK.jpg)."
+        icon: town-hall
+      -
+        title: Llangollen Wharf
+        link: http://www.horsedrawnboats.co.uk
+        description: "Llangollen Wharf is one of the major attractions in the North Wales market town of Llangollen and is now part of a World Heritage Site. From the Wharf you can embark on either a horse drawn boat trip along the feeder for the main canal, or a motorised aqueduct boat trip  which takes you across the famous Pontcysyllte Aqueduct built by Thomas Telford. Both these trips take in the magical sights and sounds of the beautiful Llangollen Canal."
+        location:
+          latitude: 52.97197
+          longitude: -3.17054
+        icon: water
+      -
+        title: Castell Dinas Bran
+        description: "Castell Dinas Brân is a medieval castle standing high on a hill above the town of Llangollen in Denbighshire, Wales. It is also the site of an Iron Age hillfort. There is also a British Rail Class 25 named after this castle, it has been preserved on the Great Central Railway (heritage railway) and its number is D5185."
+        link: https://www.llangollen.com/castle.html
+        location:
+          latitude: 52.97932
+          longitude: -3.15888
+        icon: monument
+      -
+        title: Valle Crucis Abbey
+        link: http://cadw.gov.wales/daysout/vallecrucisabbey/?lang=en
+        description: "Valle Crucis Abbey (Valley of the Cross) is a Cistercian abbey located in Llantysilio in Denbighshire, Wales. More formally the Abbey Church of the Blessed Virgin Mary, Valle Crucis it is known in Welsh both as Abaty Glyn Egwestl and Abaty Glyn y Groes. The abbey was built in 1201 by Madog ap Gruffydd Maelor, Prince of Powys Fadog. Valle Crucis was dissolved in 1537 during the Dissolution of the Monasteries, and subsequently fell into serious disrepair. The building is now a ruin, though large parts of the original structure still survive. Valle Crucis Abbey is now under the care of Cadw."
+        location:
+          latitude: 52.98943
+          longitude: -3.18884
+        icon: religious-christian
+      -
+        title: Pontcysyllte Aqueduct
+        link: https://www.pontcysyllte-aqueduct.co.uk
+        description: "The Pontcysyllte Aqueduct (Welsh pronunciation: [ˌpɔntkəˈsəɬtɛ], full name in Welsh: Traphont Ddŵr Pontcysyllte) is a navigable aqueduct that carries the Llangollen Canal over the valley of the River Dee in Wrexham County Borough in north east Wales. Completed in 1805, it is the longest and highest aqueduct in Great Britain, a Grade I Listed Building and a World Heritage Site. The viaduct carries a water passage for a single canal narrow boat as well as a towpath for pedestrians, and is now a popular tourist excursion; boat trips cross the viaduct and return."
+        location:
+          latitude: 52.97042
+          longitude: -3.08778
+        icon: water
+      -
+        title: "Betws-y-Coed"
+        location:
+          latitude: 53.092
+          longitude: -3.801
+        link: "https://en.wikipedia.org/wiki/Betws-y-Coed"
+        description: "Betws-y-Coed ('Prayer house in the wood', Welsh pronunciation: [ˈbɛtʊs ə ˈkɔɨd]) is a village and community in the Conwy valley in Conwy County Borough, Wales. Things nearby are: Railway station + Mini-train Museum (<3 Sheldon!!!), [Waterloo Bridge](https://en.wikipedia.org/wiki/Waterloo_Bridge,_Betws-y-Coed) and Miners' Bridge, [Swallow Falls](https://en.wikipedia.org/wiki/Swallow_Falls), Llyn Elsi reservoir, St. Michael's Church, Snowdonia National Park Visitor Centre."
+        icon: town-hall
+      -
+        title: Cwmni Cacen Gri
+        description: "Bakers & Purveyors of Traditional Welshcakes (plus some with a twist).  “Griddle Fresh” for perfect texture and flavour."
+        link: http://cwmnicacengri.co.uk
+        location:
+          latitude: 53.09181
+          longitude: -3.80103
+        icon: restaurant
+      -
+        title: Tu-Hwnt-I'r Bont
+        description: "Tu Hwnt I’r Bont has long been known for its traditional afternoon teas, served with our infamous ‘secret recipe’ scones and a selection of our award winning homemade cakes."
+        link: http://www.tuhwntirbont.co.uk/menu.htm
+        location:
+          latitude: 53.13676
+          longitude: -3.79802
+        icon: restaurant
+      -
+        title: "Llechwedd Slate Caverns"
+        location:
+          latitude: 53.0046
+          longitude: -3.9403
+        link: "https://en.wikipedia.org/wiki/Llechwedd_Slate_Caverns"
+        description: "Llechwedd Slate Caverns is a visitor attraction near Blaenau Ffestiniog, Gwynedd, Wales. It details the history of slate quarrying in the town and specifically the Llechwedd quarry in which it is located. It has an interpretive centre which shows how slate was extracted and processed, a reconstructed village which shows how miners lived, and a funicular railway which takes visitors into abandoned sections of the quarry. The attraction also incorporates Mountain biking tracks, Zip-lines and giant underground trampolines."
+        icon: industrial
+      -
+        title: "Conwy"
+        location:
+          latitude: 53.28
+          longitude: -3.83
+        link: "https://en.wikipedia.org/wiki/Conwy"
+        description: "Conwy (Welsh pronunciation: [ˈkɔnʊɨ]; formerly known in English as Conway) is a walled market town and community in Conwy County Borough on the north coast of Wales. Notabilities: Castle and town walls, Abbey, [Conwy Suspension Bridge](https://en.wikipedia.org/wiki/Conwy_Suspension_Bridge), [Railway bridge](https://en.wikipedia.org/wiki/Conwy_Railway_Bridge), Aberconwy House (only surviving 14th century merchant house), Plas Mawr (an Elizabethan 16t- century house), Smallest house in Great Britain, [Bodysgallen Hall]( https://en.wikipedia.org/wiki/Bodysgallen_Hall) (manor house)."
+        icon: town-hall
+      -
+        title: "Dolgoch Falls"
+        location:
+          latitude: 52.6195
+          longitude: -3.9915
+        link: "https://www.flickr.com/search/?text=Dolgoch%20Falls"
+        description: "A series of three waterfalls near Tywyn. (NE-bound)"
+        icon: water
+      -
+        title: "Dolgellau"
+        location:
+          latitude: 52.743
+          longitude: -3.885
+        link: "https://en.wikipedia.org/wiki/Dolgellau"
+        description: "Dolgellau (Welsh pronunciation: [dɔlˈɡɛɬaɨ]; formerly Dolgell(e)y [dɔlˈɡɛɬi]; see below) is a market town in Gwynedd, north-west Wales, lying on the River Wnion, a tributary of the River Mawddach. Attractions: Great Western Railway, [Dolgellau railway station](https://en.wikipedia.org/wiki/Dolgellau_railway_station), [Cymer Abbey](https://en.wikipedia.org/wiki/Cymer_Abbey), Quaker graveyard.
+
+        Dolgellau is a good centre for visiting a number of nearby narrow-gauge heritage railways, including the Corris Railway, the Fairbourne Railway and the Talyllyn Railway.
+
+        A field known as Camlan, in nearby Dinas Mawddwy, has been claimed as the site of the last battle of King Arthur (based on a mention of the name in the Annales Cambriae; see also Battle of Camlann)."
+        icon: town-hall
+      -
+        title: "Machynlleth"
+        location:
+          latitude: 52.591
+          longitude: -3.849
+        link: "https://en.wikipedia.org/wiki/Machynlleth"
+        description: "Machynlleth (pronounced [maˈχənɬɛθ]), sometimes referred to colloquially as Mach, is a market town and community in Powys, Wales and within the historic boundaries of Montgomeryshire (Welsh: Sir Drefaldwyn)."
+        icon: town-hall
+      -
+        title: "Mount Snowdon"
+        location:
+          latitude: 53.068497
+          longitude: -4.076231
+        link: "https://en.wikipedia.org/wiki/Snowdon"
+        description: "Snowdon (Welsh: Yr Wyddfa, pronounced [əɾ ˈwɨ̞ðva]) is the highest mountain in Wales, at an elevation of 1,085 metres (3,560 ft) above sea level, and the highest point in the British Isles outside the Scottish Highlands. It is located in Snowdonia National Park (Parc Cenedlaethol Eryri) in Gwynedd, and has been described as 'probably the busiest mountain in Britain'. It is designated as a national nature reserve for its rare flora and fauna."
+        icon: triangle-stroked
+      -
+        title: "Snowdonia National Park"
+        location:
+          latitude: 52.898936
+          longitude: -3.852070
+        link: "http://www.visitsnowdonia.info/attractions-87.aspx"
+        description: "Magnificent Coast line with coastal lines, dolmen, lighthouses, castles, Abbey's... Most of the towns sited here are located in or around this park."
+        icon: park
+      -
+        title: "The Cambrian Coast Sportive"
+        link: "http://www.visitmidwales.co.uk/see/Aberdovey-The-Cambrian-Coast-Sportive/details/?dms=3&feature=6&venue=1024540&easi=true&nd=8&townid=840&miles=20&searchby=near&startdate=17+Sep+2016&pvieflag=e"
+        description: "A cycle event starting in Aberdovey that goes over coast, beach, mountain, lakes, forests on saterday september 17. 4 different routes are foreseen."
+        icon: bicycle
+        location:
+          latitude: 52.54306
+          longitude: -4.04995
+      -
+        title: "Centre For Alternative Technology"
+        link: http://visit.cat.org.uk
+        description: "The Centre for Alternative Technology (CAT) is a pioneering eco-centre with exciting interactive displays that demonstrate the incredible power of wind, water and sun. It has working examples of sustainable living, environmentally responsible buildings, energy conservation, organic growing and composting."
+        icon: museum
+        location:
+          latitude: 52.623757
+          longitude: -3.839257
+      -
+        title: "Powis Castle"
+        link: http://www.nationaltrust.org.uk/powis-castle/
+        description: "Perched high on a rock above the world-famous garden terraces, Powis Castle, originally built circa 1200, began life as the medieval fortress of the Welsh Princes of Powys, who held onto their kingdom despite the threats of their more powerful neighbours in Gwynedd and England."
+        location:
+          latitude: 52.650576
+          longitude: -3.158190
+        icon: monument
+      -
+        title: "Welshpool and Llanfair Railway"
+        link: http://www.wllr.org.uk/
+        description: "16 mile return journey by narrow gauge steam train through beautiful Mid Wales countryside."
+        location:
+          latitude: 52.651922
+          longitude: -3.321953
+        icon: rail
+      -
+        title: "Llyn Clywedog"
+        link: https://en.wikipedia.org/wiki/Clywedog_Reservoir
+        description: "The Clywedog reservoir (Welsh: Llyn Clywedog) is a reservoir near Llanidloes, Wales. Completed in 1967, the reservoir was built near the B4518 road, Powys, to supply water to Birmingham and the English Midlands[1] by river regulation and to mitigate flooding in the lower Severn by storing excess winter rainfall. The reservoir was formed by damming the Afon Clywedog, a tributary of the River Severn. Its concrete buttress dam is the tallest concrete dam in the UK, with a height of 72 metres and a length of 230 metres."
+        location:
+          latitude: 52.486111
+          longitude: -3.625
+        icon: dam
+  -
+    title: "Isle of Anglesey"
+    colour: "#f00"
+    items:
+      -
+        title: "Menai Suspension Bridge"
+        link: https://en.wikipedia.org/wiki/Menai_Suspension_Bridge
+        location:
+          latitude: 53.220139
+          longitude: -4.163125
+        description: "Large (historical) bridge. Needed to cross to island."
+        icon: monument
+      -
+        title: "Anglesey Coastal Path"
+        location:
+          latitude: 53.13483
+          longitude: -4.4147
+        link: "http://www.visitanglesey.co.uk/en/about-anglesey/isle-of-anglesey-coastal-path/"
+        description: "The 200-kilometre (124 mi) path mainly follows the coast. Exceptions are where the path comes inland from Moel y Don by Plas Newydd estate, and the Bodorgan Estate on the west of the island between Aberffraw and Malltraeth, where Prince William and Kate (Duke and Duchess of Cambridge), used to live."
+        icon: golf # er is geen wandel-icoon helaas...
+      -
+        title: "Llanddwyn Island"
+        description: "Ynys Llanddwyn or Llanddwyn Island is a small tidal island off the west coast of Anglesey (Welsh: Ynys Môn) northwest Wales. The nearest town is Newborough.
+
+        The island is very rich in legends, and in particular the association with Dwynwen. The name Llanddwyn means 'The church of St. Dwynwen'. Dwynwen is the Welsh patron saint of lovers, making her the Welsh equivalent of St. Valentine. Her Saint's day is 25 January and is often celebrated by the Welsh with cards and flowers. The remains of St Dwynwen's Church can be found.
+
+        There are more than 10 miles of footpaths crossing Llanddwyn Island and Newborough Warren, including the Anglesey Coastal Path, and it is a very popular place to visit. The island provides a worth-while goal after the mile-long walk along the beach from the nearest car park. Llanddwyn Island, with the neighbouring beach, has been awarded Blue Flag beach status in recognition of the cleanliness of the sea and the beaches.
+
+        The Llanddwyn Island Lighthouse marks the western entrance to the Menai Strait."
+        link: "http://www.anglesey-history.co.uk/places/llanddwyn/"
+        location:
+          latitude: 53.142
+          longitude: -4.408
+        icon: lighthouse
+      -
+        title: "Copper Mine - Amlwch Industrial Heritage Trust"
+        link: "http://www.visitwales.com/attraction-search/attraction-search-results/attraction-search-details?id=752259&industry=TEA&location=Isle+Of+Anglesey%2c+Wales&radius=10&filterIds=&city=&price=&latitude=53.41541&longitude=-4.331853"
+        description: "The 'Copper Kingdom' refers to the area of Amlwch on Anglesey, North Wales which once had the largest copper mine in the world."
+        location:
+          latitude: 53.415429
+          longitude: -4.331066
+        icon: museum
+      -
+        title: "South Stack Lighthouse and cliffs"
+        description: "South Stack is set in a spectacular location to the north-west of Holyhead.
+
+        The lighthouse acts as a waymark for coastal traffic and a landmark and orientation light for vessels crossing the Irish Sea to and from the ports of Holyhead and Dun Laoghaire. You can now experience the Lighthouse Tour having followed the keeper's journey down the 400 steps on to the island and view the fascinating geology of the surrounding cliffs.
+
+        Due to variable weather conditions that can restrict access to the island, please telephone or check the website before you visit to avoid disappointment."
+        location:
+          latitude: 53.306747
+          longitude: -4.698433
+        icon: lighthouse
+        link: http://www.visitanglesey.co.uk/en/things-to-do/activities/south-stack-lighthouse/#.V8QlVIlE5bV
+      -
+        title: "Plas Newydd Country House"
+        description: "Houses a military museum, an Australian arboretum and an exhibition of Rex Whistler paintings from the 1930s"
+        link: "https://en.wikipedia.org/wiki/Plas_Newydd_(Anglesey)"
+        icon: museum
+        location:
+          latitude: 53.2026
+          longitude: -4.216
+      -
+        title: "Beaumaris Castle"
+        link: "http://cadw.gov.wales/daysout/beaumaris-castle/?lang=en"
+        description: "Beaumaris Castle, located in the town of the same name on the Isle of Anglesey in Wales, was built as part of Edward I's campaign to conquer the north of Wales after 1282. Plans were probably first made to construct the castle in 1284, but this was delayed due to lack of funds and work only began in 1295 following the Madog ap Llywelyn uprising. A substantial workforce was employed in the initial years under the direction of James of St George. Edward's invasion of Scotland soon diverted funding from the project, however, and work stopped, only recommencing after an invasion scare in 1306. When work finally ceased around 1330 a total of £15,000 had been spent, a huge sum for the period, but the castle remained incomplete."
+        icon: monument
+        location:
+          latitude: 53.2648
+          longitude: -4.0897
+      -
+        title: "Anglesey Farmers Market"
+        description: "A wide selection of quality food producers come together on the third Saturday of each month to form Anglesey Farmers Market. Held at David Hughes School, Menai Bridge, the indoor location has plenty of space for leisurely browsing with lots of free parking space right outside."
+        link: "http://www.angleseyfarmersmarket.co.uk/index.php/en/"
+        icon: restaurant
+        location:
+          latitude: 53.228617
+          longitude: -4.176473
+      -
+        title: "The Dingle Nature Reserve"
+        link: "http://www.anglesey.gov.uk/planning-and-waste/countryside/the-dingle-nature-reserve/"
+        description: "The Dingle / Nant y Pandy Local Nature reserve is a 10 hectare (25 acre) wooded valley, rich in wildlife and history."
+        icon: park
+        location:
+          latitude: 53.257874
+          longitude: -4.314977
+      -
+        title: "Lligwy Beach"
+        description: "Regular sightings of seals and dolphins."
+        location:
+          latitude: 53.359712
+          longitude: -4.259978
+        link: "https://en.wikipedia.org/wiki/Lligwy_Bay"
+        icon: park
+  -
+    title: "West Wales"
+    colour: "#00f"
+    items:
+      -
+        title: Aberglasney Gardens
+        link: http://aberglasney.org
+        description: "Aberglasney House and Gardens is a medieval house and gardens set in the Tywi valley in the parish of Llangathen, Carmarthenshire, West Wales. It is owned and run by Aberglasney Restoration Trust, a registered charity. It is a Grade II* listed building."
+        location:
+          latitude: 51.88011
+          longitude: -4.06197
+        icon: garden
+      -
+        title: "Cemaes Head - 5 mi"
+        link: "http://www.pembrokeshirecoast.org.uk/default.asp?PID=401&ID=52"
+        location:
+          latitude: 52.116242
+          longitude:  -4.731703
+        description: The Cemaes Head walk is lovely to do in springtime, you'll see fulmars, cormorants and guillemots nesting on the highest cliffs (550ft) in the National Park. More seals breed here than anywhere else in Wales from mid-summer. And year-round you’re likely to spot chough, ravens, kestrels and buzzards, you may even see bottlenose dolphins in the bay.
+        icon: golf
+      -
+        title: Porthgain to Whitesands - 10 mi
+        description: Embark on this walk from pretty Porthgain harbour for exhilarating hiking along high cliffs. You’ll see spectacular views to rocky bays, a ruined settlement at Abereiddy beach, with its Neolithic burial chambers and views to Ramsey Island, before a paddle at Whitesands beach.
+        link: "http://nt.pcnpa.org.uk/website/sitefiles/nat_trail.asp?usrSection=5"
+        location:
+          latitude: 51.947302
+          longitude: -5.180271
+        icon: golf
+      -
+        title: Stackpole Head - 5 mi
+        description: "A cliff walk that’s as good as it gets for families: a pretty harbour at Stackpole Quay, beautiful Barafundle Bay and Broad Haven beach, plus Bosherston lily ponds (best in June) as an unexpected bonus."
+        link: "http://www.pembrokeshirecoast.org.uk/default.asp?PID=401&ID=6&Class=1&Area=3"
+        location:
+          latitude: 51.622960
+          longitude: -4.928349
+        icon: golf
+      -
+        title: Deer Park to Dale - 10 mi
+        description: "This walk near Marloes is a superb half day; a wave-lashed headland with an Iron Age hillfort and views to Skomer Island clouded by seabirds. Or use it to launch a days walk around the Dale Peninsula: around St Anne’s Head there’s raw Atlantic on one side, calm estuary on the other and a straight back to the Griffin Inn in Dale."
+        link: "http://nt.pcnpa.org.uk/website/sitefiles/nat_trail.asp?usrSection=9"
+        location:
+          latitude: 51.734895
+          longitude: -5.244408
+        icon: golf
+      -
+        title: Swansea
+        link: "http://www.visitwales.com/explore/west-wales/swansea-mumbles-gower/5-must-see"
+        location:
+          latitude: 51.621575
+          longitude: -3.941542
+        description: "With huge beaches, great museums and a fantastic stadium, Swansea has plenty to cheer about. Victoria Trott, author of Thomas Cook Pocket Guide Swansea, tells us what not to miss."
+        icon: town-hall
+      -
+        title: Mumbles
+        description: A vibrant seaside village, you’ll find over 120 shops, restaurants and pubs hugging the west side of Swansea Bay. A rich source of great seafood, much of the local produce finds itself being served in the finest establishments of London and Paris - so try it here at the restaurants serving seafood caught locally. The Mumbles Oyster Festival is one of many attractions for foodies, while the competition for the premier ice cream parlour in Mumbles remains as fierce as ever.
+        link: "https://www.visitswanseabay.com/destinations/mumbles/"
+        location:
+          latitude: 51.576280
+          longitude: -4.000914
+        icon: town-hall
+      -
+        title: 	Three Cliffs Bay and Rhossili Bay
+        description: The dramatic landscape of the Gower Peninsula must be seen to be believed. There are numerous attractions to enjoy in this remarkable outcrop of land. Three Cliffs Bay is regularly voted one of the most dramatic locations in Britain, requiring a 20 minute walk to reveal its true splendour. The huge sweep of Rhossili Bay, featuring the broad expanse of Llangennith beach is equally awe-inspiring - it's as if you’ve reached the furthest point of land on the planet.
+        link: "https://www.visitswanseabay.com/listings/rhossili-bay-beach/"
+        location:
+          latitude: 51.573732
+          longitude: -4.285928
+        icon: park
+      -
+        title: Skomer Island
+        link: "http://www.welshwildlife.org/skomer-skokholm/skomer/"
+        description: Located less than a mile off the beautiful Pembrokeshire coast, Skomer is truly a wonderful place to visit for the day or stay overnight.
+        location:
+          latitude: 51.735887
+          longitude: -5.296609
+        icon: park
+  -
+    title: AONB
+    colour: "#ff0"
+    items:
+      -
+        title: Clwydian Range and Dee Valley AONB
+        link: "http://www.visitwales.com/explore/north-wales/borderlands/clwydian-range-dee-valley"
+        location:
+          latitude: 53.183317
+          longitude: -3.250186
+        description: "In the summer of 1985, the 21-mile Clwydian Range was designated an Area of Outstanding Natural Beauty (AONB) – a region whose landscapes, culture, flora and fauna are considered an asset to the nation. In 2011, the boundaries of the Clwydian Range AONB were extended to cover much of the Dee Valley including the spectacular, rocky bulk of Eglwyseg Escarpment, Horseshoe Pass and Esclusham Mountain."
+        icon: park
+      -
+        title: Llyn Peninsula AONB
+        link: "http://www.visitwales.com/explore/north-wales/snowdonia-mountains-coast/explore-llyn-peninsula"
+        description: "Tucked away beyond Snowdonia’s craggiest peaks with the Irish Sea on one side and Cardigan Bay on the other, the Llŷn has a distinctive, unspoilt character that’s all its own. Its sunny southern coast draws walkers, wakeboarders and dinghy-sailors, while the ancient pilgrimage site of Bardsey Island, at its tip, is a haven for wildlife."
+        location:
+          latitude: 52.897620
+          longitude: -4.504706
+        icon: park
+      -
+        title: Gower AONB
+        description: "Famous for its beaches, surf and walking trails, Gower also contains exceptional ecological and archaeological sites. Within a few miles of each other are three Nature Reserves, several Sites of Special Scientific Interest and the earliest known human burial site in Western Europe, Paviland Cave, where 34,000 year old remains were found."
+        link: "http://www.visitwales.com/explore/west-wales/swansea-mumbles-gower/explore-award-winning-gower"
+        location:
+          latitude: 51.595405
+          longitude: -4.170230
+        icon: park
+      -
+        title: Wye Valley AONB
+        description: "The entire length of the River Wye is a Site of Scientific Interest and the lower section of its valley, from Hereford to Chepstow via Tintern Abbey, is an AONB. Wonderfully lush, this is one of Britain’s finest riverside landscapes: many artists and writers have found inspiration here. It also attracts canoeists, climbers and riders, while the Wye Valley Walk and Offa’s Dyke Park National Trail are hugely popular with walkers."
+        link: "http://www.visitwales.com/explore/south-wales/wye-valley-vale-usk/explore-aonb-river"
+        location:
+          latitude: 51.836125
+          longitude: -2.633192
+        icon: park
+  -
+    title: "England"
+    colour: "#fff"
+    items:
+      -
+        title: Arthur's Stone
+        description: "Arthur's Stone, Herefordshire is a Neolithic chambered tomb, or Dolmen, dating from 3,700 BC – 2,700 BC and is situated on the ridge line of a hill overlooking both the Golden Valley, Herefordshire and the Wye Valley, Herefordshire."
+        link: http://www.english-heritage.org.uk/visit/places/arthurs-stone/
+        location:
+          latitude: 52.0823
+          longitude: -2.99531
+        icon: monument
+      -
+        title: St Briavels Castle
+        link: "http://www.english-heritage.org.uk/visit/places/st-briavels-castle/"
+        description: "Built in the early 12th century, St Briavel’s was an important royal castle on the frontier with Wales and the administrative and judicial centre of the Forest of Dean – a royal hunting ground where the game was protected and the king alone allowed to hunt.
+
+        Edward I added a fine twin-towered gatehouse to St Briavel's in 1292. During his reign the castle was a crossbow bolt factory, using local Forest of Dean iron to produce weapons for his campaigns against the Welsh and Scots. After the conquest of Wales the gatehouse became a debtor's prison, and the castle is now a youth hostel, set in wonderful walking country."
+        location:
+          latitude: 51.73784
+          longitude: -2.64145
+        icon: monument
+      -
+        title: Temple Church
+        description: "Welcome to the Temple Church. This is the church of Inner and Middle Temple, two of England’s four ancient societies of lawyers, the Inns of Court; we are here to serve the two Inns’ members and staff, and all those who work in this oasis of calm known as The Temple.  We are glad to welcome visitors as well, from all over the world, to this beautiful and historic place at the very centre of London. Whether you want to discover one of the city’s loveliest areas, find some peace and quiet, or pray for your own loved ones here and at home, you are welcome."
+        link: http://www.templechurch.com
+        location:
+          latitude: 51.45198
+          longitude: -2.58701
+        icon: religious-christian
+      -
+        title: "Seven Sisters Country Park"
+        description: "The Seven Sisters are a series of chalk cliffs by the English Channel at South Downs National Park. It has 280 hectares of chalk cliffs and open chalk grassland. Visitors have the option of cycling, canoeing, bird watching and hiking in the area. It is one of Britain’s untouched coastlines and it’s currently being managed by East Sussex County Council."
+        location:
+          latitude: 50.775241
+          longitude: 0.153384
+        icon: park
+      -
+        title: "Liverpool"
+        description: "Visitors can check out the six areas in this historic center and docklands. It tells the story of how the UK developed all throughout the centuries.  This dock holds the story of the mass movement of people, slaves, and immigrants that came from northern Europe to America.  Today, it is a picture of modern dock technology complete with transport systems, port management and the home of significant commercial, civic and public buildings like St. George’s Plateau. However, due to it’s modernization, it has been labeled as an endangered World Heritage Site, one of only two in Europe."
+        icon: town-hall
+        location:
+          latitude: 53.413580
+          longitude: -2.993086
+      -
+        title: "The Malvern Hills (AONB)"
+        description: "The Malvern Hills are a range of hills in the English counties of Worcestershire, Herefordshire, and a small area of northern Gloucestershire. This place contains some of the oldest rocks in Britain. Mostly igneous and metamorphic rocks from the late pre-Cambrian known as the Uriconian, which are around 680 million years old! Today, people are be able to enjoy the 3000 acres of the open countryside or climb the highest point at the Worcestershire Beacon and even relax while viewing the wooded slopes."
+        icon: park
+        location:
+          latitude: 52.103527
+          longitude: -2.337746
+      -
+        title: "Canterbury Cathedral"
+        description: "This place is considered to be the most popular Christian Structure in England. It is the cathedral of the Archbishop of Canterbury, the main leader of the Church of England and considered the symbolic leader of the Anglican Communion.The church was rebuilt from 1070 to 1077 and was made larger. It was then renovated to have a Gothic style in 1174 in order to be able to house pilgrims who are visiting the shrine of Thomas Becket. Thomas Becket was the archbishop who was murdered in the cathedral in the 1170."
+        icon: monument
+        location:
+          latitude: 51.279796
+          longitude: 1.082747
+        link: http://www.canterbury-cathedral.org
+      -
+        title: "Cotsworlds"
+        description: "The cotswolds is a range of hills in the Southwestern and West-central England. It has a width of 25 miles and is 145 km long. The area is filled with attractive small towns and villages that are built underlying the Cotswold stone. The place is rich in limestone particularly fossilized sea urchins. During the Middle Ages, it was an important route for wool trade which is what made Cotswolds prosperous."
+        location:
+          latitude: 51.781360
+          longitude: -2.013626
+        icon: park
+        link: http://www.the-cotswolds.org
+      -
+        title: "Stonehenge"
+        description: "This place is considered to be one of the most famous sites in the world. One can feel the dense complex of the Neolithic age and the Bronze Age as one sets foot in this area. Archaeologists believe that this place was created from 3000 BC to 2000 BC. But some are claiming with the use of radiocarbon dating that the first stones were raised from 2400 to 2200 BC. It was added to the UNESCO’s list of World Heritage Sites in 1986 and some studies released in 2008 stated that Stonehenge may have been a burial ground in the past."
+        location:
+          latitude: 51.178877
+          longitude: -1.826222
+        icon: monument
+      -
+        title: "Jurassic Coast World Heritage Site"
+        description: "This is included in the list of World Heritage Sites on the English Channel along the coast of Southern England. In historical records during World War II, some of the sections of the Jurassic Coast became the property of the Ministry of War and were used as a military training ground. Today, however, it has been returned to civilian use."
+        location:
+          latitude: 50.671179
+          longitude: -2.655156
+        icon: water
+      -
+        title: "Arundel Castle"
+        link: http://www.arundelcastle.org
+        description: "Arundel Castle is a restored and remodeled medieval castle in Arundel, West Sussex, England. It was established by Roger de Montgomery on Christmas Day 1067. Roger became the first to hold the earldom of Arundel by the graces of William the Conqueror. The castle was damaged in the English Civil War and then restored in the 18th and 19th centuries."
+        location:
+          latitude: 50.856291
+          longitude: -0.553893
+        icon: monument
+      -
+        title: "Avebury"
+        link: http://www.english-heritage.org.uk/visit/places/avebury/
+        description: "(Alternative to Stonehenge, you can touch the stones here!) Avebury henge and stone circles are one of the greatest marvels of prehistoric Britain. Built and much altered during the Neolithic period, roughly between 2850 BC and 2200 BC, the henge survives as a huge circular bank and ditch, encircling an area that includes part of Avebury village. Within the henge is the largest stone circle in Britain - originally of about 100 stones - which in turn encloses two smaller stone circles."
+        location:
+          latitude: 51.428850
+          longitude: -1.854912
+        icon: monument
+      -
+        title: Salisbury Cathedral
+        description: "Salisbury Cathedral, formally known as the Cathedral Church of the Blessed Virgin Mary, is an Anglican cathedral in Salisbury, England, and one of the leading examples of Early English architecture. The main body of the cathedral was completed in only 38 years, from 1220 to 1258.
+
+        The cathedral has the tallest church spire in the United Kingdom (123m/404 ft). Visitors can take the 'Tower Tour' where the interior of the hollow spire, with its ancient wood scaffolding, can be viewed. The cathedral also has the largest cloister and the largest cathedral close in Britain (80 acres (32 ha)).[1] It contains the world's oldest working clock (from AD 1386) and has the best surviving of the four original copies of Magna Carta (all four original copies are in England). In 2008, the cathedral celebrated the 750th anniversary of its consecration."
+        link: http://www.salisburycathedral.org.uk
+        location:
+          latitude: 51.064882
+          longitude: -1.797310
+        icon: monument
+      -
+        title: Winchester
+        description: "Winchester is a city in the county of Hampshire, on the edge of England's South Downs National Park. It’s known for medieval Winchester Cathedral, with its 17th-century Morley Library, the Winchester Bible and a Norman crypt. Nearby are the ruins of Wolvesey Castle and the Winchester City Mill, a working 18th-century corn mill. The Great Hall of Winchester Castle houses the medieval round table linked to King Arthur."
+        location:
+          latitude: 51.059597
+          longitude: -1.310577
+        link: http://www.visitwinchester.co.uk
+        icon: town-hall
+      -
+        title: Glastonbury Abbey
+        description: This is THE destination for fans of King Arthur, as well as spirituality buffs. Tour Glastonbury Abbey, rich in myth and legend; see the Glastonbury Thorn (supposedly planted by Joseph of Arimathea), and various King Arthur sites. Fantasize about Camelot and Avalon, and ancient Christianity (And did those feet in ancient time walk upon England's mountain greens?).
+        link: http://www.glastonburyabbey.com
+        location:
+          latitude: 51.145994
+          longitude: -2.715490
+        icon: monument
+      -
+        title: Cambridge
+        description: "Cambridge (/ˈkeɪmbrɪdʒ/[3] kaym-brij) is a university city and the county town of Cambridgeshire, England, on the River Cam about 50 miles (80 km) north of London. At the United Kingdom Census 2011, its population was 123,867, including 24,488 students.
+
+        There is archaeological evidence of settlement in the area in the Bronze Age and in Roman Britain; under Viking rule, Cambridge became an important trading centre. The first town charters were granted in the 12th century, although city status was not conferred until 1951.
+
+        Be sure to visit King's College Chapel, take a [ride in a punt](http://www.punting-in-cambridge.co.uk/booking.php)..."
+        link: https://www.cambridge.gov.uk
+        location:
+          latitude: 52.205336
+          longitude: 0.122210
+        icon: town-hall
+
+      -
+        title: "Richborough Roman Fort And Amphitheatre"
+        link: "http://www.english-heritage.org.uk/visit/places/richborough-roman-fort-and-amphitheatre"
+        description: "Evocatively sited amid the East Kent marshes, Richborough is perhaps the most symbolically important of all Roman sites in Britain, witnessing both the beginning and almost the end of Roman rule here. Explore the huge stone walls which mark the site of this Saxon Shore fortress and take a look at the fascinating museum. Catch a boat from Sandwich and reach the fort as the Romans would have done. Please contact site to check times."
+        location:
+          latitude: 51.29361
+          longitude: 1.33143
+        icon: monument
+      -
+        title: "Deal Castle"
+        link: "http://www.english-heritage.org.uk/visit/places/deal-castle/"
+        location:
+          latitude: 51.21942
+          longitude: 1.4036
+        description: "For a fascinating day out on the Kent coast look no further than Deal Castle.
+
+        Built by the order of King Henry VIII it is one of the finest Tudor artillery castles in England, and among the earliest and most elaborate of a chain of coastal forts, which also includes Calshot, Camber, Walmer and Pendennis Castles.
+
+        Today you can explore the whole of the castle, from the storerooms to the first-floor captain’s residence. Take a walk around the defences and admire the squat, rounded bastions and canons.
+
+        If you enjoy cycling, a pleasant cycle path links Deal and Walmer Castles along the beachfront."
+        icon: monument
+      -
+        title: "White Cliffs of Dover"
+        description: "The White Cliffs of Dover are cliffs that form part of the English coastline facing the Strait of Dover and France. The cliffs are part of the North Downs formation. The cliff face, which reaches up to 350 feet (110 m), owes its striking façade to its composition of chalk accentuated by streaks of black flint"
+        link: "https://www.nationaltrust.org.uk/the-white-cliffs-of-dover"
+        location:
+          latitude: 51.13446
+          longitude: 1.3573
+        icon: park
+      -
+        title: "Dover Castle"
+        link: "http://www.english-heritage.org.uk/visit/places/dover-castle/"
+        description: "The most iconic of all English fortresses commanding the gateway to the realm for nine centuries. Climb the Great Tower, meet the characters and immerse yourself in vivid medieval interiors. Then delve deep within Dover’s White Cliffs to witness the drama in the Secret Wartime Tunnels.  Roam through centuries of history at Dover Castle, from the Romans to the Cold War, in an action-packed day out."
+        location:
+          latitude: 51.12877
+          longitude: 1.32339
+        icon: monument
+      -
+        title: "Western Heights Of Dover"
+        location:
+          latitude: 51.12274
+          longitude: 1.30776
+        link: "http://www.doverwesternheights.org"
+        description: "The Western Heights of Dover are one of the most impressive fortifications in Britain. They comprise a series of forts, strong points and ditches, designed to protect the country from invasion. They were created to augment the existing defences and protect the key port of Dover from both seaward and landward attack. They are now a Local Nature Reserve."
+        icon: monument
+      -
+        title: "Kit's Coty House"
+        description: "Kit's Coty House or Kit's Coty is the name of the remains of a Neolithic chambered long barrow on Blue Bell Hill near Aylesford in the English county of Kent.
+
+        One of the Medway megaliths constructed in the vicinity of the River Medway, Kit's Coty House are located close to five other surviving chambered long barrows: the Coldrum Stones, Addington long barrow, Chestnuts long barrow, the Countless Stones and Coffin Stone.
+
+        The site is now under the ownership of non-departmental public body English Heritage, and is open to visitors all year round."
+        link: "https://en.wikipedia.org/wiki/Kit%27s_Coty_House"
+        location:
+          latitude: 51.31981
+          longitude: 0.50332
+        icon: monument
+      -
+        title: "Target Sports"
+        description: "What do discipline, self control, courtesy & respect for others - oh, and huge amounts of fun - have to do with shooting? Welcome to the world of 1066 Target Sports. Located in the beautiful town of Hastings, East Sussex 1066 Target Sports is a warm, dry, and well lit environment, suitable for all the family. As well as promoting the sport we love, our aim is to de-myth the perception of target shooting, and to teach the benefits to be gained from a disciplined sport, personal development being one of them. We want to pass on our passion to you! Within only 6 months, 1066 Target Sports was voted Hastings top attraction on TripAdvisor, and now, just 1 year on, we've been voted the top attraction in the whole of East Sussex!"
+        link: "http://www.1066targetsports.co.uk"
+        location:
+          latitude: 50.88606
+          longitude: 0.55204
+        icon: baseball
+      -
+        title: "Battle Abbey"
+        description: "Stand on the spot where 950 years ago, England’s future was fought in the decisive Battle of 1066. Follow in the footsteps of King Harold and William the Conqueror and uncover the stories vividly brought to life. This year see the new special exhibition, climb to see the stunning new rooftop views, and explore the impressive new sculpture trail. Inspire your imagination, start planning your attack on the country’s most famous battlefield and abbey ruins, and experience the atmosphere for yourself."
+        link: "http://www.english-heritage.org.uk/visit/places/1066-battle-of-hastings-abbey-and-battlefield/"
+        location:
+          latitude: 50.91421
+          longitude: 0.48739
+        icon: monument
+      -
+        title: "Beachy Head"
+        link: "http://www.beachyhead.org.uk"
+        description: "Beachy Head is a chalk headland in East Sussex, England. It is situated close to Eastbourne, immediately east of the Seven Sisters.
+
+        Beachy Head is located within the administrative area of Eastbourne Borough Council which owns the land. The cliff is the highest chalk sea cliff in Britain, rising to 162 metres (531 ft) above sea level. The peak allows views of the south east coast from Dungeness in the east, to Selsey Bill in the west. Its height has also made it one of the most notorious suicide spots in the world."
+        location:
+          latitude: 50.73995
+          longitude: 0.24189
+        icon: water
+      -
+        title: "Hever Castle & Gardens"
+        link: "http://www.hevercastle.co.uk"
+        description: "Hever Castle is located in the village of Hever, Kent, near Edenbridge, 30 miles (48 km) south-east of London, England. It began as a country house, built in the 13th century. From 1462 to 1539 it was the seat of the Boleyn, originally 'Bullen', family.[1]
+
+        Anne Boleyn, the second queen consort of King Henry VIII of England, spent her early youth there, after her father, Thomas Boleyn had inherited it in 1505. He had been born there in 1477, and the castle passed to him upon the death of his father, Sir William Boleyn. It later came into the possession of King Henry's fourth wife, Anne of Cleves. In the 21st century the castle is a tourist attraction."
+        location:
+          latitude: 51.18573
+          longitude: 0.12206
+        icon: monument
+      -
+        title: "Royal Pavilion"
+        description: "The Royal Pavilion, also known as the Brighton Pavilion, is a former royal residence located in Brighton, England. Beginning in 1787, it was built in three stages as a seaside retreat for George, Prince of Wales, who became the Prince Regent in 1811. It is built in the Indo-Saracenic style prevalent in India for most of the 19th century. The current appearance of the Pavilion, with its domes and minarets, is the work of architect John Nash, who extended the building starting in 1815."
+        link: "http://brightonmuseums.org.uk/royalpavilion/"
+        location:
+          latitude: 50.82235
+          longitude: -0.13768
+        icon: monument
+      -
+        title: "Hampton Court Palace"
+        link: "http://www.hrp.org.uk/hampton-court-palace/"
+        description: "Discover the magnificence of Henry VIII's favourite royal residence. Immerse yourself in the sights and sounds of the bustling Base Court and marvel at the breath-taking grandeur of Henry's State Rooms. Tickle your taste buds in the vast Tudor kitchens, stroll through over 60 acres of enchanting gardens, lose yourself in the famous maze and appreciate the beauty of one of the greatest palaces on earth.
+
+        Creep along the Haunted Gallery and discover another palace, the Baroque Palace, full of intrigue and gossip from the Stuart and Georgian era. Audio guides are included in the palace ticket and costumed tours and talks happen daily, as well as an excellent programme of seasonal events."
+        location:
+          latitude: 51.40361
+          longitude: -0.33776
+        icon: monument
+      -
+        title: "St George's Chapel"
+        link: "http://www.stgeorges-windsor.org/visit-us.html"
+        description: "St George's Chapel is the place of worship at Windsor Castle in England, United Kingdom. It is both a royal peculiar and the chapel of the Order of the Garter. The chapel is governed by the Dean and Canons of Windsor.
+
+        The chapel is located in the Lower Ward of the castle, which is one of the principal residences of Queen Elizabeth II."
+        location:
+          latitude: 51.48363
+          longitude: -0.60684
+        icon: religious-christian
+      -
+        title: "Waverley Abbey"
+        description: "Waverley Abbey in Surrey was the very first monastery founded in Britain by the reforming Cistercian religious order. A small group of monks from France settled in this quiet spot by the River Wey in 1128, and Waverley soon became the springboard for Cistercian settlement in southern England. The impressive remains include the fine 13th century vaulted refectory or dining hall for the lay brothers, the Cistercians' labour force."
+        link: "http://www.english-heritage.org.uk/visit/places/waverley-abbey/"
+        location:
+          latitude: 51.20038
+          longitude: -0.75885
+        icon: religious-christian
+      -
+        title: "Farnham Castle"
+        link: "http://www.farnhamcastle.com"
+        description: "Standing on the crest of a hill overlooking the town of Farnham are the impressive motte and 'shell keep' of a castle founded in 1138 by Henry of Blois, Bishop of Winchester and brother of King Stephen. In medieval times the diocese of Winchester was the richest in England, and Farnham was a favourite residence of the bishops. The castle was rebuilt in the late 12th and early 13th centuries, but a viewing platform reveals the buried remains of an earlier tower."
+        location:
+          latitude: 51.21852
+          longitude: -0.80239
+        icon: monument
+      -
+        title: "Bletchley Park"
+        link: "https://www.bletchleypark.org.uk"
+        description: "Bletchley Park was the central site for Britain's codebreakers during World War II. Run by the Government Code and Cypher School (GC&CS), it regularly penetrated the secret communications of the Axis Powers – most importantly the German Enigma and Lorenz ciphers. The official historian of World War II British Intelligence has written that the 'Ultra' intelligence produced at Bletchley shortened the war by two to four years, and that without it the outcome of the war would have been uncertain."
+        location:
+          latitude: 51.99765
+          longitude: -0.74068
+        icon: monument
+      -
+        title: "Spinnaker Tower"
+        link: "https://www.spinnakertower.co.uk"
+        description: "A 170 metre tall visitor attraction overlooking historical Portsmouth harbour and the Solent."
+        location:
+          latitude: 50.79587
+          longitude: -1.10642
+        icon: monument
+      -
+        title: "HMNB Victory and Mary Rose Museum"
+        description: "Her Majesty's Naval Base, Portsmouth (HMNB Portsmouth) is one of three operating bases in the United Kingdom for the British Royal Navy (the others being HMNB Clyde and HMNB Devonport). Portsmouth Naval Base is part of the city of Portsmouth; it is located on the eastern shore of Portsmouth Harbour, north of the Solent and the Isle of Wight. Until the early 1970s it was officially known as Portsmouth Royal Dockyard (or HM Dockyard, Portsmouth); the shipbuilding, repair and maintenance element of the base was privatized in the late-1990s/early-2000s."
+        link: "https://en.wikipedia.org/wiki/HMNB_Portsmouth"
+        location:
+          latitude: 50.80198
+          longitude: -1.10913
+        icon: museum
+      -
+        title: "The Grange Estate"
+        link: "http://www.thegrangeestate.co.uk"
+        description: "The Grange Estate is a landed and sporting estate of over three thousand acres in central Hampshire, located east of Winchester in the beautiful Upper Itchen and Candover valleys.  In addition to agricultural and amenity land, the Estate comprises a number of buildings with a range of different uses, including holiday accommodation and residential and commercial premises.  It also hosts an attractive campsite, Abbotstone Wood Camping, well placed for the local network of footpaths and bridleways."
+        location:
+          latitude: 51.12188
+          longitude: -1.19812
+        icon: monument
+      -
+        title: "University of Oxford"
+        icon: monument
+        description: "The University of Oxford (informally Oxford University or simply Oxford) is a collegiate research university located in Oxford, England, United Kingdom. While having no known date of foundation, there is evidence of teaching as far back as 1096, making it the oldest university in the English-speaking world and the world's second-oldest surviving university. It grew rapidly from 1167 when Henry II banned English students from attending the University of Paris. After disputes between students and Oxford townsfolk in 1209, some academics fled northeast to Cambridge where they established what became the University of Cambridge. The two \"ancient universities\" are frequently jointly referred to as \"Oxbridge\"."
+        location:
+          latitude: 51.75663
+          longitude: -1.2547
+      -
+        title: "Ashmolean Museum of Art and Archaeology"
+        link: "http://www.ashmolean.org"
+        description: "The Ashmolean is the University of Oxford's museum of art and archaeology, founded in 1683. It is the oldest public museum in the world and has incredibly rich collections from around the globe, ranging from Egyptian mummies and classical sculpture to the Pre-Raphaelites and modern art. (free)"
+        location:
+          latitude: 51.7555
+          longitude: -1.26037
+        icon: museum
+      -
+        title: Blenheim Palace
+        link: http://www.blenheimpalace.com
+        description: "Blenheim Palace, near Oxford, stands in a romantic park created by the famous landscape gardener 'Capability' Brown. It was presented by the English nation to John Churchill, first Duke of Marlborough, in recognition of his victory in 1704 over French and Bavarian troops. Built between 1705 and 1722 and characterized by an eclectic style and a return to national roots, it is a perfect example of an 18th-century princely dwelling."
+        location:
+          latitude: 51.84138
+          longitude: -1.36091
+        icon: monument
+      -
+        title: Hawk Conservancy Trust
+        link: http://www.hawk-conservancy.org
+        description: The Hawk Conservancy Trust is a visitor centre and conservation charity that works in the fields of conservation, education, rehabilitation and research of birds of prey.
+        icon: zoo
+        location:
+          latitude: 51.20818
+          longitude: -1.56176
+      -
+        title: Stanton Drew Circles and Cove
+        link: http://www.english-heritage.org.uk/visit/places/stanton-drew-circles-and-cove/
+        description: "Although this is the third largest complex of prehistoric standing stones in England, the three circles and three-stone ‘cove’ of Stanton Drew in Somerset are surprisingly little known. The Great Circle, 113 metres in diameter, is one of the largest stone circles in the country and has 26 surviving upright stones. Yet recent surveys have revealed that the circles and cove were just part of a much more elaborate and important ritual site than had previously been imagined."
+        location:
+          latitude: 51.36739
+          longitude: -2.57567
+        icon: monument
+  -
+    title: "Hotels"
+    colour: "#45de00"
+    items:
+      -
+        title: "The Solar Strand Hotel"
+        icon: lodging
+        description: "Lodge 1"
+        location:
+          latitude: 51.621733
+          longitude: -3.127352
+      -
+        title: "Barmouth Bay Holiday Park"
+        description: "Lodge 2"
+        icon: lodging
+        location:
+          latitude: 52.771573
+          longitude: -4.106313
+      -
+        title: "Oakhurst Gatwick B&B"
+        description: "Lodge 3"
+        icon: lodging
+        location:
+          latitude: 51.143059
+          longitude: -0.149241

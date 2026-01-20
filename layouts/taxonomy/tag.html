@@ -1,0 +1,15 @@
+{{ define "head" }}
+<meta name="robots" content="noindex">
+{{ end }}
+
+{{ define "main" }}
+
+<h1>{{ .Data.Term }}</h1>
+
+<ul class="post-list">
+{{ range .Data.Pages }}
+    <li>{{ partial "post_summary.html" . }}</li>
+{{ end }}
+</ul>
+
+{{ end }}

@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+{{ range .Site.Data.reading_list }}
+    <h2>{{ .year }}</h2>
+    <ul class="book-list">
+        {{ range .books }}
+            <li>
+                <span class="book-title">{{ .title }}</span> – <span class="book-author">{{ .author }}</span>
+            </li>
+        {{ end }}
+    </ul>
+{{ end }}
+
+{{ end }}

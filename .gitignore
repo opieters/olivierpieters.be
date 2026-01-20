@@ -1,0 +1,11 @@
+public/
+static/js/lunr/PagesIndex.json
+assets/vendor/bower_components/
+assets/vendor/node_modules/
+resources/_gen/
+static/vendor/bower_components/
+static/vendor/node_modules/
+static/images/
+node_modules/
+.hugo_build.lock
+**.DS_Store

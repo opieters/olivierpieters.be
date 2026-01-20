@@ -1,0 +1,95 @@
+map: false
+picture_path: mullerthal-2019
+pictures:
+- filename: MULL-05
+  original: MULL-05-5283x3522.jpg
+  sizes:
+  - MULL-05-750x500.jpg
+  - MULL-05-1500x1000.jpg
+  - MULL-05-3000x2000.jpg
+  thumbnail: MULL-05-750x500.jpg
+- filename: MULL-13
+  original: MULL-13-6000x4000.jpg
+  sizes:
+  - MULL-13-3000x2000.jpg
+  - MULL-13-750x500.jpg
+  - MULL-13-1500x1000.jpg
+  thumbnail: MULL-13-750x500.jpg
+- filename: MULL-26
+  original: MULL-26-6000x4000.jpg
+  sizes:
+  - MULL-26-3000x2000.jpg
+  - MULL-26-750x500.jpg
+  - MULL-26-1500x1000.jpg
+  thumbnail: MULL-26-750x500.jpg
+- filename: MULL-33
+  original: MULL-33-6000x4000.jpg
+  sizes:
+  - MULL-33-3000x2000.jpg
+  - MULL-33-1500x1000.jpg
+  - MULL-33-750x500.jpg
+  thumbnail: MULL-33-750x500.jpg
+- filename: MULL-34
+  original: MULL-34-6000x4000.jpg
+  sizes:
+  - MULL-34-3000x2000.jpg
+  - MULL-34-750x500.jpg
+  - MULL-34-1500x1000.jpg
+  thumbnail: MULL-34-750x500.jpg
+- filename: MULL-36
+  original: MULL-36-6000x4000.jpg
+  sizes:
+  - MULL-36-750x500.jpg
+  - MULL-36-1500x1000.jpg
+  - MULL-36-3000x2000.jpg
+  thumbnail: MULL-36-750x500.jpg
+- filename: MULL-39
+  original: MULL-39-6000x4000.jpg
+  sizes:
+  - MULL-39-3000x2000.jpg
+  - MULL-39-750x500.jpg
+  - MULL-39-1500x1000.jpg
+  thumbnail: MULL-39-750x500.jpg
+- filename: MULL-40
+  original: MULL-40-6000x4000.jpg
+  sizes:
+  - MULL-40-1500x1000.jpg
+  - MULL-40-750x500.jpg
+  - MULL-40-3000x2000.jpg
+  thumbnail: MULL-40-750x500.jpg
+- filename: MULL-45
+  original: MULL-45-5222x3481.jpg
+  sizes:
+  - MULL-45-3000x2000.jpg
+  - MULL-45-750x500.jpg
+  - MULL-45-1500x1000.jpg
+  thumbnail: MULL-45-750x500.jpg
+- filename: MULL-59
+  original: MULL-59-6000x4000.jpg
+  sizes:
+  - MULL-59-1500x1000.jpg
+  - MULL-59-750x500.jpg
+  - MULL-59-3000x2000.jpg
+  thumbnail: MULL-59-750x500.jpg
+- filename: MULL-65
+  original: MULL-65-6000x4000.jpg
+  sizes:
+  - MULL-65-3000x2000.jpg
+  - MULL-65-1500x1000.jpg
+  - MULL-65-750x500.jpg
+  thumbnail: MULL-65-750x500.jpg
+- filename: MULL-67
+  original: MULL-67-6000x4000.jpg
+  sizes:
+  - MULL-67-1500x1000.jpg
+  - MULL-67-750x500.jpg
+  - MULL-67-3000x2000.jpg
+  thumbnail: MULL-67-750x500.jpg
+- filename: MULL-86
+  original: MULL-86-6000x4000.jpg
+  sizes:
+  - MULL-86-3000x2000.jpg
+  - MULL-86-1500x1000.jpg
+  - MULL-86-750x500.jpg
+  thumbnail: MULL-86-750x500.jpg
+title: Mullerthal Hiking

@@ -1,0 +1,265 @@
+-
+  title: "Electronics"
+  entries:
+    -
+      title: "Design nice wire connection schemes"
+      url: "http://fritzing.org/download/"
+-
+  title: "Programming"
+  entries:
+    -
+      title: "Git vs. Mercurial: Please Relax"
+      url: "https://importantshock.wordpress.com/2008/08/07/git-vs-mercurial/"
+    -
+      title: "How do I programmatically get the free disk space for a directory in Linux"
+      url: "http://stackoverflow.com/questions/3992171/how-do-i-programmatically-get-the-free-disk-space-for-a-directory-in-linux"
+    -
+      title: "CI for Windows"
+      url: "http://www.appveyor.com"
+    -
+      title: "Display code coverage of tests"
+      url: "https://coveralls.io"
+    -
+      title: "How to Use Git Hooks"
+      url: "https://www.atlassian.com/git/tutorials/git-hooks/"
+    -
+      title: "A guide to analyzing Python performance"
+      url: "https://www.huyng.com/posts/python-performance-analysis"
+-
+  title: "Security"
+  entries:
+    -
+      title: "Being privacy-aware in 2016"
+      url: "https://vox.space/blog/89/"
+    -
+      title: "Cross Platform Password Manager"
+      url: "https://www.keepassx.org"
+    -
+      title: "List of websites that (should probably) be blocked"
+      url: "https://github.com/StevenBlack/hosts"
+    -
+      title: "Stop Facebook tracking you across the web, change these settings"
+      url: "http://www.zdnet.com/article/to-stop-facebook-tracking-you-across-the-web-change-these-settings/"
+    -
+      title: "Vault - A tool for managing secrets"
+      url: "https://github.com/hashicorp/vault"
+    -
+      title: "WireGuard - VPN"
+      url: "https://www.wireguard.io/install/"
+-
+  title: "Online Stores"
+  entries:
+    -
+      title: "Business Cards (MOO.com)"
+      url: "https://www.moo.com/nl/"
+    -
+      title: "Electronic Components (Mouser)"
+      url: "http://www.mouser.be"
+-
+  title: "Writing and Speaking in Public"
+  entries:
+    -
+      title: "How Collective Wisdom Shapes a Talk"
+      url: "http://wesleyhales.com/blog/2013/02/25/How-Collective-Wisdom-Shapes-a-Talk/"
+    -
+      title: "Writing English as a Second Language"
+      url: "https://theamericanscholar.org/writing-english-as-a-second-language/"
+    -
+      title: "Use the “Memory Palace” Technique to Memorize Presentations"
+      url: "http://lifehacker.com/use-the-memory-palace-technique-to-memorize-presentat-1585648411"
+    -
+      title: "The clues to a great story (TED Talk)"
+      url: "http://www.ted.com/talks/andrew_stanton_the_clues_to_a_great_story"
+    -
+      title: "10 tips on how to make slides that communicate your idea, from TED’s in-house expert"
+      url: "http://blog.ted.com/10-tips-for-better-slide-decks/"
+    -
+      title: "Teaching is not Learning: Going beyond the traditional Lecture"
+      url: "https://www.youtube.com/watch?v=07QxQRl1viI&feature=youtu.be"
+    -
+      title: "Communicating Science to Nonscientists"
+      url: "https://www.youtube.com/watch?v=IFu3jaLmse0&feature=youtu.be"
+    -
+      title: "Shortcomings in modern scientific writing"
+      url: "http://www.principiae.be/pdfs/UGent-X-003-slideshow.pdf"
+-
+  title: Science (general)
+  entries:
+    -
+      title: "A New Way of Thinking: The IBM Quantum Experience"
+      url: http://www.research.ibm.com/quantum/
+    -
+      title: How to Fold a Julia Fractal
+      url: http://acko.net/blog/how-to-fold-a-julia-fractal/
+    -
+      title: Zepto.JS
+      url: http://zeptojs.com
+-
+  title: Web/Graphic Design
+  entries:
+    -
+      title: Announcing letsencrypt-aws
+      url: https://alexgaynor.net/2016/jan/20/announcing-letsencrypt-aws/
+    -
+      title: 13 Steps To a Faster Jekyll Website
+      url: https://wiredcraft.com/blog/make-jekyll-fast/
+    -
+      title: Display a Message When a Browser is Unsupported
+      url: http://stackoverflow.com/questions/348202/display-a-message-when-a-browser-is-unsupported
+    -
+      title: ImageOptim makes images load faster
+      url: https://imageoptim.com/howto.html
+    -
+      title: The 100 best free fonts
+      url: http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380
+    -
+      title: Longer excerpt in Jekyll
+      url: http://stackoverflow.com/questions/16422933
+    -
+      title: Sandstorm is an open source operating system for personal and private clouds
+      url: "https://sandstorm.io"
+    -
+      title: High Quality SVG social icons
+      url: "http://codepen.io/ruandre/pen/howFi"
+    -
+      title: "Vertical centering in HTML/CSS"
+      url: "http://stackoverflow.com/questions/21562253/vertical-centering-some-text-over-an-image-with-dynamic-height"
+    -
+      title: "Vertical centering text over image HTML/CSS"
+      url: "http://stackoverflow.com/questions/18516317/vertically-align-an-image-inside-a-div-with-responsive-height/18516474#18516474"
+
+-
+  title: LaTeX
+  entries:
+    -
+      title: "The Beauty of LaTeX"
+      url: "http://nitens.org/taraborelli/latex"
+    -
+      title: Typesetting Mathematics According to the ISO Standard
+      url: https://nickhigham.wordpress.com/2016/01/28/typesetting-mathematics-according-to-the-iso-standard/
+    -
+      title: LaTeX Font Catalogue
+      url: http://www.tug.dk/FontCatalogue/mathfonts.html
+    -
+      title: How can I draw a TikZ element multiple times against a shaded background?
+      url: http://tex.stackexchange.com/questions/126161/how-can-i-draw-a-tikz-element-multiple-times-against-a-shaded-background
+    -
+      title: Beamer Arrows
+      url: https://www.overleaf.com/latex/templates/beamer-arrows/wmqkckggvjsd#.VKLdVAE8
+    -
+      title: Drawing on an image with TikZ
+      url: http://tex.stackexchange.com/questions/9559/drawing-on-an-image-with-tikz
+    -
+      title: "Example: EPC flow charts"
+      url: http://www.texample.net/tikz/examples/epc-flow-charts/
+    -
+      title: Modern LaTeX typesetting
+      url: http://www.olivierverdier.com/posts/2013/07/15/modern-latex/
+    -
+      title: Awesome Resume/CV and Cover Letter
+      url: http://www.latextemplates.com/template/awesome-resume-cv
+    -
+      title: Friggeri Resume/CV
+      url: "http://www.latextemplates.com/template/friggeri-resume-cv"
+
+-
+  title: Raspberry Pi/Arduino/ESP8266
+  entries:
+    -
+      title: RASPBERRY PI ZERO – PROGRAMMING OVER USB! (PART 1)
+      url: http://pi.gbaman.info/?p=699
+    -
+      title: "RetroPie (V2.3): Media Center (XBMC / Kodi)"
+      url: http://www.retro-programming.de/retro-welt-2/hardware/raspberry-pi-als-emulator-retropie/retropie-tipps-tricks/alte-images/retropie-emulationstation-2-einrichten/retropie-media-center-xbmc-kodi/
+      language: german
+    -
+      title: CONNECTING AN ARDUINO TO A RASPBERRY PI USING I2C
+      url: https://blog.retep.org/2014/02/15/connecting-an-arduino-to-a-raspberry-pi-using-i2c/
+    -
+      title: Monitor Your Home With the Raspberry Pi B+
+      url: https://www.openhomeautomation.net/monitor-your-home-raspberry-pi-b/
+    -
+      title: How To Host A Website With Raspberry Pi
+      url: http://readwrite.com/2014/06/27/raspberry-pi-web-server-website-hosting/?asid=262f7486#awesm=~oIsStZ6BezOW17
+    -
+      title: How To Disable The Red LED On The Pi Camera Module
+      url: http://www.raspberrypi-spy.co.uk/2013/05/how-to-disable-the-red-led-on-the-pi-camera-module/
+    -
+      title: 12 Tips To Inspire Your Craft From 500px Photographers
+      url: https://iso.500px.com/photographer-tips-roundup/
+    -
+      title: Arduino Timelapse IR remote for NEX-5
+      url: http://www.l8ter.com/?p=333
+    -
+      title: Touchscreen Pi Timelapse Controller
+      url: https://learn.adafruit.com/touchscreen-pi-timelapse-controller/hardware
+    -
+      title: "Building A Raspberry Pi VPN Part One: How And Why To Build A Server"
+      url: http://readwrite.com/2014/04/10/raspberry-pi-vpn-tutorial-server-secure-web-browsing/
+    -
+      title: Basic motion detection and tracking with Python and OpenCV
+      url: http://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv
+-
+  title: Miscellaneous
+  entries:
+    -
+      title: Where do you side on social issues in the 2016 US presidential elections?
+      url: http://www.isidewith.com/elections/2016-presidential-quiz
+    -
+      title: Hoe je in 1 minuut in slaap kunt vallen
+      language: dutch
+      url: http://www.demorgen.be/wetenschap/hoe-je-in-1-minuut-in-slaap-kunt-vallen-b9e4cff8/
+    -
+      title: Here's What Scientists Found When They Opened A Cave That Had Been Isolated For More Than Five Million Years
+      url: http://www.iflscience.com/plants-and-animals/prehistoric-cave-still-holds-some-worlds-weirdest-creatures/
+    -
+      title: What Your Resume Should Look Like in 2016
+      url: http://fortune.com/2016/05/15/resume-advice-tips/
+    -
+      title: Build Your LinkedIn Profile From Start to Finish With This Massive Visual Guide
+      url: http://lifehacker.com/build-your-linkedin-profile-from-start-to-finish-with-t-1751936305
+    -
+      title: Alles wat u moet weten om uw nachtrust te verbeteren
+      language: dutch
+      url: http://www.demorgen.be/nieuws/alles-wat-u-moet-weten-om-uw-nachtrust-te-verbeteren-bbf36125/
+    -
+      title: Improve Your Posture with These Exercises from the Army Field Manual
+      url: http://lifehacker.com/improve-your-posture-with-these-exercises-from-the-army-1681443896
+    -
+      title: "Spoorlijn 86 Vlaamse toegangspoort naar Borinage"
+      url: "http://www.hullabaloo.be/spoorwegen/spoorlijn86"
+      language: "dutch"
+    -
+      title: "Swimming with spacemen: training for spacewalks at NASA’s giant pool"
+      url: "http://arstechnica.com/science/2013/03/swimming-with-spacemen/"
+    -
+      title: "Marmot Adorably Ruins Time Lapse of Glacier National Park"
+      url: "http://www.iflscience.com/plants-and-animals/marmot-adorably-ruins-time-lapse-glacier-national-park/"
+-
+  title: Music
+  entries:
+    -
+      title: Zack Hemsey - "Vengeance"
+      url: "https://www.youtube.com/watch?v=Lhv_yFMuwxs"
+-
+  title: "macOS (OS X)"
+  entries:
+    -
+      title: "Enable writing to NTFS hard drives for free in Mac OS X (including El Capitan!)"
+      url: "http://www.macbreaker.com/2014/06/how-to-enable-writing-to-ntfs-hard.html"
+    -
+      title: "Learn Swift - Build Your First iOS Game"
+      url: "https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift#!/chapters/678"
+    -
+      title: "Schedule Emails to Send Later on Your Mac With Automator"
+      url: "http://lifehacker.com/schedule-emails-to-send-later-on-your-mac-with-automato-1673305645"
+-
+  title: "Model Trains"
+  entries:
+    -
+      title: "S88 TERUGMELDERS"
+      url: "http://users.telenet.be/RedDeBist/MBAAN/S88%20terugmelder.htm"
+      language: "dutch"
+    -
+      title: "NEW MÄRKLIN-MOTOROLA FORMAT"
+      url: "http://spazioinwind.libero.it/scorzoni/motorola.htm"

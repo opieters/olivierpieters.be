@@ -1,0 +1,417 @@
+picture_path: switzerland-2016
+title: "Switzerland"
+pictures:
+- GPS:
+    longitude: 6.978725
+    latitude: 46.43354444444444
+  filename: CH-0025
+  original: CH-0025-6000x4000.jpg
+  sizes:
+  - CH-0025-4242x2828.jpg
+  - CH-0025-2121x1414.jpg
+  - CH-0025-2999x1999.jpg
+  thumbnail: CH-0025-thumbnail.jpg
+- GPS:
+    longitude: 6.9799694444444444
+    latitude: 46.431127777777775
+  filename: CH-0051
+  original: CH-0051-6000x4000.jpg
+  sizes:
+  - CH-0051-4242x2828.jpg
+  - CH-0051-2121x1414.jpg
+  - CH-0051-2999x1999.jpg
+  thumbnail: CH-0051-thumbnail.jpg
+- GPS:
+    longitude: 6.981466666666667
+    latitude: 46.43132222222222
+  filename: CH-0053
+  original: CH-0053-6000x4000.jpg
+  sizes:
+  - CH-0053-4242x2828.jpg
+  - CH-0053-2121x1414.jpg
+  - CH-0053-2999x1999.jpg
+  thumbnail: CH-0053-thumbnail.jpg
+- GPS:
+    longitude: 6.981527777777778
+    latitude: 46.431352777777775
+  filename: CH-0055
+  original: CH-0055-6000x4000.jpg
+  sizes:
+  - CH-0055-4242x2828.jpg
+  - CH-0055-2121x1414.jpg
+  - CH-0055-2999x1999.jpg
+  thumbnail: CH-0055-thumbnail.jpg
+- GPS:
+    longitude: 6.981563888888889
+    latitude: 46.43137222222222
+  filename: CH-0057_stitch
+  original: CH-0057_stitch-13951x7082.jpg
+  sizes:
+  - CH-0057_stitch-4862x2468.jpg
+  - CH-0057_stitch-2431x1234.jpg
+  - CH-0057_stitch-3437x1745.jpg
+  thumbnail: CH-0057_stitch-thumbnail.jpg
+- GPS:
+    longitude: 6.976047222222222
+    latitude: 46.430638888888886
+  filename: CH-0083
+  original: CH-0083-6000x4000.jpg
+  sizes:
+  - CH-0083-4242x2828.jpg
+  - CH-0083-2121x1414.jpg
+  - CH-0083-2999x1999.jpg
+  thumbnail: CH-0083-thumbnail.jpg
+- GPS:
+    longitude: 6.971988888888889
+    latitude: 46.42821111111111
+  filename: CH-0100
+  original: CH-0100-6000x4000.jpg
+  sizes:
+  - CH-0100-4242x2828.jpg
+  - CH-0100-2121x1414.jpg
+  - CH-0100-2999x1999.jpg
+  thumbnail: CH-0100-thumbnail.jpg
+- GPS:
+    longitude: 6.968511111111111
+    latitude: 46.426655555555556
+  filename: CH-0111
+  original: CH-0111-6000x4000.jpg
+  sizes:
+  - CH-0111-4242x2828.jpg
+  - CH-0111-2121x1414.jpg
+  - CH-0111-2999x1999.jpg
+  thumbnail: CH-0111-thumbnail.jpg
+- GPS:
+    longitude: 6.965347222222222
+    latitude: 46.42398333333333
+  filename: CH-0119
+  original: CH-0119-6000x4000.jpg
+  sizes:
+  - CH-0119-4242x2828.jpg
+  - CH-0119-2121x1414.jpg
+  - CH-0119-2999x1999.jpg
+  thumbnail: CH-0119-thumbnail.jpg
+- GPS:
+    longitude: 6.620677777777778
+    latitude: 46.78275
+  filename: CH-0238
+  original: CH-0238-6000x4000.jpg
+  sizes:
+  - CH-0238-4242x2828.jpg
+  - CH-0238-2121x1414.jpg
+  - CH-0238-2999x1999.jpg
+  thumbnail: CH-0238-thumbnail.jpg
+- GPS:
+    longitude: 6.541744444444444
+    latitude: 46.81075277777777
+  filename: CH-0288
+  original: CH-0288-6000x4000.jpg
+  sizes:
+  - CH-0288-4242x2828.jpg
+  - CH-0288-2121x1414.jpg
+  - CH-0288-2999x1999.jpg
+  thumbnail: CH-0288-thumbnail.jpg
+- GPS:
+    longitude: 6.539658333333334
+    latitude: 46.811924999999995
+  filename: CH-0311
+  original: CH-0311-6000x4000.jpg
+  sizes:
+  - CH-0311-4242x2828.jpg
+  - CH-0311-2121x1414.jpg
+  - CH-0311-2999x1999.jpg
+  thumbnail: CH-0311-thumbnail.jpg
+- GPS:
+    longitude: 6.532469444444445
+    latitude: 46.81475833333333
+  filename: CH-0326
+  original: CH-0326-6000x4000.jpg
+  sizes:
+  - CH-0326-4242x2828.jpg
+  - CH-0326-2121x1414.jpg
+  - CH-0326-2999x1999.jpg
+  thumbnail: CH-0326-thumbnail.jpg
+- GPS:
+    longitude: 6.530827777777778
+    latitude: 46.815711111111106
+  filename: CH-0384
+  original: CH-0384-6000x4000.jpg
+  sizes:
+  - CH-0384-4242x2828.jpg
+  - CH-0384-2121x1414.jpg
+  - CH-0384-2999x1999.jpg
+  thumbnail: CH-0384-thumbnail.jpg
+- GPS:
+    longitude: 6.528416666666667
+    latitude: 46.81820555555556
+  filename: CH-0392
+  original: CH-0392-6000x4000.jpg
+  sizes:
+  - CH-0392-4242x2828.jpg
+  - CH-0392-2121x1414.jpg
+  - CH-0392-2999x1999.jpg
+  thumbnail: CH-0392-thumbnail.jpg
+- GPS:
+    longitude: 6.697736111111111
+    latitude: 46.49950833333333
+  filename: CH-0453
+  original: CH-0453-6000x4000.jpg
+  sizes:
+  - CH-0453-4242x2828.jpg
+  - CH-0453-2121x1414.jpg
+  - CH-0453-2999x1999.jpg
+  thumbnail: CH-0453-thumbnail.jpg
+- GPS:
+    longitude: 6.7078444444444445
+    latitude: 46.49865555555556
+  filename: CH-0473
+  original: CH-0473-4000x6000.jpg
+  sizes:
+  - CH-0473-2828x4242.jpg
+  - CH-0473-1414x2121.jpg
+  - CH-0473-1999x2999.jpg
+  thumbnail: CH-0473-thumbnail.jpg
+- GPS:
+    longitude: 7.155372222222223
+    latitude: 46.35116111111111
+  filename: CH-0495
+  original: CH-0495-6000x4000.jpg
+  sizes:
+  - CH-0495-2121x1414.jpg
+  thumbnail: CH-0495-thumbnail.jpg
+- GPS:
+    longitude: 7.186708333333334
+    latitude: 46.346697222222225
+  filename: CH-0525
+  original: CH-0525-6000x4000.jpg
+  sizes:
+  - CH-0525-2121x1414.jpg
+  thumbnail: CH-0525-thumbnail.jpg
+- GPS:
+    longitude: 7.199313888888889
+    latitude: 46.34963611111111
+  filename: CH-0537
+  original: CH-0537-4000x6000.jpg
+  sizes:
+  - CH-0537-1414x2121.jpg
+  thumbnail: CH-0537-thumbnail.jpg
+- GPS:
+    longitude: 7.200827777777778
+    latitude: 46.35208611111111
+  filename: CH-0554
+  original: CH-0554-6000x4000.jpg
+  sizes:
+  - CH-0554-2121x1414.jpg
+  thumbnail: CH-0554-thumbnail.jpg
+- GPS:
+    longitude: 7.204919444444444
+    latitude: 46.32669722222222
+  filename: CH-0588
+  original: CH-0588-6000x4000.jpg
+  sizes:
+  - CH-0588-2121x1414.jpg
+  thumbnail: CH-0588-thumbnail.jpg
+- GPS:
+    longitude: 7.2049111111111115
+    latitude: 46.32667222222223
+  filename: CH-0589
+  original: CH-0589-6000x4000.jpg
+  sizes:
+  - CH-0589-2121x1414.jpg
+  thumbnail: CH-0589-thumbnail.jpg
+- filename: CH-0603_stitch
+  original: CH-0603_stitch-15210x6563.jpg
+  sizes:
+  - CH-0603_stitch-2636x1137.jpg
+  thumbnail: CH-0603_stitch-thumbnail.jpg
+- filename: CH-0643_stitch
+  original: CH-0643_stitch-14736x6582.jpg
+  sizes:
+  - CH-0643_stitch-2591x1157.jpg
+  thumbnail: CH-0643_stitch-thumbnail.jpg
+- filename: CH-0654_stitch
+  original: CH-0654_stitch-11831x6779.jpg
+  sizes:
+  - CH-0654_stitch-2288x1311.jpg
+  thumbnail: CH-0654_stitch-thumbnail.jpg
+- GPS:
+    longitude: 7.202602777777778
+    latitude: 46.32710277777778
+  filename: CH-0689
+  original: CH-0689-6000x4000.jpg
+  sizes:
+  - CH-0689-2121x1414.jpg
+  thumbnail: CH-0689-thumbnail.jpg
+- filename: CH-0696_stitch
+  original: CH-0696_stitch-17747x4130.jpg
+  sizes:
+  - CH-0696_stitch-3590x835.jpg
+  thumbnail: CH-0696_stitch-thumbnail.jpg
+- GPS:
+    longitude: 7.203116666666667
+    latitude: 46.32696388888889
+  filename: CH-0762
+  original: CH-0762-6000x4000.jpg
+  sizes:
+  - CH-0762-2121x1414.jpg
+  thumbnail: CH-0762-thumbnail.jpg
+- GPS:
+    longitude: 7.2155000000000005
+    latitude: 46.33838888888889
+  filename: CH-0861
+  original: CH-0861-6000x4000.jpg
+  sizes:
+  - CH-0861-2121x1414.jpg
+  thumbnail: CH-0861-thumbnail.jpg
+- GPS:
+    longitude: 7.215505555555556
+    latitude: 46.338411111111114
+  filename: CH-0862
+  original: CH-0862-6000x4000.jpg
+  sizes:
+  - CH-0862-2121x1414.jpg
+  thumbnail: CH-0862-thumbnail.jpg
+- GPS:
+    longitude: 7.219994444444445
+    latitude: 46.340741666666666
+  filename: CH-0926
+  original: CH-0926-6000x4000.jpg
+  sizes:
+  - CH-0926-2121x1414.jpg
+  thumbnail: CH-0926-thumbnail.jpg
+- GPS:
+    longitude: 7.2201055555555556
+    latitude: 46.34077222222223
+  filename: CH-0938
+  original: CH-0938-6000x4000.jpg
+  sizes:
+  - CH-0938-2121x1414.jpg
+  thumbnail: CH-0938-thumbnail.jpg
+- GPS:
+    longitude: 7.222572222222222
+    latitude: 46.344825
+  filename: CH-1047
+  original: CH-1047-6000x4000.jpg
+  sizes:
+  - CH-1047-2121x1414.jpg
+  thumbnail: CH-1047-thumbnail.jpg
+- GPS:
+    longitude: 7.223547222222222
+    latitude: 46.34492777777778
+  filename: CH-1068
+  original: CH-1068-6000x4000.jpg
+  sizes:
+  - CH-1068-2121x1414.jpg
+  thumbnail: CH-1068-thumbnail.jpg
+- GPS:
+    longitude: 7.228061111111111
+    latitude: 46.34728611111111
+  filename: CH-1085
+  original: CH-1085-6000x4000.jpg
+  sizes:
+  - CH-1085-2121x1414.jpg
+  thumbnail: CH-1085-thumbnail.jpg
+- GPS:
+    longitude: 7.228113888888889
+    latitude: 46.34734166666667
+  filename: CH-1093
+  original: CH-1093-6000x4000.jpg
+  sizes:
+  - CH-1093-2121x1414.jpg
+  thumbnail: CH-1093-thumbnail.jpg
+- GPS:
+    longitude: 6.876919444444445
+    latitude: 46.19784166666666
+  filename: CH-1194
+  original: CH-1194-6000x4000.jpg
+  sizes:
+  - CH-1194-2121x1414.jpg
+  thumbnail: CH-1194-thumbnail.jpg
+- GPS:
+    longitude: 6.874738888888889
+    latitude: 46.19899444444444
+  filename: CH-1203
+  original: CH-1203-6000x4000.jpg
+  sizes:
+  - CH-1203-2121x1414.jpg
+  thumbnail: CH-1203-thumbnail.jpg
+- GPS:
+    longitude: 6.862430555555555
+    latitude: 46.19264999999999
+  filename: CH-1237
+  original: CH-1237-6000x4000.jpg
+  sizes:
+  - CH-1237-2121x1414.jpg
+  thumbnail: CH-1237-thumbnail.jpg
+- GPS:
+    longitude: 6.873111111111111
+    latitude: 46.205913888888894
+  filename: CH-1295
+  original: CH-1295-6000x4000.jpg
+  sizes:
+  - CH-1295-2121x1414.jpg
+  thumbnail: CH-1295-thumbnail.jpg
+- GPS:
+    longitude: 6.929038888888889
+    latitude: 46.41262222222222
+  filename: CH-1347
+  original: CH-1347-6000x4000.jpg
+  sizes:
+  - CH-1347-2121x1414.jpg
+  thumbnail: CH-1347-thumbnail.jpg
+- GPS:
+    longitude: 6.922655555555556
+    latitude: 46.40429722222222
+  filename: CH-1361
+  original: CH-1361-6000x4000.jpg
+  sizes:
+  - CH-1361-2121x1414.jpg
+  thumbnail: CH-1361-thumbnail.jpg
+- GPS:
+    longitude: 6.4998611111111115
+    latitude: 46.51130555555556
+  filename: CH-1420
+  original: CH-1420-6000x4000.jpg
+  sizes:
+  - CH-1420-2121x1414.jpg
+  thumbnail: CH-1420-thumbnail.jpg
+- GPS:
+    longitude: 6.510808333333333
+    latitude: 46.51551111111111
+  filename: CH-1439
+  original: CH-1439-6000x4000.jpg
+  sizes:
+  - CH-1439-2121x1414.jpg
+  thumbnail: CH-1439-thumbnail.jpg
+- GPS:
+    longitude: 6.501047222222223
+    latitude: 46.51168888888889
+  filename: CH-1449
+  original: CH-1449-6000x4000.jpg
+  sizes:
+  - CH-1449-2121x1414.jpg
+  thumbnail: CH-1449-thumbnail.jpg
+- GPS:
+    longitude: 6.633669444444444
+    latitude: 46.522038888888886
+  filename: CH-1452
+  original: CH-1452-6000x4000.jpg
+  sizes:
+  - CH-1452-2121x1414.jpg
+  thumbnail: CH-1452-thumbnail.jpg
+- GPS:
+    longitude: 6.633330555555556
+    latitude: 46.521836111111114
+  filename: CH-1482
+  original: CH-1482-6000x4000.jpg
+  sizes:
+  - CH-1482-2121x1414.jpg
+  thumbnail: CH-1482-thumbnail.jpg
+- GPS:
+    longitude: 6.636097222222221
+    latitude: 46.519019444444446
+  filename: CH-1490
+  original: CH-1490-6000x4000.jpg
+  sizes:
+  - CH-1490-2121x1414.jpg
+  thumbnail: CH-1490-thumbnail.jpg

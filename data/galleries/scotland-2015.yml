@@ -1,0 +1,1066 @@
+picture_path: scotland-2015
+title: Scotland
+pictures:
+- filename: SCO-0001
+  original: SCO-0001-6000x4000.jpg
+  sizes:
+  - SCO-0001-2121x1414.jpg
+  - SCO-0001-2999x1999.jpg
+  - SCO-0001-4242x2828.jpg
+  thumbnail: SCO-0001-thumbnail.jpg
+- GPS:
+    longitude: -3.186647222222222
+    latitude: 55.94806111111111
+  filename: SCO-0069
+  original: SCO-0069-4000x6000.jpg
+  sizes:
+  - SCO-0069-1414x2121.jpg
+  - SCO-0069-1999x2999.jpg
+  - SCO-0069-2828x4242.jpg
+  thumbnail: SCO-0069-thumbnail.jpg
+- GPS:
+    longitude: -3.186658333333333
+    latitude: 55.94768055555555
+  filename: SCO-0096
+  original: SCO-0096-6000x4000.jpg
+  sizes:
+  - SCO-0096-2121x1414.jpg
+  - SCO-0096-2999x1999.jpg
+  - SCO-0096-4242x2828.jpg
+  thumbnail: SCO-0096-thumbnail.jpg
+  title: University of Edinburgh
+- GPS:
+    longitude: -3.1858555555555554
+    latitude: 55.95359722222223
+  filename: SCO-0140
+  original: SCO-0140-6000x4000.jpg
+  sizes:
+  - SCO-0140-2121x1414.jpg
+  - SCO-0140-2999x1999.jpg
+  - SCO-0140-4242x2828.jpg
+  thumbnail: SCO-0140-thumbnail.jpg
+  title: Old Calton Cemetery
+- GPS:
+    longitude: -3.185961111111111
+    latitude: 55.953813888888895
+  filename: SCO-0142
+  original: SCO-0142-6000x4000.jpg
+  sizes:
+  - SCO-0142-2121x1414.jpg
+  - SCO-0142-2999x1999.jpg
+  - SCO-0142-4242x2828.jpg
+  thumbnail: SCO-0142-thumbnail.jpg
+  title: Dugald Stewart Monument
+- GPS:
+    longitude: -3.1842666666666664
+    latitude: 55.95464444444445
+  filename: SCO-0168
+  original: SCO-0168-6000x4000.jpg
+  sizes:
+  - SCO-0168-2121x1414.jpg
+  - SCO-0168-2999x1999.jpg
+  - SCO-0168-4242x2828.jpg
+  thumbnail: SCO-0168-thumbnail.jpg
+- filename: SCO-0228_stitch
+  original: SCO-0228_stitch-13140x4291.jpg
+  sizes:
+  - SCO-0228_stitch-3030x989.jpg
+  - SCO-0228_stitch-4286x1400.jpg
+  - SCO-0228_stitch-6061x1979.jpg
+  thumbnail: SCO-0228_stitch-thumbnail.jpg
+- GPS:
+    longitude: -3.195086111111111
+    latitude: 55.955525
+  filename: SCO-0253
+  original: SCO-0253-6000x4000.jpg
+  sizes:
+  - SCO-0253-2121x1414.jpg
+  - SCO-0253-2999x1999.jpg
+  - SCO-0253-4242x2828.jpg
+  thumbnail: SCO-0253-thumbnail.jpg
+  title: Scottish National Portrait Gallery
+- GPS:
+    longitude: -3.2024944444444445
+    latitude: 55.951150000000005
+  filename: SCO-0267
+  original: SCO-0267-6000x4000.jpg
+  sizes:
+  - SCO-0267-2121x1414.jpg
+  - SCO-0267-2999x1999.jpg
+  - SCO-0267-4242x2828.jpg
+  thumbnail: SCO-0267-thumbnail.jpg
+  title: Edinburgh Castle
+- GPS:
+    longitude: -4.255188888888889
+    latitude: 55.85778888888889
+  filename: SCO-0275
+  original: SCO-0275-4000x6000.jpg
+  sizes:
+  - SCO-0275-1414x2121.jpg
+  - SCO-0275-1999x2999.jpg
+  - SCO-0275-2828x4242.jpg
+  thumbnail: SCO-0275-thumbnail.jpg
+  title: St Enoch Square
+- filename: SCO-0294
+  original: SCO-0294-6000x4000.jpg
+  sizes:
+  - SCO-0294-2121x1414.jpg
+  - SCO-0294-2999x1999.jpg
+  - SCO-0294-4242x2828.jpg
+  thumbnail: SCO-0294-thumbnail.jpg
+  title: George Square
+- GPS:
+    longitude: -4.2466333333333335
+    latitude: 55.853186111111114
+  filename: SCO-0314
+  original: SCO-0314-6000x4000.jpg
+  sizes:
+  - SCO-0314-2121x1414.jpg
+  - SCO-0314-2999x1999.jpg
+  - SCO-0314-4242x2828.jpg
+  thumbnail: SCO-0314-thumbnail.jpg
+  title: River Clyde
+- GPS:
+    longitude: -4.245313888888889
+    latitude: 55.85328611111111
+  filename: SCO-0319
+  original: SCO-0319-5969x3979.jpg
+  sizes:
+  - SCO-0319-2121x1414.jpg
+  - SCO-0319-2999x1999.jpg
+  - SCO-0319-4242x2828.jpg
+  thumbnail: SCO-0319-thumbnail.jpg
+- GPS:
+    longitude: -4.237238888888889
+    latitude: 55.85131388888889
+  filename: SCO-0328
+  original: SCO-0328-6000x4000.jpg
+  sizes:
+  - SCO-0328-2121x1414.jpg
+  - SCO-0328-2999x1999.jpg
+  - SCO-0328-4242x2828.jpg
+  thumbnail: SCO-0328-thumbnail.jpg
+  title: People's Palace and Winter Gardens
+- GPS:
+    longitude: -4.234538888888889
+    latitude: 55.85091944444444
+  filename: SCO-0339
+  original: SCO-0339-6000x4000.jpg
+  sizes:
+  - SCO-0339-2121x1414.jpg
+  - SCO-0339-2999x1999.jpg
+  - SCO-0339-4242x2828.jpg
+  thumbnail: SCO-0339-thumbnail.jpg
+- GPS:
+    longitude: -4.247513888888889
+    latitude: 55.85205833333333
+  filename: SCO-0384
+  original: SCO-0384-6000x4000.jpg
+  sizes:
+  - SCO-0384-2121x1414.jpg
+  - SCO-0384-2999x1999.jpg
+  - SCO-0384-4242x2828.jpg
+  thumbnail: SCO-0384-thumbnail.jpg
+  title: Albert Bridge
+- GPS:
+    longitude: -4.250322222222223
+    latitude: 55.85423055555556
+  filename: SCO-0391
+  original: SCO-0391-3850x5775.jpg
+  sizes:
+  - SCO-0391-1414x2121.jpg
+  - SCO-0391-1999x2999.jpg
+  - SCO-0391-2828x4242.jpg
+  thumbnail: SCO-0391-thumbnail.jpg
+- filename: SCO-0462_stitch
+  original: SCO-0462_stitch-16301x3562.jpg
+  sizes:
+  - SCO-0462_stitch-3705x810.jpg
+  - SCO-0462_stitch-5240x1145.jpg
+  - SCO-0462_stitch-7410x1619.jpg
+  thumbnail: SCO-0462_stitch-thumbnail.jpg
+  title: Loch Lomond
+
+- GPS:
+    longitude: -4.587461111111111
+    latitude: 56.01851944444444
+  filename: SCO-0493
+  original: SCO-0493-6000x4000.jpg
+  sizes:
+  - SCO-0493-2121x1414.jpg
+  - SCO-0493-2999x1999.jpg
+  - SCO-0493-4242x2828.jpg
+  thumbnail: SCO-0493-thumbnail.jpg
+- GPS:
+    longitude: -4.583227777777777
+    latitude: 56.012875
+  filename: SCO-0552
+  original: SCO-0552-6000x4000.jpg
+  sizes:
+  - SCO-0552-2121x1414.jpg
+  - SCO-0552-2999x1999.jpg
+  - SCO-0552-4242x2828.jpg
+  thumbnail: SCO-0552-thumbnail.jpg
+  title: Balloch Castle
+- GPS:
+    longitude: -4.581980555555555
+    latitude: 56.00915833333333
+  filename: SCO-0560
+  original: SCO-0560-6000x4000.jpg
+  sizes:
+  - SCO-0560-2121x1414.jpg
+  - SCO-0560-2999x1999.jpg
+  - SCO-0560-4242x2828.jpg
+  thumbnail: SCO-0560-thumbnail.jpg
+  title: Balloch Castle Gardens
+- GPS:
+    longitude: -4.677475
+    latitude: 56.17136111111111
+  filename: SCO-0605
+  original: SCO-0605-6000x4000.jpg
+  sizes:
+  - SCO-0605-2121x1414.jpg
+  - SCO-0605-2999x1999.jpg
+  - SCO-0605-4242x2828.jpg
+  thumbnail: SCO-0605-thumbnail.jpg
+  title: Loch Lomond
+- GPS:
+    longitude: -4.6775
+    latitude: 56.17127222222222
+  filename: SCO-0617
+  original: SCO-0617-6000x4000.jpg
+  sizes:
+  - SCO-0617-2121x1414.jpg
+  - SCO-0617-2999x1999.jpg
+  - SCO-0617-4242x2828.jpg
+  thumbnail: SCO-0617-thumbnail.jpg
+- GPS:
+    longitude: -4.5337805555555555
+    latitude: 56.089913888888894
+  filename: SCO-0732
+  original: SCO-0732-6000x4000.jpg
+  sizes:
+  - SCO-0732-2121x1414.jpg
+  - SCO-0732-2999x1999.jpg
+  - SCO-0732-4242x2828.jpg
+  thumbnail: SCO-0732-thumbnail.jpg
+  title: Balmaha
+- GPS:
+    longitude: -4.533052777777778
+    latitude: 56.09204444444445
+  filename: SCO-0748
+  original: SCO-0748-6000x4000.jpg
+  sizes:
+  - SCO-0748-2121x1414.jpg
+  - SCO-0748-2999x1999.jpg
+  - SCO-0748-4242x2828.jpg
+  thumbnail: SCO-0748-thumbnail.jpg
+  title: Balmaha
+- filename: SCO-0767_stitch
+  original: SCO-0767_stitch-15165x3593.jpg
+  sizes:
+  - SCO-0767_stitch-3558x843.jpg
+  - SCO-0767_stitch-5032x1192.jpg
+  - SCO-0767_stitch-7116x1686.jpg
+  thumbnail: SCO-0767_stitch-thumbnail.jpg
+  title: Loch Lomond from Balmaha
+- GPS:
+    longitude: -4.534533333333333
+    latitude: 56.09381388888889
+  filename: SCO-0842
+  original: SCO-0842-6000x4000.jpg
+  sizes:
+  - SCO-0842-2121x1414.jpg
+  - SCO-0842-2999x1999.jpg
+  - SCO-0842-4242x2828.jpg
+  thumbnail: SCO-0842-thumbnail.jpg
+  title: Balmaha
+- GPS:
+    longitude: -4.534494444444444
+    latitude: 56.093805555555555
+  filename: SCO-0873
+  original: SCO-0873-6000x4000.jpg
+  sizes:
+  - SCO-0873-2121x1414.jpg
+  - SCO-0873-2999x1999.jpg
+  - SCO-0873-4242x2828.jpg
+  thumbnail: SCO-0873-thumbnail.jpg
+  title: Loch Lomond
+- GPS:
+    longitude: -4.5259527777777775
+    latitude: 56.09704722222222
+  filename: SCO-0906
+  original: SCO-0906-6000x4000.jpg
+  sizes:
+  - SCO-0906-2121x1414.jpg
+  - SCO-0906-2999x1999.jpg
+  - SCO-0906-4242x2828.jpg
+  thumbnail: SCO-0906-thumbnail.jpg
+- GPS:
+    longitude: -4.524813888888889
+    latitude: 56.097036111111116
+  filename: SCO-0916
+  original: SCO-0916-6000x4000.jpg
+  sizes:
+  - SCO-0916-2121x1414.jpg
+  - SCO-0916-2999x1999.jpg
+  - SCO-0916-4242x2828.jpg
+  thumbnail: SCO-0916-thumbnail.jpg
+- GPS:
+    longitude: -4.524836111111111
+    latitude: 56.09705277777778
+  filename: SCO-0947
+  original: SCO-0947-6000x4000.jpg
+  sizes:
+  - SCO-0947-2121x1414.jpg
+  - SCO-0947-2999x1999.jpg
+  - SCO-0947-4242x2828.jpg
+  thumbnail: SCO-0947-thumbnail.jpg
+- GPS:
+    longitude: -3.948013888888889
+    latitude: 56.124811111111114
+  filename: SCO-1192
+  original: SCO-1192-6000x4000.jpg
+  sizes:
+  - SCO-1192-2121x1414.jpg
+  - SCO-1192-2999x1999.jpg
+  - SCO-1192-4242x2828.jpg
+  thumbnail: SCO-1192-thumbnail.jpg
+  title: The National Wallace Monument
+- filename: SCO-1233
+  original: SCO-1233-6000x4000.jpg
+  sizes:
+  - SCO-1233-2121x1414.jpg
+  - SCO-1233-2999x1999.jpg
+  - SCO-1233-4242x2828.jpg
+  thumbnail: SCO-1233-thumbnail.jpg
+  title: Stag
+- filename: SCO-1255
+  original: SCO-1255-6000x4000.jpg
+  sizes:
+  - SCO-1255-2121x1414.jpg
+  - SCO-1255-2999x1999.jpg
+  - SCO-1255-4242x2828.jpg
+  thumbnail: SCO-1255-thumbnail.jpg
+  title: Oban
+- filename: SCO-1275
+  original: SCO-1275-6000x4000.jpg
+  sizes:
+  - SCO-1275-2121x1414.jpg
+  - SCO-1275-2999x1999.jpg
+  - SCO-1275-4242x2828.jpg
+  thumbnail: SCO-1275-thumbnail.jpg
+  title: Dunollie Castle
+- filename: SCO-1283
+  original: SCO-1283-6000x4000.jpg
+  sizes:
+  - SCO-1283-2121x1414.jpg
+  - SCO-1283-2999x1999.jpg
+  - SCO-1283-4242x2828.jpg
+  thumbnail: SCO-1283-thumbnail.jpg
+- GPS:
+    longitude: -5.6528888888888895
+    latitude: 56.46473055555556
+  filename: SCO-1294
+  original: SCO-1294-6000x4000.jpg
+  sizes:
+  - SCO-1294-2121x1414.jpg
+  - SCO-1294-2999x1999.jpg
+  - SCO-1294-4242x2828.jpg
+  thumbnail: SCO-1294-thumbnail.jpg
+  title: Duart Castle
+- GPS:
+    longitude: -5.704469444444444
+    latitude: 56.47156388888889
+  filename: SCO-1302
+  original: SCO-1302-6000x4000.jpg
+  sizes:
+  - SCO-1302-2121x1414.jpg
+  - SCO-1302-2999x1999.jpg
+  - SCO-1302-4242x2828.jpg
+  thumbnail: SCO-1302-thumbnail.jpg
+- GPS:
+    longitude: -6.368636111111111
+    latitude: 56.34416111111111
+  filename: SCO-1316
+  original: SCO-1316-6000x4000.jpg
+  sizes:
+  - SCO-1316-2121x1414.jpg
+  - SCO-1316-2999x1999.jpg
+  - SCO-1316-4242x2828.jpg
+  thumbnail: SCO-1316-thumbnail.jpg
+- GPS:
+    longitude: -6.340902777777777
+    latitude: 56.43079722222222
+  filename: SCO-1340
+  original: SCO-1340-5252x3135.jpg
+  sizes:
+  - SCO-1340-2241x1338.jpg
+  - SCO-1340-3170x1892.jpg
+  - SCO-1340-4483x2676.jpg
+  thumbnail: SCO-1340-thumbnail.jpg
+  title: Fingal's Cave
+- GPS:
+    longitude: -6.339277777777777
+    latitude: 56.43279722222222
+  filename: SCO-1360
+  original: SCO-1360-6000x4000.jpg
+  sizes:
+  - SCO-1360-2121x1414.jpg
+  - SCO-1360-2999x1999.jpg
+  - SCO-1360-4242x2828.jpg
+  thumbnail: SCO-1360-thumbnail.jpg
+  title: Staffa
+- GPS:
+    longitude: -6.340016666666666
+    latitude: 56.43209722222222
+  filename: SCO-1364
+  original: SCO-1364-6000x4000.jpg
+  sizes:
+  - SCO-1364-2121x1414.jpg
+  - SCO-1364-2999x1999.jpg
+  - SCO-1364-4242x2828.jpg
+  thumbnail: SCO-1364-thumbnail.jpg
+- GPS:
+    longitude: -6.339997222222222
+    latitude: 56.432116666666666
+  filename: SCO-1385
+  original: SCO-1385-6000x4000.jpg
+  sizes:
+  - SCO-1385-2121x1414.jpg
+  - SCO-1385-2999x1999.jpg
+  - SCO-1385-4242x2828.jpg
+  thumbnail: SCO-1385-thumbnail.jpg
+  title: Staffa
+- GPS:
+    longitude: -6.342133333333333
+    latitude: 56.43297222222222
+  filename: SCO-1398
+  original: SCO-1398-6000x4000.jpg
+  sizes:
+  - SCO-1398-2121x1414.jpg
+  - SCO-1398-2999x1999.jpg
+  - SCO-1398-4242x2828.jpg
+  thumbnail: SCO-1398-thumbnail.jpg
+- GPS:
+    longitude: -6.343405555555555
+    latitude: 56.43236944444444
+  filename: SCO-1408
+  original: SCO-1408-6000x4000.jpg
+  sizes:
+  - SCO-1408-2121x1414.jpg
+  - SCO-1408-2999x1999.jpg
+  - SCO-1408-4242x2828.jpg
+  thumbnail: SCO-1408-thumbnail.jpg
+- GPS:
+    longitude: -6.339799999999999
+    latitude: 56.432766666666666
+  filename: SCO-1441
+  original: SCO-1441-6000x4000.jpg
+  sizes:
+  - SCO-1441-2121x1414.jpg
+  - SCO-1441-2999x1999.jpg
+  - SCO-1441-4242x2828.jpg
+  thumbnail: SCO-1441-thumbnail.jpg
+  title: Shags
+- GPS:
+    longitude: -6.392905555555556
+    latitude: 56.334408333333336
+  filename: SCO-1451
+  original: SCO-1451-6000x4000.jpg
+  sizes:
+  - SCO-1451-2121x1414.jpg
+  - SCO-1451-2999x1999.jpg
+  - SCO-1451-4242x2828.jpg
+  thumbnail: SCO-1451-thumbnail.jpg
+  title: Iona Abbey
+- GPS:
+    longitude: -6.391816666666667
+    latitude: 56.33037222222222
+  filename: SCO-1483
+  original: SCO-1483-6000x4000.jpg
+  sizes:
+  - SCO-1483-2121x1414.jpg
+  - SCO-1483-2999x1999.jpg
+  - SCO-1483-4242x2828.jpg
+  thumbnail: SCO-1483-thumbnail.jpg
+- GPS:
+    longitude: -6.368491666666666
+    latitude: 56.32546388888889
+  filename: SCO-1498
+  original: SCO-1498-6000x4000.jpg
+  sizes:
+  - SCO-1498-2121x1414.jpg
+  - SCO-1498-2999x1999.jpg
+  - SCO-1498-4242x2828.jpg
+  thumbnail: SCO-1498-thumbnail.jpg
+- GPS:
+    longitude: -6.368325
+    latitude: 56.325630555555556
+  filename: SCO-1503
+  original: SCO-1503-6000x4000.jpg
+  sizes:
+  - SCO-1503-2121x1414.jpg
+  - SCO-1503-2999x1999.jpg
+  - SCO-1503-4242x2828.jpg
+  thumbnail: SCO-1503-thumbnail.jpg
+- GPS:
+    longitude: -6.369169444444444
+    latitude: 56.32537777777778
+  filename: SCO-1507
+  original: SCO-1507-4000x6000.jpg
+  sizes:
+  - SCO-1507-1414x2121.jpg
+  - SCO-1507-1999x2999.jpg
+  - SCO-1507-2828x4242.jpg
+  thumbnail: SCO-1507-thumbnail.jpg
+- filename: SCO-1524
+  original: SCO-1524-4000x6000.jpg
+  sizes:
+  - SCO-1524-1414x2121.jpg
+  - SCO-1524-1999x2999.jpg
+  - SCO-1524-2828x4242.jpg
+  thumbnail: SCO-1524-thumbnail.jpg
+- GPS:
+    longitude: -5.469586111111111
+    latitude: 56.41558611111111
+  filename: SCO-1539
+  original: SCO-1539-6000x4000.jpg
+  sizes:
+  - SCO-1539-2121x1414.jpg
+  - SCO-1539-2999x1999.jpg
+  - SCO-1539-4242x2828.jpg
+  thumbnail: SCO-1539-thumbnail.jpg
+  title: McCaig's Tower
+- GPS:
+    longitude: -5.469766666666667
+    latitude: 56.41558888888889
+  filename: SCO-1540
+  original: SCO-1540-6000x4000.jpg
+  sizes:
+  - SCO-1540-2121x1414.jpg
+  - SCO-1540-2999x1999.jpg
+  - SCO-1540-4242x2828.jpg
+  thumbnail: SCO-1540-thumbnail.jpg
+  title: McCaig's Tower
+- GPS:
+    longitude: -5.471275
+    latitude: 56.41608611111111
+  filename: SCO-1551
+  original: SCO-1551-6000x4000.jpg
+  sizes:
+  - SCO-1551-2121x1414.jpg
+  - SCO-1551-2999x1999.jpg
+  - SCO-1551-4242x2828.jpg
+  thumbnail: SCO-1551-thumbnail.jpg
+- GPS:
+    longitude: -5.131424999999999
+    latitude: 56.67997222222222
+  filename: SCO-1605
+  original: SCO-1605-6000x4000.jpg
+  sizes:
+  - SCO-1605-2121x1414.jpg
+  - SCO-1605-2999x1999.jpg
+  - SCO-1605-4242x2828.jpg
+  thumbnail: SCO-1605-thumbnail.jpg
+  title: Loch Leven
+- GPS:
+    longitude: -5.094313888888888
+    latitude: 56.69178055555555
+  filename: SCO-1614
+  original: SCO-1614-6000x4000.jpg
+  sizes:
+  - SCO-1614-2121x1414.jpg
+  - SCO-1614-2999x1999.jpg
+  - SCO-1614-4242x2828.jpg
+  thumbnail: SCO-1614-thumbnail.jpg
+  title: Glencoe Lochan
+- GPS:
+    longitude: -5.002780555555556
+    latitude: 56.70938888888889
+  filename: SCO-1641
+  original: SCO-1641-6000x4000.jpg
+  sizes:
+  - SCO-1641-2121x1414.jpg
+  - SCO-1641-2999x1999.jpg
+  - SCO-1641-4242x2828.jpg
+  thumbnail: SCO-1641-thumbnail.jpg
+  title: Loch Leven
+- GPS:
+    longitude: -5.036069444444444
+    latitude: 56.770777777777774
+  filename: SCO-1688
+  original: SCO-1688-4000x6000.jpg
+  sizes:
+  - SCO-1688-1414x2121.jpg
+  - SCO-1688-1999x2999.jpg
+  - SCO-1688-2828x4242.jpg
+  thumbnail: SCO-1688-thumbnail.jpg
+  title: Water of Nevis
+- GPS:
+    longitude: -4.987855555555556
+    latitude: 56.77536111111111
+  filename: SCO-1726
+  original: SCO-1726-6000x4000.jpg
+  sizes:
+  - SCO-1726-2121x1414.jpg
+  - SCO-1726-2999x1999.jpg
+  - SCO-1726-4242x2828.jpg
+  thumbnail: SCO-1726-thumbnail.jpg
+- GPS:
+    longitude: -4.984425
+    latitude: 56.773275
+  filename: SCO-1736
+  original: SCO-1736-6000x4000.jpg
+  sizes:
+  - SCO-1736-2121x1414.jpg
+  - SCO-1736-2999x1999.jpg
+  - SCO-1736-4242x2828.jpg
+  thumbnail: SCO-1736-thumbnail.jpg
+- filename: SCO-iPhone-17_stitch
+  original: SCO-iPhone-17_stitch-9897x2339.jpg
+  sizes:
+  - SCO-iPhone-17_stitch-3562x842.jpg
+  - SCO-iPhone-17_stitch-5038x1191.jpg
+  - SCO-iPhone-17_stitch-7125x1684.jpg
+  thumbnail: SCO-iPhone-17_stitch-thumbnail.jpg
+- GPS:
+    longitude: -4.983102777777778
+    latitude: 56.77249722222222
+  filename: SCO-1739
+  original: SCO-1739-6000x4000.jpg
+  sizes:
+  - SCO-1739-2121x1414.jpg
+  - SCO-1739-2999x1999.jpg
+  - SCO-1739-4242x2828.jpg
+  thumbnail: SCO-1739-thumbnail.jpg
+- GPS:
+    longitude: -4.981436111111111
+    latitude: 56.77105
+  filename: SCO-1753
+  original: SCO-1753-6000x4000.jpg
+  sizes:
+  - SCO-1753-2121x1414.jpg
+  - SCO-1753-2999x1999.jpg
+  - SCO-1753-4242x2828.jpg
+  thumbnail: SCO-1753-thumbnail.jpg
+- GPS:
+    longitude: -4.978847222222222
+    latitude: 56.772305555555555
+  filename: SCO-1765
+  original: SCO-1765-6000x4000.jpg
+  sizes:
+  - SCO-1765-2121x1414.jpg
+  - SCO-1765-2999x1999.jpg
+  - SCO-1765-4242x2828.jpg
+  thumbnail: SCO-1765-thumbnail.jpg
+- filename: SCO-iPhone-36_stitch
+  original: SCO-iPhone-36_stitch-4654x2080.jpg
+  sizes:
+  - SCO-iPhone-36_stitch-2590x1158.jpg
+  - SCO-iPhone-36_stitch-3664x1638.jpg
+  thumbnail: SCO-iPhone-36_stitch-thumbnail.jpg
+  title: Lochan Meall an T-suidhe
+- GPS:
+    longitude: -4.968558333333333
+    latitude: 56.77554722222222
+  filename: SCO-1771
+  original: SCO-1771-6000x4000.jpg
+  sizes:
+  - SCO-1771-2121x1414.jpg
+  - SCO-1771-2999x1999.jpg
+  - SCO-1771-4242x2828.jpg
+  thumbnail: SCO-1771-thumbnail.jpg
+- GPS:
+    longitude: -4.9644305555555555
+    latitude: 56.775977777777776
+  filename: SCO-1776
+  original: SCO-1776-6000x4000.jpg
+  sizes:
+  - SCO-1776-2121x1414.jpg
+  - SCO-1776-2999x1999.jpg
+  - SCO-1776-4242x2828.jpg
+  thumbnail: SCO-1776-thumbnail.jpg
+- filename: SCO-iPhone-44
+  original: SCO-iPhone-44-3264x2448.jpg
+  sizes:
+  - SCO-iPhone-44-1999x1499.jpg
+  - SCO-iPhone-44-2828x2121.jpg
+  thumbnail: SCO-iPhone-44-thumbnail.jpg
+- GPS:
+    longitude: -4.873972222222223
+    latitude: 56.984436111111116
+  filename: SCO-1797
+  original: SCO-1797-6000x4000.jpg
+  sizes:
+  - SCO-1797-2121x1414.jpg
+  - SCO-1797-2999x1999.jpg
+  - SCO-1797-4242x2828.jpg
+  thumbnail: SCO-1797-thumbnail.jpg
+  title: Loch Lochy
+- GPS:
+    longitude: -4.722969444444445
+    latitude: 57.202644444444445
+  filename: SCO-1809
+  original: SCO-1809-6000x4000.jpg
+  sizes:
+  - SCO-1809-2121x1414.jpg
+  - SCO-1809-2999x1999.jpg
+  - SCO-1809-4242x2828.jpg
+  thumbnail: SCO-1809-thumbnail.jpg
+  title: Dundreggan Dam
+- filename: SCO-1812
+  original: SCO-1812-6000x4000.jpg
+  sizes:
+  - SCO-1812-2121x1414.jpg
+  - SCO-1812-2999x1999.jpg
+  - SCO-1812-4242x2828.jpg
+  thumbnail: SCO-1812-thumbnail.jpg
+- GPS:
+    longitude: -5.510958333333333
+    latitude: 57.27544722222222
+  filename: SCO-1829
+  original: SCO-1829-6000x4000.jpg
+  sizes:
+  - SCO-1829-2121x1414.jpg
+  - SCO-1829-2999x1999.jpg
+  - SCO-1829-4242x2828.jpg
+  thumbnail: SCO-1829-thumbnail.jpg
+  title: Eilean Donan Castle
+- GPS:
+    longitude: -6.082902777777777
+    latitude: 57.26761111111111
+  filename: SCO-1857
+  original: SCO-1857-6000x4000.jpg
+  sizes:
+  - SCO-1857-2121x1414.jpg
+  - SCO-1857-2999x1999.jpg
+  - SCO-1857-4242x2828.jpg
+  thumbnail: SCO-1857-thumbnail.jpg
+- GPS:
+    longitude: -6.069908333333333
+    latitude: 57.280655555555555
+  filename: SCO-1878
+  original: SCO-1878-6000x4000.jpg
+  sizes:
+  - SCO-1878-2121x1414.jpg
+  - SCO-1878-2999x1999.jpg
+  - SCO-1878-4242x2828.jpg
+  thumbnail: SCO-1878-thumbnail.jpg
+  title: Loch Ainort
+- GPS:
+    longitude: -6.048483333333333
+    latitude: 57.28989444444444
+  filename: SCO-1890
+  original: SCO-1890-5796x3454.jpg
+  sizes:
+  - SCO-1890-2243x1337.jpg
+  - SCO-1890-3173x1891.jpg
+  - SCO-1890-4487x2674.jpg
+  thumbnail: SCO-1890-thumbnail.jpg
+  title: Salmon farm in Loch Ainort
+- GPS:
+    longitude: -6.047530555555555
+    latitude: 57.29587222222222
+  filename: SCO-1895
+  original: SCO-1895-6000x4000.jpg
+  sizes:
+  - SCO-1895-2121x1414.jpg
+  - SCO-1895-2999x1999.jpg
+  - SCO-1895-4242x2828.jpg
+  thumbnail: SCO-1895-thumbnail.jpg
+- GPS:
+    longitude: -6.597247222222222
+    latitude: 57.45525555555556
+  filename: SCO-1916
+  original: SCO-1916-6000x4000.jpg
+  sizes:
+  - SCO-1916-2121x1414.jpg
+  - SCO-1916-2999x1999.jpg
+  - SCO-1916-4242x2828.jpg
+  thumbnail: SCO-1916-thumbnail.jpg
+  title: Dunvegan Castle
+- GPS:
+    longitude: -6.621733333333334
+    latitude: 57.480850000000004
+  filename: SCO-1931
+  original: SCO-1931-6000x4000.jpg
+  sizes:
+  - SCO-1931-2121x1414.jpg
+  - SCO-1931-2999x1999.jpg
+  - SCO-1931-4242x2828.jpg
+  thumbnail: SCO-1931-thumbnail.jpg
+  title: Loch Dunvegan
+- GPS:
+    longitude: -6.402394444444445
+    latitude: 57.35505555555556
+  filename: SCO-1943
+  original: SCO-1943-6000x4000.jpg
+  sizes:
+  - SCO-1943-2121x1414.jpg
+  - SCO-1943-2999x1999.jpg
+  - SCO-1943-4242x2828.jpg
+  thumbnail: SCO-1943-thumbnail.jpg
+  title: Loch Harport
+- GPS:
+    longitude: -6.1743194444444445
+    latitude: 57.28967222222222
+  filename: SCO-1974
+  original: SCO-1974-6000x4000.jpg
+  sizes:
+  - SCO-1974-2121x1414.jpg
+  - SCO-1974-2999x1999.jpg
+  - SCO-1974-4242x2828.jpg
+  thumbnail: SCO-1974-thumbnail.jpg
+- GPS:
+    longitude: -6.174297222222222
+    latitude: 57.28966111111111
+  filename: SCO-1983
+  original: SCO-1983-6000x4000.jpg
+  sizes:
+  - SCO-1983-2121x1414.jpg
+  - SCO-1983-2999x1999.jpg
+  - SCO-1983-4242x2828.jpg
+  thumbnail: SCO-1983-thumbnail.jpg
+  title: River Sligachan
+  caption: Beautiful view from the hotel room
+- GPS:
+    longitude: -6.3576
+    latitude: 57.304472222222216
+  filename: SCO-1990
+  original: SCO-1990-6000x4000.jpg
+  sizes:
+  - SCO-1990-2121x1414.jpg
+  - SCO-1990-2999x1999.jpg
+  - SCO-1990-4242x2828.jpg
+  thumbnail: SCO-1990-thumbnail.jpg
+  title: Talisker Distillery at edge of Loch Harport
+- GPS:
+    longitude: -6.357866666666666
+    latitude: 57.300605555555556
+  filename: SCO-1991
+  original: SCO-1991-6000x4000.jpg
+  sizes:
+  - SCO-1991-2121x1414.jpg
+  - SCO-1991-2999x1999.jpg
+  - SCO-1991-4242x2828.jpg
+  thumbnail: SCO-1991-thumbnail.jpg
+  title: Loch Harport
+- GPS:
+    longitude: -5.526636
+    latitude: 57.4057
+  filename: SCO-2019_stitch
+  original: SCO-2019_stitch-19637x2954.jpg
+  sizes:
+  - SCO-2019_stitch-4465x672.jpg
+  - SCO-2019_stitch-6315x950.jpg
+  - SCO-2019_stitch-8931x1343.jpg
+  thumbnail: SCO-2019_stitch-thumbnail.jpg
+  title: Loch Carron
+- GPS:
+    longitude: -5.526636111111111
+    latitude: 57.40575277777778
+  filename: SCO-2034
+  original: SCO-2034-6000x4000.jpg
+  sizes:
+  - SCO-2034-2121x1414.jpg
+  - SCO-2034-2999x1999.jpg
+  - SCO-2034-4242x2828.jpg
+  thumbnail: SCO-2034-thumbnail.jpg
+  title: Deer
+  caption: If you look closely, there are some deer eating on the hill.
+- GPS:
+    longitude: -5.526633333333333
+    latitude: 57.40573888888889
+  filename: SCO-2047
+  original: SCO-2047-6000x4000.jpg
+  sizes:
+  - SCO-2047-2121x1414.jpg
+  - SCO-2047-2999x1999.jpg
+  - SCO-2047-4242x2828.jpg
+  thumbnail: SCO-2047-thumbnail.jpg
+- GPS:
+    longitude: -5.648408333333333
+    latitude: 57.51777777777777
+  filename: SCO-2067
+  original: SCO-2067-6000x4000.jpg
+  sizes:
+  - SCO-2067-2121x1414.jpg
+  - SCO-2067-2999x1999.jpg
+  - SCO-2067-4242x2828.jpg
+  thumbnail: SCO-2067-thumbnail.jpg
+  title: Loch Shieldaig
+- GPS:
+    longitude: -5.314777777777778
+    latitude: 57.58098888888889
+  filename: SCO-2101
+  original: SCO-2101-4000x6000.jpg
+  sizes:
+  - SCO-2101-1414x2121.jpg
+  - SCO-2101-1999x2999.jpg
+  - SCO-2101-2828x4242.jpg
+  thumbnail: SCO-2101-thumbnail.jpg
+- GPS:
+    longitude: -4.883861111111111
+    latitude: 57.61088055555555
+  filename: SCO-2107
+  original: SCO-2107-6000x4000.jpg
+  sizes:
+  - SCO-2107-2121x1414.jpg
+  - SCO-2107-2999x1999.jpg
+  - SCO-2107-4242x2828.jpg
+  thumbnail: SCO-2107-thumbnail.jpg
+- GPS:
+    longitude: -3.6593638888888886
+    latitude: 57.304291666666664
+  filename: SCO-2124
+  original: SCO-2124-6000x4000.jpg
+  sizes:
+  - SCO-2124-2121x1414.jpg
+  - SCO-2124-2999x1999.jpg
+  - SCO-2124-4242x2828.jpg
+  thumbnail: SCO-2124-thumbnail.jpg
+- GPS:
+    longitude: -3.481725
+    latitude: 57.263933333333334
+  filename: SCO-2139
+  original: SCO-2139-6000x4000.jpg
+  sizes:
+  - SCO-2139-2121x1414.jpg
+  - SCO-2139-2999x1999.jpg
+  - SCO-2139-4242x2828.jpg
+  thumbnail: SCO-2139-thumbnail.jpg
+- GPS:
+    longitude: -3.2386500000000003
+    latitude: 57.18657222222222
+  filename: SCO-2157
+  original: SCO-2157-6000x4000.jpg
+  sizes:
+  - SCO-2157-2121x1414.jpg
+  - SCO-2157-2999x1999.jpg
+  - SCO-2157-4242x2828.jpg
+  thumbnail: SCO-2157-thumbnail.jpg
+- GPS:
+    longitude: -3.390561111111111
+    latitude: 57.01466388888889
+  filename: SCO-2161
+  original: SCO-2161-6000x4000.jpg
+  sizes:
+  - SCO-2161-2121x1414.jpg
+  - SCO-2161-2999x1999.jpg
+  - SCO-2161-4242x2828.jpg
+  thumbnail: SCO-2161-thumbnail.jpg
+  title: Braemar Castle
+- GPS:
+    longitude: -3.0381277777777775
+    latitude: 57.05265833333333
+  filename: SCO-2220
+  original: SCO-2220-6000x4000.jpg
+  sizes:
+  - SCO-2220-2121x1414.jpg
+  - SCO-2220-2999x1999.jpg
+  - SCO-2220-4242x2828.jpg
+  thumbnail: SCO-2220-thumbnail.jpg
+  title: Ballater Highland Games
+- GPS:
+    longitude: -3.037722222222222
+    latitude: 57.05247222222222
+  filename: SCO-2241
+  original: SCO-2241-6000x4000.jpg
+  sizes:
+  - SCO-2241-2121x1414.jpg
+  - SCO-2241-2999x1999.jpg
+  - SCO-2241-4242x2828.jpg
+  thumbnail: SCO-2241-thumbnail.jpg
+  title: Ballater Highland Games
+- GPS:
+    longitude: -3.0377444444444444
+    latitude: 57.05251666666666
+  filename: SCO-2247
+  original: SCO-2247-6000x4000.jpg
+  sizes:
+  - SCO-2247-2121x1414.jpg
+  - SCO-2247-2999x1999.jpg
+  - SCO-2247-4242x2828.jpg
+  thumbnail: SCO-2247-thumbnail.jpg
+  title: Ballater Highland Games
+- GPS:
+    longitude: -3.0382305555555553
+    latitude: 57.05184444444444
+  filename: SCO-2256
+  original: SCO-2256-6000x4000.jpg
+  sizes:
+  - SCO-2256-2121x1414.jpg
+  - SCO-2256-2999x1999.jpg
+  - SCO-2256-4242x2828.jpg
+  thumbnail: SCO-2256-thumbnail.jpg
+  title: Ballater Highland Games
+- GPS:
+    longitude: -3.038222222222222
+    latitude: 57.05181944444444
+  filename: SCO-2258
+  original: SCO-2258-6000x4000.jpg
+  sizes:
+  - SCO-2258-2121x1414.jpg
+  - SCO-2258-2999x1999.jpg
+  - SCO-2258-4242x2828.jpg
+  thumbnail: SCO-2258-thumbnail.jpg
+  title: Ballater Highland Games
+- GPS:
+    longitude: -3.0381277777777775
+    latitude: 57.0518
+  filename: SCO-2274
+  original: SCO-2274-6000x4000.jpg
+  sizes:
+  - SCO-2274-2121x1414.jpg
+  - SCO-2274-2999x1999.jpg
+  - SCO-2274-4242x2828.jpg
+  thumbnail: SCO-2274-thumbnail.jpg
+  title: Ballater Highland Games
+- GPS:
+    longitude: -3.038177777777778
+    latitude: 57.051827777777774
+  filename: SCO-2294
+  original: SCO-2294-6000x4000.jpg
+  sizes:
+  - SCO-2294-2121x1414.jpg
+  - SCO-2294-2999x1999.jpg
+  - SCO-2294-4242x2828.jpg
+  thumbnail: SCO-2294-thumbnail.jpg
+  title: Ballater Highland Games
+- GPS:
+    longitude: -3.165286111111111
+    latitude: 57.093558333333334
+  filename: SCO-2323
+  original: SCO-2323-6000x4000.jpg
+  sizes:
+  - SCO-2323-2121x1414.jpg
+  - SCO-2323-2999x1999.jpg
+  - SCO-2323-4242x2828.jpg
+  thumbnail: SCO-2323-thumbnail.jpg
+  title: Gairnshiel Bridge
+- GPS:
+    longitude: -3.234113888888889
+    latitude: 57.16272222222222
+  filename: SCO-2332
+  original: SCO-2332-6000x4000.jpg
+  sizes:
+  - SCO-2332-2121x1414.jpg
+  - SCO-2332-2999x1999.jpg
+  - SCO-2332-4242x2828.jpg
+  thumbnail: SCO-2332-thumbnail.jpg
+- GPS:
+    longitude: -3.2327972222222225
+    latitude: 57.16564722222222
+  filename: SCO-2339
+  original: SCO-2339-6000x4000.jpg
+  sizes:
+  - SCO-2339-2121x1414.jpg
+  - SCO-2339-2999x1999.jpg
+  - SCO-2339-4242x2828.jpg
+  thumbnail: SCO-2339-thumbnail.jpg
+  title: Corgarff Castle
+
+
+
+

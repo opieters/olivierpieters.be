@@ -1,0 +1,44 @@
+{{ define "main" }}
+
+<div class="row">
+  {{ range $index, $page := first 5 (where .Site.RegularPages "Type" "blog") }}
+  {{ if eq $index 0 }}
+  <div class="six columns">
+    <h1 class="page-heading">Newest Blog Post</h1>
+    {{ if .Params.prev_image }}
+    <img src="/{{ .Params.prev_image }}" alt="Mountain View" style="width:100%;">
+    {{ end }}
+    <h2><a class="post-link" href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <div class="post-meta">
+      <span class="post-date">{{ .Date.Format "2 January 2006" }}</span>
+      {{ with .Params.tags }}
+      {{ range first 3 . }}
+      <span class="project-tag"><a href="/tags/{{ . | urlize }}" class="no-link-style">{{ . }}</a></span>
+      {{ end }}
+      {{ end }}
+    </div>
+    {{ if isset .Params "prev_image" }}
+    {{ else }}
+    {{ .Summary }}
+    {{ end }}
+  </div>
+  <div class="six columns">
+    <h1 class="page-heading">Older Blog Posts</h1>
+    <ul class="older-post-list">
+      {{ else }}
+      <li>
+        <h2><a class="post-link-small" href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <div class="post-meta">
+          <span>{{ .Date.Format "2 January 2006" }}</span>
+        {{ range first 3 .Params.tags }}
+        <span class="project-tag"><a href="/tags/{{ . | urlize }}" class="no-link-style">{{ . }}</a></span>
+        {{ end }}
+        </div>
+      </li>
+      {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+</div>
+
+{{ end }}

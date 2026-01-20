@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ block "description" . }}{{ .Site.Params.Description }}{{ end }}">
+
+    {{ partial "head_includes.html" . }}
+
+    {{ block "head" . }}{{ end }}
+  </head>
+  <body>
+
+    {{ partial "mobile_navigation.html" . }}
+
+    <main id="panel">
+      <div class="page-content">
+        <div class="wrapper container">
+          
+          {{ partial "desktop_navigation.html" . }}
+
+          {{ block "main" . }}{{ end }}
+
+        </div>
+      </div>
+
+      <div class="invisible-divider"></div>
+
+      {{ block "pre_footer" . }}{{ end }}
+
+      {{ partial "footer.html" . }}
+
+      {{ $slideout := resources.Get "vendor/node_modules/slideout/dist/slideout.min.js" }}
+      {{ $menu := resources.Get "js/menu.js" }}
+      {{ $katex := resources.Get "vendor/node_modules/katex/dist/katex.min.js" }}
+      {{ $math := resources.Get "js/math.js" }}
+      {{ $defaultJS := slice $slideout $menu $katex $math | resources.Concat "js/global.js" }}
+
+      <script src="{{ $defaultJS.Permalink }}" integrity="{{ $defaultJS.Data.Integrity }}"></script>
+
+      {{ block "post_footer" . }}{{ end }}
+
+    </main>
+  </body>
+</html>

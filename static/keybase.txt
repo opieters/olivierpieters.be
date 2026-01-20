@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/opieters
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://olivierpieters.be
+  * I am opieters (https://keybase.io/opieters) on keybase.
+  * I have a public key ASDt-0Dtl9g8fgICqCGcSCkp38xzSjg7lOCjTSh0H3Dr6wo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e8b9e8ab1ee1e36ded1881e7152de8c9bf9aad8891440023fcd41d0ad672b2e70a",
+            "host": "keybase.io",
+            "kid": "0120edfb40ed97d83c7e0202a8219c482929dfcc734a383b94e0a34d28741f70ebeb0a",
+            "uid": "6813f9318a201557a2fc064755e1dc19",
+            "username": "opieters"
+        },
+        "service": {
+            "hostname": "olivierpieters.be",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1467838898,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1467838827,
+        "hash": "0577d27fe2efb33d97ddda5171a93f6b1c4c31446139bedbe13232ad16ecbb3af251457aa88390da213546becf0df7e412f403b6c4330382b36823b150ef5cb1",
+        "seqno": 511131
+    },
+    "prev": "4c8e24b4eac2fe15f1cdc04c98b6d05b41cef3d17baed6968e5be765e08b7af9",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7ftA7ZfYPH4CAqghnEgpKd/Mc0o4O5Tgo00odB9w6+sKp3BheWxvYWTFAvp7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZThiOWU4YWIxZWUxZTM2ZGVkMTg4MWU3MTUyZGU4YzliZjlhYWQ4ODkxNDQwMDIzZmNkNDFkMGFkNjcyYjJlNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZWRmYjQwZWQ5N2Q4M2M3ZTAyMDJhODIxOWM0ODI5MjlkZmNjNzM0YTM4M2I5NGUwYTM0ZDI4NzQxZjcwZWJlYjBhIiwidWlkIjoiNjgxM2Y5MzE4YTIwMTU1N2EyZmMwNjQ3NTVlMWRjMTkiLCJ1c2VybmFtZSI6Im9waWV0ZXJzIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJvbGl2aWVycGlldGVycy5iZSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE2In0sImN0aW1lIjoxNDY3ODM4ODk4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0Njc4Mzg4MjcsImhhc2giOiIwNTc3ZDI3ZmUyZWZiMzNkOTdkZGRhNTE3MWE5M2Y2YjFjNGMzMTQ0NjEzOWJlZGJlMTMyMzJhZDE2ZWNiYjNhZjI1MTQ1N2FhODgzOTBkYTIxMzU0NmJlY2YwZGY3ZTQxMmY0MDNiNmM0MzMwMzgyYjM2ODIzYjE1MGVmNWNiMSIsInNlcW5vIjo1MTExMzF9LCJwcmV2IjoiNGM4ZTI0YjRlYWMyZmUxNWYxY2RjMDRjOThiNmQwNWI0MWNlZjNkMTdiYWVkNjk2OGU1YmU3NjVlMDhiN2FmOSIsInNlcW5vIjoxNywidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAdmTfDPMnjZW/dcJJQsqDQiPGP4SVjiD7B6YChIo9z/4xQm4UuhcLr2sjcDnZBfeGYmoT/mpWihMcNlTdY0S8AqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/opieters
+
+==================================================================

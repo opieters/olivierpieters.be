@@ -1,0 +1,24 @@
+{{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Get "file")) }}
+
+{{ $scratch := newScratch }}
+
+{{ if eq (.Get "alt") "" }}
+    {{ .Scratch.Set "alt" (.Get "file") }}
+{{ else }}
+    {{ .Scratch.Set "alt"  (.Get "alt") }}
+{{ end }}
+
+{{ if eq (.Get "id") "" }}
+    {{ .Scratch.Set "id" (.Scratch.Get "alt") }}
+{{ else }}
+    {{ .Scratch.Set "id" (.Get "id") }}
+{{ end }}
+
+<figure id="{{ .Scratch.Get "id" }}" {{ with .Get "class" }}class="{{ . | safeHTMLAttr}}" {{ end }}>
+    <img src="{{ $original.Permalink | safeHTMLAttr }}" alt="{{ .Scratch.Get "alt" | safeHTMLAttr }}" {{ with .Get "imgClass" }}class="{{ . | safeHTMLAttr }}" {{ end }}/>
+    {{ with .Get "caption" }}
+    <figcaption>
+        {{ . | markdownify | safeHTML }}
+    </figcaption>
+    {{ end }}
+</figure>

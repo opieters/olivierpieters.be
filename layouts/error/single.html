@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+<div class="error">
+
+    <header>
+      <h1>{{ .Title }}</h1>
+      <h2>{{ .Params.Subtitle }}</h2>
+    </header>
+  
+    <article>
+        <p>{{ .Content }} Please try again or go to the <a href="/">homepage</a>.</p>
+  
+        <p>If this error keeps on occuring when clicking a link on this site, please contact me through email: <code>feedback (at) {this domain} (dot) be</code>. Feedback and bug reports are highly appreciated!</p>
+    </article>
+  
+  </div>
+
+{{ end }}
+
+

@@ -1,0 +1,1237 @@
+layers:
+  -
+    title: "Fjorden"
+    colour: "#00f"
+    items:
+      -
+        title: Nærøyfjord
+        link: "https://en.wikipedia.org/wiki/Nærøyfjord"
+        description: "De Nærøyfjord (Noors: Nærøyfjorden) is een fjord in de gemeente Aurland in Sogn og Fjordane, Noorwegen.
+
+
+        De fjord is ongeveer 20 kilometer lang en is een zijtak van de Aurlandsfjord, die op zijn beurt een vertakking is van de grote Sognefjord. De fjord is zeer smal, op sommige plaatsen slechts 250 m breed - de Bakkasundet of 'Engte van Bakka' nabij het plaatsje Bakka - terwijl de omliggende bergen tot 1770 meter hoog zijn. Op het smalste punt is de fjord slechts 12 m diep, verder naar het einde verdiept ze tot 75 m. De fjord eindigt nabij het plaatsje Gudvangen, waar het riviertje Nærøydalselvi erin uitstroomt."
+        location:
+          latitude: 60.95
+          longitude: 6.933333
+        icon: water
+        image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Nærøyfjord_%286-2007%29.jpg"
+      -
+        title: Sognefjord
+        link: "https://nl.wikipedia.org/wiki/Sognefjord"
+        description: "De Sognefjord (Noors: Sognefjorden) is de langste fjord van Noorwegen en de derde langste ter wereld, na de Kangertittivaq in Groenland en de Greely Fiord op Ellesmere-eiland (Canada).
+
+
+        Hij ligt in West-Noorwegen in de provincie Sogn og Fjordane, circa 72 km ten noorden van Bergen. De Sognefjord heeft diverse zijarmen zoals de Lustrafjord, Aurlandsfjord, Lærdalfjord en de Nærøyfjord.
+
+
+        De fjord is circa 204 kilometer lang en loopt tot Skjolden. Grote plaatsen langs de fjord zijn Lavik, Høyanger, Balestrand, Hermansverk en Sogndal.
+
+
+        Er zijn zes ferryverbindingen om de Sognefjord over te steken: Rysjedalsvika - Rutledal, Lavik - Oppedal, Dragsvik - Vangsnes, Mannheller - Fodnes, tussen Nordeide-Måren en Ortnevik alsook tussen Gudvangen-Kaupanger en Lærdal."
+        location:
+          latitude: 61.133333
+          longitude: 6.183333
+        icon: water
+        image: "https://upload.wikimedia.org/wikipedia/commons/4/47/Sognefjord%2C_Norway.jpg"
+      -
+        title: "Lysefjord"
+        link: "https://nl.wikipedia.org/wiki/Lysefjord"
+        description: "De Lysefjord (Noors: Lysefjorden) is een Noorse fjord in de gemeente Forsand in de provincie Rogaland vlak bij de Høgsfjord. De naam betekent lichtfjord, waarschijnlijk door de lichte granieten stenen langs de fjord.
+
+
+        De fjord is ongeveer 42 km lang en op het diepste punt 500 meter diep. De Lysefjord werd aan het eind van de laatste ijstijd gevormd, toen de gletsjers smolten.
+
+
+        Bekende bezienswaardigheden als Preikestolen en Kjerag liggen langs de fjord. De fjord wordt jaarlijks door duizenden toeristen bezocht, in 2006 door bijna 280.000 toeristen."
+        location:
+          latitude: 59
+          longitude: 6.233333
+        icon: water
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/LysebotnViewFromAbovePreikestolen.jpg/250px-LysebotnViewFromAbovePreikestolen.jpg"
+      -
+        title: Oslofjord
+        link: "https://nl.wikipedia.org/wiki/Oslofjord"
+        description: "De Oslofjord (Noors: Oslofjorden) is een 107 km lange fjord in het zuidoosten van Noorwegen.
+
+
+        De fjord loopt in noord-zuidrichting van de monding in het Skagerrak bij Færder in het zuiden tot Oslo bij de kop, langs de provincies Oslo, Østfold, Akershus, Buskerud en Vestfold.
+
+
+        De Drøbaksund, een zeventien kilometer lange engte tussen Drøbak en Hurum, verdeelt de fjord in een binnen- (Indre Oslofjord) en buitenfjord (Ytre Oslofjord). Naar grootte is het de vijfde fjord van Noorwegen."
+        location:
+          latitude: 59.566667
+          longitude: 10.616667
+        icon: water
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oslojord_from_Ekeberg.jpg/1920px-Oslojord_from_Ekeberg.jpg"
+      -
+        title: Nordfjord (fjord)
+        link: "https://nl.wikipedia.org/wiki/Nordfjord_(fjord)"
+        description: "De Nordfjord is een van de langste Noorse fjorden en is gelegen in de provincie Sogn og Fjordane. De fjord is 106 km lang.
+
+
+        Enkele zijarmen van de Nordfjord zijn de Vågsfjord, Fåfjord, Rugsundet, van de Ytre Nordfjord, Eidsfjord, Isefjord, Ålfotfjord, Hundvikfjord, Hyefjorden van deGloppefjord met de Utfjord en Innvikfjord.
+
+
+        Enkele grotere plaatsen zijn Stryn aan de Innvikfjord, Nordfjordeid aan de Eidsfjord, Måløy op het eiland Vågsøy aan de monding van de fjord en Sandane aan de Gloppenfjord.
+
+
+        De regio Nordfjord is vernoemd naar de fjord."
+        location:
+          latitude: 61.8963
+          longitude: 5.2759
+        icon: water
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Nordfjorden.jpg/1920px-Nordfjorden.jpg"
+      -
+        title: Hardangerfjord
+        link: "https://nl.wikipedia.org/wiki/Hardangerfjord"
+        description: "De Hardangerfjord (Noors: Hardangerfjorden) is een circa 170 kilometer lange fjord gelegen aan de zuidwestkust van de Atlantische Oceaan van Noorwegen, in de provincie Hordaland. De fjord loopt van het zuidwesten naar het noordoosten.
+
+
+        Enige grote eilanden die voor de fjord liggen zijn Stord, Bømlo en Tysnesøy. In de fjord bevindt zich het eiland Varaldsøy. De fjord is circa 725 meter diep. Zijarmen van de Hardangerfjord zijn de Eidfjord en de Sørfjord.
+
+
+        De grootste stad in de omgeving is Bergen."
+        location:
+          latitude: 60.2
+          longitude: 6.066667
+        icon: water
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/HardangerfjordSunset.jpg/1920px-HardangerfjordSunset.jpg"
+      -
+        title: Trondheimfjord
+        link: "https://nl.wikipedia.org/wiki/Trondheimfjord"
+        description: "De Trondheimfjord (Noors: Trondheimsfjorden) is de op twee na langste fjord van Noorwegen, 130 km lang. De Trondheimfjord ligt in het westelijke centrale deel van het land en mondt in de Noorse zee uit. Hij strekt zich uit van Ørland in het westen tot Steinkjer in het noorden en loopt langs de stad Trondheim. De maximale diepte bedraagt 617 meter, net binnen Agdenes. De grootste eilanden in de fjord zijn Ytterøy en Tautra, het kleine Munkholmen ligt vlak bij de haven van Trondheim. Er zijn vele eilandjes aan de monding van de fjord. Het smalle Skarnsundet wordt overspannen door de brug Skarnsund Het deel van de fjord dat ten noorden van de zeestraat ligt wordt de Beitstadfjord genoemd. Het grootste deel van de Trondheimsfjord is gedurende het hele jaar ijsvrij. Alleen Verrasundet, een lang en smal stuk in het noorden van de fjord, kan gedurende de winter dichtvriezen. De Beitstadfjord kan ook enkele weken dichtvriezen tijdens de wintermaanden."
+        location:
+          latitude: 63.5
+          longitude: 10.466667
+        icon: water
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Munkholmen_og_et_fyr.jpg/1280px-Munkholmen_og_et_fyr.jpg"
+      -
+        title: Mardalsfossen (waterval)
+        link: "https://www.visitnorway.com/places-to-go/fjord-norway/northwest/listings-northwest/walk-up-to-the-mardalsfossen-waterfall/7487/"
+        description: "Mardalsfossen is een bekende waterval in de gemeente Nesset in Noorwegen. Het water valt 705 meter naar beneden, met tussenliggende rotsen.
+
+
+        De langste vrije val van het water is 297 meter. Dat is de hoogste vrije val van Scandinavië en de op drie na hoogste ter wereld.
+
+
+        Het water komt uit het op 945 m hoogte gelegen meer de Mardalstjønna.
+
+
+        Sinds 1970 wordt het water voor elektriciteitsproductie omgeleid, waardoor de waterval drooggevallen is. Na hevig protest wordt de waterval – als toeristische attractie – jaarlijks van 20 juni tot 20 augustus weer van water voorzien, weliswaar met een beperkt debiet: 3 m³/s in plaats van de oorspronkelijke 45 m³/s."
+        location:
+          latitude: 62.475794
+          longitude: 8.124086
+        icon: water
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Mardalsfossen_Waterfall_Norway_2004.jpg/800px-Mardalsfossen_Waterfall_Norway_2004.jpg"
+      -
+        title: Wild Reindeer Safari
+        link: "http://www.contrastadventure.no/en/activity/51895/wild-reindeer-safari"
+        description: "Join us for this magnificent tour in Eikesdalen, a charming town with 65 people. From here we go the the beautiful valley; where we can see the last original wild reindeers in Europe, and maybe most of all – see signs from the people who lived here for 10 000 years ago.
+
+
+        Prijs: NOK 990 PP ~ 110 euro"
+        location:
+          latitude: 62.476111
+          longitude: 8.174167
+        icon: zoo
+        image: "http://img1.static.trekksoft.com/cache/images/activity_headers/51895/840x588/1-0.jpg?ts=1462873231"
+      -
+        title: Fokstumyra Natuur Reservaat (vogels)
+        link: "http://www.nasjonalparker.org/en/nasjonalparkene/fokstumyra/"
+        description: "Fokstumyra Nature Reserve is a nature reserve established in 1923 in Dovrefjell, in the municipality of Dovre. It covers an area of eight km² of wetlands, and was the first nature reserve in Norway. The area is known for its rich bird fauna and plant diversity. It became a Ramsar site in 2002. [Link](https://www.visitnorway.com/listings/birdwatching-fokstumyra/184374/)"
+        location:
+          latitude: 62.1188
+          longitude: 9.2658
+        icon: golf
+        image: "http://pilegrimsleden.no/uploads/made/uploads/images/Om/POI/Gudbrandsdalsleden/fokstumyra_Tom_Schandy_600_402_90_s.jpg"
+      -
+        title: Slettafossen waterval
+        link: "http://visitandalsnes.com/slettafossen/"
+        description: "At Verma, 44 km from Åndalsnes. Signposted turn-off from the road (E136) Also a 30-40 m deep canyon with a river and rapids. Picnic area. Hand-made articles."
+        location:
+          latitude: 62.32455
+          longitude: 8.0776
+        icon: water
+        image: "https://res-5.cloudinary.com/simpleview/image/fetch/c_fill,f_jpg,h_605,q_65,w_1200/https://media.newmindmedia.com/TellUs/image/%3Ffile%3D388DF0AA82F4906FCE3A34BBA85ED9940EB783AB.jpg%26dh%3D1206%26dw%3D800"
+      -
+        title: Geirangerfjord
+        link: "http://www.geirangerfjord.no/english"
+        description: "De Geirangerfjord is een fjord in de regio Sunnmøre in het uiterste zuiden van de Noorse provincie Møre og Romsdal. Het is een 15 kilometer lange arm van de Storfjord. Tussen de plaatsen Geiranger en Hellesylt, gelegen in de fjord, is er een veerverbinding.
+
+
+        De fjord heeft diverse watervallen, zoals De syv søstrene (\"De zeven zusters\"), Brudesløret (\"de Bruidssluier\") en Friaren (\"de Vrijer\"), en is een van de meest bezochte toeristische attracties van Noorwegen. Sinds 14 juli 2005 staat deze fjord, samen met de Nærøyfjord op de Werelderfgoedlijst van UNESCO.
+
+
+        De Storsæterfossen is een waterval waar een pad onderdoor loopt. De Flydalsjuvet is een rotspunt die uitzicht biedt over de Geirangerfjord. Ook vanaf de berg Dalsnibba, gelegen aan een zijtolweg van de rijksweg 63, is er een mooi uitzicht over de fjord.
+
+
+        De Geirangerfjord wordt zeer regelmatig aangedaan door cruiseschepen en er zijn rondvaarten over de fjord."
+        location:
+          latitude: 62.1
+          longitude: 7.083333
+        icon: water
+        image: "https://res-3.cloudinary.com/simpleview/image/upload/c_limit,f_auto,h_1200,q_75,w_1200/v1/clients/norway/unesco-geirangerfjord-skagefla-waterfall_bd5e3234-a7f8-4616-a6cf-ed8a4a1fab9e.jpg"
+      -
+        title: "Dalsnibba Skywalk"
+        link: "http://www.dalsnibba.no/en/"
+        desciption: "rope’s highest fjord view by road – 1500 meter
+
+
+        Imagine standing on a mountain top, breathing good mountain air and enjoying the views over snow-covered mountains and the Geirangerfjord, part of the West Norwegian Fjords UNESCO World Heritage Site. You can experience all this – and more – at Dalsnibba. And guess what? You don’t even need to walk a single step.
+
+        Tolls required!"
+        image: "http://www.dalsnibba.no/wp-content/uploads/2016/02/header10-dalsnibba.jpg"
+        location:
+          latitude: 62.048771
+          longitude: 7.269494
+        icon: "triangle-stroked"
+      -
+        title: Trolltunga
+        link: "https://www.visitnorway.com/places-to-go/fjord-norway/the-hardangerfjord-region/listings-hardanger-fjord/trolltunga/8625/"
+        description: "Trolltunga (\"de tong van de trol\") is een steenformatie in de Noorse provincie Hordaland die nagenoeg horizontaal uit het gebergte steekt, ca. 350 meter boven het Ringedalsvannet, nabij Tyssedal in de gemeente Odda.
+
+
+        Zeer uitdagende wandeling.
+
+
+        Om bij Trolltunga te komen, reist men naar Odda (gerekend vanaf de kant van Røldal), vervolgens naar Skjeggedal, te bereiken via het plaatsje Tyssedal. Vroeger kon men de Mågelibanen nemen, een wagen die door middel van een kabel naar boven getrokken wordt, maar deze is sinds 2010 niet meer opengesteld voor toeristen en wordt alleen nog gebruikt door eigenaren van een hut boven in het dal. Volg het pad dat begint achter het gebouwtje naast de Mågelibanen, naar de top. Het is een redelijk steile klim tot aan de top. Vanaf de top (je komt nagenoeg uit naast de Mågelibanen), vervolg je enige tijd het pad door het dal om vervolgens de berg aan de oostkant te gaan beklimmen. Vanaf hier is het nog ca. 3 uur lopen naar Trolltunga. Op zeker moment duikt het Ringedalsvannet aan je rechterkant (beneden) op, dan denk je dat je er bent, maar dan is het nog zeker anderhalf uur lopen. Voor een tocht heen en weer naar Trolltunga moet men 8 tot 10 uur rekenen. Het pad is goed aangegeven middels een T, alleen het laatste stukje is wat minder. De Noorse Toeristenvereniging heeft hutten in de omgeving alwaar overnachting mogelijk is."
+        location:
+          latitude: 60.132983
+          longitude: 6.754067
+        icon: triangle-stroked
+        image: "https://res-4.cloudinary.com/simpleview/image/fetch/c_limit,f_jpg,q_64,w_800/https://media.newmindmedia.com/TellUs/image/%3Ffile%3DA11FD68C13316585769AA59226CAF3049A7544D8.jpg%26dh%3D389%26dw%3D800&.jpg"
+      -
+        title: "Hardangervidda National Park"
+        link: "http://www.uvdal.no/index.php?option=com_flexicontent&view=category&cid=13&Itemid=638&lang=en"
+        description: "Uvdal is a wonderful destination for anyone who loves the outdoors, and is a great starting point for excursions. Whether you are going for an hour or a day – you will find a path suitable for you. A wide choice of signposted footpaths make it possible for visitors to experience something new every day, whether on foot or on a bike. National cycle route no. 5 goes through Uvdal, and has been voted one of the 10 most beautiful cycle routes in Norway. The old traderoute “Nordmansslepa” is excellent for off road biking as well as hiking. With the great Hardangervidda is just around the corner you will never tire of nature in Uvdal.
+
+
+        Hardangervidda National Park, at 3,422 square kilometers, is Norway's largest national park. It spans from Numedal and Uvdal in the east and Røvelseggi and Ullensvang in the west across the Hardanger mountain plateau (Hardangervidda). Designated as a national park in 1981, today it serves as a popular tourist destination for activities such as hiking, climbing, fishing, and cross-country skiing. The Norwegian Mountain Touring Association (DNT) maintains a comprehensive network of huts and paths across Hardangervidda. The Bergensbanen railway line and the main Highway 7 cross the plateau.
+
+
+        It has the southernmost stock of several arctic animals and plants. Its wild reindeer herds are among the largest in the world.
+
+
+        Several hundred nomadic stone age settlements have been found in the area, most likely related to the migration of the reindeer. Ancient trails cross the plateau, linking western and eastern Norway; one example is the Nordmannsslepa linking Eidfjord and Veggli in the Numedal valley with Hol and Uvdal.
+
+
+        The name Hardangervidda is put together by the name of the district Hardanger and the finite form of vidde, 'wide plain, large mountain plateau'."
+        location:
+          latitude: 60.05
+          longitude: 7.416667
+        icon: park
+        image: "http://en.hardangervidda.com/var/visitrauland/storage/images/hardangervidda/the-hardangervidda-national-park-centre/375886-3-nor-NO/The-Hardangervidda-National-Park-Centre_member_full_banner.jpg"
+      -
+        title: "Heddal Stave Church"
+        link: "http://www.heddalstavkirke.no/"
+        description: "The church is a triple nave stave church and is Norway's largest stave church. It was constructed at the beginning of the 13th century. Over the last couple of years, the number of visitors has been lying in the area of 30 000 each year. There are guided tours in Norwegian, German and English available to tourists. The church is in use as a regular parish church, so during the summer there are held services most Sundays.
+
+        “Rome wasn’t built in a day” the old saying goes, but according to the legend, Heddal stave church was built in three days. You may read the exciting story here."
+        location:
+          latitude: 59.579444
+          longitude: 9.176389
+        icon: religious-christian
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Stavechurch-heddal.jpg/270px-Stavechurch-heddal.jpg"
+      -
+        title: "Borgund Stave Church"
+        link: "https://en.wikipedia.org/wiki/Borgund_Stave_Church"
+        description: "Borgund Stave Church (Norwegian: Borgund stavkyrkje) is a stave church located in the village of Borgund in the municipality of Lærdal in Sogn og Fjordane county, Norway. It is classified as a triple nave stave church of the so-called Sogn-type. This is also the best preserved of Norway's 28 extant stave churches. The church is part of the Borgund parish in the Indre Sogn deanery in the Diocese of Bjørgvin, although it is no longer used regularly for church functions, it is now used as a museum and it is run by the Society for the Preservation of Ancient Norwegian Monuments."
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Borgund_Stave_Church_in_Lærdalen%2C_2013_June.jpg/300px-Borgund_Stave_Church_in_Lærdalen%2C_2013_June.jpg"
+        location:
+          latitude: 61.04724
+          longitude: 7.81224
+        icon: religious-christian
+      -
+        title: "Tuddal Village Museum"
+        link: "http://www.nasjonalparkrute.no/eng/severdigheter.html"
+        description: "Tuddal Village is an outdoor museum housing typical buildings once found in an ancient mountain village.
+
+        At the museum you can:
+        • Experience how folk from Tuddal had built their farms and lived through the centuries
+        • Discover various types of buildings with interiors as they existed long ago
+        • Receive information on traditional objects and artifacts
+        • Discover ‘Bygdedagen’ (village day) in July which attracts more participants than the number of citizens currently living there
+        • Take a look at ‘husguden’ dating to 1100 as well as the famous stave church portals
+        • Visit the new museum building which preserves and displays objects/artifacts in a completely new manner
+        • Purchase a photograph from the photo collection"
+        icon: museum
+        image: "http://www.nasjonalparkrute.no/severdigheter/03_tuddal.jpg"
+      -
+        title: "Gaustabanen"
+        link: "http://www.gaustabanen.no/en/"
+        description: "A cable railway has been built inside Mount Gausta. The Gausta Line consists of a battery-powered carriage on rails which transports passengers approx. 860 metres horizontally into the mountain. At this point there is an intermediate transfer station from which a shuttle line runs upwards at an angle for 1040 metres to a height of 1800 metres above sea level. At the top there is an exit which leads passengers out on to the so-called Tuddalstippen, just below the Mount Gausta Tourist Chalet.
+
+
+        The line was built in order to transport people and equipment up to a height of 1800 metres, and as a military transport system which is unique in global terms. A unit of the Norwegian armed forces, which was involved in the installation of radio links on Mount Gausta, was keen to gain year-round access to the peak regardless of the weather. They then conceived the idea of copying the developers of hydroelectric power stations by excavating a tunnel into the mountainside. The cost of the line on completion in 1958 was one million dollars. Today the price would have been so prohibitive that the line would never have been built. The Mount Gausta line was also originally intended to be used for transporting tourists up to the peak of Mount Gausta, but unfortunately the Cold War came along. The line was closed to the public, and it was not until 2003 that it was reopened to accommodate tourist traffic.
+
+        The Gaustabanen funicular was launched in 1953, but initially only as an April fools’ joke in the local newspaper. Read about the April fools’ joke that became reality here!"
+        location:
+          latitude: 59.854009
+          longitude: 8.684817
+        icon: aerialway
+        image: "http://www.gaustabanen.no/var/gaustabanen/storage/images/media/images/banner-1/5371-1-nor-NO/banner-1.jpg"
+      -
+        title: "Gaustatoppen"
+        link: "https://en.wikipedia.org/wiki/Gaustatoppen"
+        description: "Gaustatoppen is the highest mountain in the county Telemark in Norway who lies in the municipality Tinn and Hjartdal. The view from the summit is impressive, as one can see an area of approximately 60,000 km², one sixth of Norway's mainland. There is a funicular railway inside the mountain, built for military purposes, which is now a tourist attraction. This ascends from the base of the mountain almost to the summit. The mountain is popular for downhill skiing in winter, and competitions have been held on its slopes. These competitions include the \"Norseman triathlon\", billed as \"the world's most brutal iron-distance triathlon\". It starts in Eidfjord and finishes at the top of Gaustatoppen. The summit is accessible on foot in the summer, on a rocky pathway of medium difficulty, although the southern side of the mountain is very dangerous and inaccessible. The wreckage of an airplane crash lies there, as it is too difficult to remove it."
+        location:
+          latitude: 59.854139
+          longitude: 8.650333
+        icon: triangle-stroked
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gaustatoppen.jpg/1280px-Gaustatoppen.jpg"
+      -
+        title: "Krossobanen Cable Car"
+        link: "http://www.krossobanen.no/en"
+        description: "The Krossobane Cable Car was the first cable car to be built in northern Europe in 1928. The cable car was a gift from Norsk Hydro to the townspeople so that they could get up high enough to see the sun during the winter. The cable car has recently been renovated, with new machinery and other technical installations. Visits to the operations room can be arranged on request.
+
+
+        The lower station has a large car park, from which the two cable cars, \"Tyttebær\" (cranberry) and \"Blåbær\" (blueberry) carry passengers up to an altitude of 886 metres. The view over Rjukan from the top is fantastic, with the mountains rolling away to the south and west and Vemork nestling in the valley where the dramatic heavy water sabotage operations took place during the War. You will find Gvepseborg Kafé at the top, where you can have a bite to eat and relax and enjoy the beautiful scenery. Thousands of people take the cable car to the upper station in order to access the Hardangervidda mountain plateau and cycle to Kalhovd Turisthytte. The trail there is 30km long and signposted. It is suitable for cyclists of all ages. You can carry on from Kalhovd and cycle a round trip back to Rjukan.
+        The 1st of November 1944 will always be one of the most important dates in the history of the Krossobanen cableway. Read about what happened [here](http://www.nasjonalparkrute.no/eng/severdigheter/07_krosso.html)."
+        location:
+          latitude: 59.879375
+          longitude: 8.554872
+        icon: aerialway
+        image: "http://www.visitrjukan.com/var/visitrjukan/storage/images/media/images/vr-sommer-artikkelbilder-220x147/krossobanen-willy-kittelsen/32776-1-nor-NO/krossobanen-willy-kittelsen_size-large.jpg"
+      -
+        title: "THE NORWEGIAN INDUSTRIAL WORKERS MUSEUM"
+        link: "http://english.nia.eyego.no"
+        description: "The Rjukan Waterfall provided the basis for building the world's largest power station of the time at Vemork in 1911. The power station is now a museum where you can learn about the fantastic adventure of its founding and see exhibitions on industrial development in Norway and especially in Rjukan.
+
+
+        The museum is perhaps best known for its presentation of Rjukan's exciting war history. Vemork was at the centre of one of the most important acts of sabotage committed during the Second World War, when Norwegian saboteurs prevented the Germans from developing a nuclear bomb from the heavy water that was produced there.
+
+
+        The exhibition \"Atomkappløpet\" (the nuclear race) gives an exciting and extremely informative presentation of the four heavy water sabotage operations and the Allies' efforts to build a nuclear bomb. You can watch a documentary called \"If Hitler had the bomb\" in the cinema, which is about the acts of sabotage committed during the quest to destroy the heavy water plant.
+
+
+        The Vemork art gallery 2008;
+        Reidar Aulie graduated at Kunstindustriskolen (school of art) and Kunstakademiet (Art academy) around 1920. He was also a student of Christian Krogh and Axel Revold. His political views were based on humanistic and pacifistic ideals, which had great influence on his artistic development. Around 1930, Reidar Aulie, was looked upon as one of Norway’s front painters of tendency. Norsk Industriarbeidermuseum (The industrial workers museum –Vemork) presents a variety of Aulies work; paintings, drawings and lithographs. 1st of May to the 31st of December.
+
+
+        Before the “Heroes of Telemark” went into action, they lived in a small cabin on the Hardangervidda plateau, awaiting their orders from England. It was a difficult few time for them, but on the 23rd of December 1942 they got a rare surprise."
+        location:
+          latitude: 59.87203
+          longitude: 8.49457
+        icon: museum
+        image: "http://en.hardangervidda.com/var/visitrauland/storage/images/hardangervidda/se-gjoere/attraksjoner/norsk-industriarbeidermuseum/335878-8-nor-NO/The-Norwegain-Industrial-Workers-Museum_lightbox_image.jpg"
+      -
+        title: "The Rjukan Waterfall"
+        link: "http://www.visitrjukan.com/en/attractions/rjukanfossen-waterfall"
+        description: "The Rjukan Waterfall is unfortunately much less impressive than it used to be as most of the water has now been diverted into pipes running to the Vemork power station. But at the same time, it's so much more beautiful and powerful when they release it.
+
+
+        History about Rjukanfossen (waterfall)
+
+        In 1810, geology professor Jens Esmark \"discovered\" the Rjukan Waterfall, and sent a report to the King in Copenhagen about the \"world's highest waterfall\". This was a slight exaggeration. The Rjukan Waterfall is no more than 104m high, but it led to increased tourism in Rjukan.
+
+
+        The mountain man and heavy water saboteur Claus Helberg claimed that Rjukan was the cradle of modern tourism in Norway.
+
+
+        Great artists such as I. C. Dahl and Johannes Flintoe came first and painted the two giants of nature, Gaustatoppen and the Rjukan Waterfall, followed by the upper classes from large European cities who came to \"inspect this beautiful scenery\".
+
+
+        There are many descriptions to be found of first meetings with the Rjukan waterfall. The lawyer Bernhard Dunker, totally entranced, wrote the following:
+        \"After passing Skovbekken and reaching the cliff face close by, it seemed to me that I should see the waterfall. Finally and unexpectedly the path led out of the forest and on to a terrace on the mountainside, and there was the waterfall in all its glory. As if by magic, I was standing face to face with this great waterfall and a natural phenomenon, the power and beaty of which surpassed even the most spectacular dream. Neither words, brush nor colour can do justice to the Rjukan waterfall and its surroundings. But for he who is granted the privilege of standing on the terrace just opposite the Rjukan Waterfall and hears its thundering roar and observes the clouds of mist rising towards the sky, a picture of nature's majesty and power forms in his soul which will remain with him throughout his life.\""
+        location:
+          latitude: 59.866944
+          longitude: 8.479167
+        icon: water
+        image: "http://www.visitrjukan.com/var/visitrjukan/storage/images/media/images/vr-sommer-artikkelbilder-220x147/rjukanfossen-nancy-bundt/90083-1-nor-NO/rjukanfossen-nancy-bundt_size-large.jpg"
+      -
+        title: "High mountain cruise with M/B Fjellvåken II"
+        link: "http://www.rauland.org/Aktoer/Fjellvaaken-II-AS/Our-cruises/High-mountain-cruise-with-M-B-Fjellvaaken-II"
+        description: "Join in on a day trip with M/B Fjellvåken II on Møsvatn from Skinnarbu to Mogen!
+
+
+        Mountain cruise on Hardangervidda
+        Join the catamaran M/B Fjellvåken II on a day-trip from Skinnarbu to Mogen and experience the breathtaking nature, the farms around lake Møsvatn and the tasteful food at Mogen Turisthytte (Tourist Cabin).
+
+
+        Mogen
+        Mogen Turisthytte lies magnificently innermost, at the west end of Lake Møsvatn. The place has a long tradition as a gateway to Hardangervidda National Park, and is one of the oldest lodges in the park. M/B Fjellvåken II schedule makes is possible to make the trip back and forth to us the same day. We offer a tempting warm lunch based on traditional and local products.
+
+
+        Mogen is a great base for varied hikes in the area. Mogen Turisthytte has 48 beds in 14 rooms, dining room with a view over the Kvenna river, two living rooms with open fireplace and a warm and cosy atmosphere"
+        location:
+          latitude: 59.866667
+          longitude: 8.083333
+        icon: water
+        image: "http://en.hardangervidda.com/var/visitrauland/storage/images/hardangervidda/se-gjoere/topp-10/hoegfjellscruise-med-m-b-fjellvaaken-ii/1/14134-1-nor-NO/1_infoboximage_right_place.jpg"
+      -
+        title: "Folgefonna National Park"
+        link: "http://www.folgefonna.info/en/welcome-folgefonna-national-park"
+        description: "Situated on the southern shore of the beautiful Hardangerfjord in Hordaland County, Folgefonna National Park boasts one of Norway’s largest glaciers. In words and stunning images, our website tells you about the glacier and how ice sculpted the fjords and surrounding landscape. We’ll show you great cultural attractions and scenic highlights, point out hiking trails that take you there, give details about guided glacier treks, kayaking beneath ice falls, and much more."
+        location:
+          latitude: 60.083333
+          longitude: 6.4
+        icon: park
+        image: "http://www.folgefonna.info/sites/default/files/bergfrue.jpg"
+      -
+        title: "The Geological Trail in Nordrepollen"
+        link: "http://www.folgefonna.info/en/attractions/the-geological-trail"
+        description: "For an extended exploration of the fascinating interplay between ice and stone, consider hiking the Geological Trail. This well-marked path, from Nordrepollen, in the innermost reaches of the Maurangsfjord to the glacier arm called Botnabreen, will give you a greater understanding of how the landscapes of Folgefonna National Park were formed.
+
+
+        The varied landscape tells a fascinating story – if you know how to read it. Fortunately, the information boards along the Geological Trail were written by some of Norway’s foremost geologists and botanists. Let the landscape be your teacher!
+
+
+        Powerful natural forces have formed the dramatic scenery you encounter: heat, tectonic movement, pressure, ice and water. Here, beautiful plants are well adapted to the rough climate and sparse soil, where snow covers the land much of the year and the growth season is short and intense. A good example is pyramidal saxifrage, one of Norway’s two national flowers. (The other is common heather.)
+
+
+        Pioneer plants
+
+        The first stage of your hike, from the hamlet Øyre on Nordrepollen, takes you up through the alder forest in the valley of Øyresdalen. Alder is a hardy tree that can endure low temperatures and nutrient-poor soil; the tree lives in symbiosis with a bacteria that allows it to absorb nitrogen directly from the air. Other hardy trees that grow near the glacier are birch and dwarf willow. In Fagerdalen there is also rowan, whose berries are spread by birds. Over time, rotting leaves from “pioneer plants” gradually build up soil, so that other more demanding plants may grow.
+
+
+        Carving valleys and fjords
+
+        Botnane has a particularly fascinating geology. Here are different types of bedrock minerals. For instance, the blue stones you see are serpentinite. The bow-shaped moraines of gravel and sand in the middle of the valley were deposited by retreating ice. Another telltale sign is the horizontal gouge marks you can see on the mountainsides. The icecap used rocks, gravel and sand as abrasives to scour and grind away the bedrock – over time carving out the valleys and fjords. A glacier river delta.
+
+
+        Summer pastures
+
+        Local farmers used to bring their livestock to summer pastures in Godalen and other valleys below the Folgefonna glacier.
+
+        The Little Ice Age
+
+        Glaciers advance and retreat according to the climate. During a chilly period known as the “Little Ice Age” a couple of hundred years ago, Folgefonna filled entire valleys with ice.
+
+
+        As you walk this pristine landscape, you might be surprised to hear that electricity is being produced from the meltwater. In fact, the pioneering Folgefonna hydropower project has the first network of tunnels built beneath the glacier.
+
+
+        An illustrated brochure on the Geological Trail (Geostien) is available from the Folgefonna gateways and local Tourist Information Offices. The brochure has a wealth of detailed information, including a list of plants that grow in the area."
+        location:
+          latitude: 60.189119
+          longitude: 6.384465
+        icon: water
+        image: "http://www.folgefonna.info/sites/default/files/geostien.jpg"
+      -
+        title: "Langfoss Falls"
+        link: "http://www.folgefonna.info/en/attractions/langfossen"
+        description: "Langfoss is the fifth highest waterfall in Norway and Europe’s 16th highest, but its magnificent surroundings and accessibility have placed it on CNN’s list of the World’s 10 Most Beautiful Waterfalls.
+
+
+        Langfossen flows into the Åkrafjord very near the E134 highway, after tumbling 600 metres down the mountainside. Right nearby are picnic tables, as well as a kiosk that sells fast food, homemade baked goods, local food products, handicrafts and souvenirs. The helpful staff will gladly give you toward hiking trails, suggest additional rewarding activities, and recommend accommodation in the area. Service facilities at the kiosk include toilets.
+
+
+        A trail from the parking place leads up to the top of Langfoss. If you’re in the mood for a longer hike, there are well-marked trails to lodges in the mountains. A fjord cruise will also give you an impressive view of the waterfall."
+        location:
+          latitude: 59.845505
+          longitude: 6.339433
+        icon: water
+        image: "http://www.folgefonna.info/sites/default/files/rullestad2_0.jpg"
+      -
+        title: "Buardalen – a hike to the edge of the glacier"
+        link: "http://www.folgefonna.info/en/attractions/buardalen"
+        description: "From the town of Odda, getting to the glacier is easy. An 8-kilometre drive takes you up to Buer (250 m), and you can already see the glacier from the parking lot. A marked trail leads right up to Buarbreen, a majestic glacier arm of Folgefonna.
+
+
+        The trail meanders up through the lush valley of Buardalen, surrounded by steep mountains. Every winter, the sun disappears from view for months at a time. Soon you will find the sounds of civilization replaced by the sound of the raging river Buarelvi, which carries large quantities of meltwater down to Sandvinvatnet lake.
+
+
+        In the 1890s a hotel was built at Buer (250 m) to accommodate the tourists who came from afar to see the magnificent glacier. One hundred years the glacier arm reached down almost to the uppermost farms. In 1897, the powerful wind blast from a huge snow-slide blew the hotel off its foundations. It was never rebuilt.
+
+
+        Allow three hours for a leisurely round-trip walk, from Buer to the glacier’s edge and back. Be sure to wear good hiking boots and bring a bite to eat. The adventurous might yearn to join a guided excursion on the glacier itself. Inquire at any of the Folgefonna gateways."
+        location:
+          latitude: 60.044881
+          longitude: 6.468963
+        icon: water
+        image: "http://www.folgefonna.info/sites/default/files/buerbreen-c-stig-tronvold_0.jpg"
+      -
+        title: "Hike: Reiseter to Digrahaug"
+        link: "http://www.folgefonna.info/en/attractions/reisete-digrahaug"
+        description: "Reiseter, the highest-altitude active farm in the Hardanger region, offers multiple treats. The view is stunning, you can enjoy a meal of filling traditional fare, and this is the starting point of a very rewarding hike.
+
+
+        Getting to Reiseter is easy – a road takes you all the way up to the farm, perched 330 metres above sea level. The host and hostess of Reiseter take pride in serving you traditional fare. If you plan on hiking, consider a light meal or reward yourself with a feast after you complete your walk.
+
+
+        An expanding panorama
+
+        The landscape opens as the trail ascends above Reiseter. Gradually more and more of the fjords unfold below. As you progress in a southwesterly direction on the forest roads, you encounter a varied flora, exciting geology and interesting cultural monuments, but you have to know what to look for, as some of them are almost hidden in the landscape.
+
+
+        The walk from Reiseter to Digrahaug takes about 1.5–2 hours each way. For the last stretch, we recommend that you follow the marked path to Håedal, before descending to Digrahaug. In the past, farmers brought their livestock to Håedalstølen for summer pasture.
+
+
+        Varied rock, varied flora
+
+        If you are observant, you will see the varied rocks in the farm-building foundations: granite and gabbro. Above the farms are boulder fields, with large blocks of various types of granite that have tumbled from the mountain above. Growing amongst mineral-rich rock debris here and elsewhere are hardy alpine plants. The steep calcareous mountainsides below the glacier also display an amazingly varied flora. Near the Skiparvikelva river is a light-green rock: serpentinite. Near Nonstein is a soapstone quarry where cooking vessels were carved out.
+
+
+        Old trackways
+
+        At Digrahaug you can still see remnants of the Ice Road, the road along which horse-drawn wagons brought ice from the glacier above, down through the river valley to Skiparvika. From there, it was shipped to customers along the coast and abroad. In the 1800s the edge of the glacier was lower. On the upper mountainsides above Digrahaug, the snow patches linger even in late summer.
+
+
+        Allow plenty of daylight for your return walk."
+        location:
+          latitude: 60.248864
+          longitude: 6.552238
+        icon: golf
+        image: "http://www.folgefonna.info/sites/default/files/digrahaug.jpg"
+      -
+        title: "The icefall in Bondhusdalen"
+        link: "http://www.folgefonna.info/en/attractions/bondhusdalen"
+        description: "Those who have been here, consider Bondhusdalen to be the most beautiful of the many valleys below the Folgefonna glacier. The highlight is the stunning icefall at the head of the valley, reflected in the lake of glacial meltwater.
+
+
+        The magnificent icefall and valley have drawn tourists since the mid 1800s. As you walk from the quay in Sundal, a hamlet on the shore of the Maurangerfjord, you are retracing a historic path. The Ice Road wasn’t built for tourists, but rather to transport ice, which was used for refrigeration in the towns and villages up and down the coast.
+
+
+        It’s an easy hike; the gravel road up to Bondhusvatnet lake is also suitable for strollers and wheelchairs. A round trip takes about two hours. The trail to the far end of the lake – and better view of the icefall – requires sturdy footwear. The trail continues up to a moraine below Bondhusbrea (Bondhusbreen). Allow three hours for the hike to the far end of the lake and back again, and four hours if you’re hiking to the moraine.
+
+
+        When Queen Sonja of Norway officially opened Folgefonna National Park in 2005, the location chosen for the ceremony was Bondhusdalen. Her Majesty’s signature is on a rock by the lake.
+
+
+        You can sign up for a guided hike to Bondhusbrea icefall. Experienced guides will enrich your adventure with fascinating facts and exciting stories.
+
+
+        Warning: Always keep a safe distance from the icefall. Huge blocks of ice may shift suddenly – and that can prove lethal!"
+        location:
+          latitude: 60.096437
+          longitude:  6.286609
+        icon: golf
+        image: "http://www.folgefonna.info/sites/default/files/bondhusdalen-vatn2_0.jpg"
+      -
+        title: "The Flåm Railway"
+        link: "https://www.visitflam.com/en/se-og-gjore/aktiviteter/flamsbana/"
+        description: "The Flåm Railway has been named one of the most beautiful train journeys in the world and is one of the leading tourist attractions in Norway. The train runs from the end of Aurlandsfjord, a tributary of the Sognefjord, up to the high mountains at Myrdal Station. The journey displays the very best aspects of Western Norway's stunning scenery.
+
+
+        In the span of a brief hour, the train takes you from sea level at the Sognefjord in Flåm to the Myrdal mountain station at 867 metres above sea level. Myrdal is also a station on the Bergen Railway, which means that the Flåm Railway connects with trains running between Bergen and Oslo. For information on and tickets for connecting services on the Bergen Line, please visit NSB's website: www.nsb.no
+
+
+        The Flåm Railway is one of the steepest standard-gauge railway lines in the world, with 80% of the journey at a gradient of 5.5%. The train runs through spectacular scenery, alongside the Rallar Road, vertiginous mountainsides, foaming waterfalls, through 20 tunnels and offers so many viewpoints that, for many people, a single trip up and down is not enough.
+
+
+        National Geographic Traveler Magazine calls the Flåm Railway one of the top 10 train journeys in Europe while in 2014 Lonely Planet Traveller went even further, and named it the best train journey in the world."
+        image: "https://www.visitflam.com/globalassets/flamsbana/1200x650/flomsbanen-sverrehjornevik-2959_1200x650.jpg?width=840&quality=60"
+        location:
+          latitude: 60.862963
+          longitude: 7.114055
+        icon: rail
+      -
+        title: "Vettisfossen"
+        link: "https://www.visitnorway.com/listings/vettisfossen-waterfall/10639/"
+        description: "With a free fall of 275 metres Vettisfossen is the highest protected waterfall in Norway. You can get there on foot by walking up the beautiful Utladalen in Øvre Årdal.
+
+
+        With its free drop of 275 metres (about 900 feet), the Vettisfoss is the highest waterfall in Norway which has not been regulated. The waterfall is situated at Vettismorki in Årdal, and it was protected as early as 1924. In his book \"Under Storen\", the writer and photographer Jan Schwarzott has described it as the queen of waterfalls: \"once the queen gets to you, she will never leave your heart\".
+
+
+        Vettismorki marks the lower end of the valley of Utladalen. It is in this monumental natural setting that you can imagine that the Sognefjord in a way has cut its way into the biggest mountain massif in the country - Jotunheimen. In this area you find about 50 mountain tops higher than 2000 metres (6600 feet).
+
+
+        Down in the town of Årdal, aluminium is produced in gigantic metal plants, where the furnaces are generated by hydro-electricity from the surrounding mountains and glaciers. And in this landscape you can find traces of people’s activities and settlements in the distant past."
+        image: "https://upload.wikimedia.org/wikipedia/commons/0/02/Vettisfossen.jpg"
+        location:
+          latitude: 61.37913
+          longitude:  7.94758
+        icon: water
+      -
+        title: "Vøringfossen"
+        link: "http://www.fjordnorway.com/top-attractions/voringsfossen"
+        description: "The Vøringsfossen Waterfall has a free fall of 145 metres and a total fall of 182 metres, and is one of the most visited tourist attractions in Norway.
+
+
+        To witness the huge volumes of water from the Hardangervidda plateau drop to the valley of Måbødalen below is an impressive sight in natural and idyllic surroundings.
+
+
+        Måbødalen is narrow and steep, and this beautiful valley stretches from Eidfjord through to Hardangervidda, where it is possible to see the waterfall from the bottom of the valley. There used to be several roads passing through Måbødalen, and in the 1780’s stone steps were built (1300 in total) to make the journey easier.
+
+
+        The road from Måbødalen to Fossli was finished in 1916 and is accessible by foot or bicycle. The car road through Måbødalen has several tunnels but also plenty of viewpoints to stop and and enjoy in the breathtaking scenery.
+
+
+        From the main road the walk to the waterfall is about 30 minutes, and the view at the end is a guaranteed reward.
+        Two of the tours from Fjord Tours includes a sightseeing trip to Vøringsfossen waterfall and Hardangervidda Nature centre. Read more about these tours here.
+
+
+        Future plans for the Vøringsfossen waterfall
+
+
+        Vøringsfossen is one of the attractions to be improved through the National Tourist Route Project.
+
+
+        The area surrounding Vøringsfossen needs improvement, and major parts along the edge towards the waterfall and valleys are not secured. Parking and facilities will be built and there will be improvements for viewpoints, paths and bridges to be completed by 2020.
+
+
+        By 2023 the National Tourist Route will be fully completed and to the design of architect Carl-Viggo Hølmebakk AS."
+        image: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAierPYHYEnTCiJR6ByYDnko2v-Yi0wXbGAgHmJWGa9OLvXKlE"
+        location:
+          latitude: 60.4275
+          longitude: 7.251667
+        icon: water
+      -
+        title: "Aurlandsfjord"
+        link: "http://www.aurlandsfjord.com"
+        description: "Aurlandsfjord and Nærøyfjord in Sognefjord - Western Norway - maybe the worlds most beautiful and dramatic fjords?
+
+
+        It is two of many fjordarms in the 204 km long Sognefjord, the 'King of the Fjords'. In 2005 Nærøyfjord became a part of UNESCO's World Heritage together with Geirangerfjord. Aurlandsfjord is a part of the World Heritage Area surrounding Nærøyfjord."
+        image: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3NLGAVxXWjbwhksTA0VEnQa8uicw4KA8Yiy5OCcJJu_ay_kyT0A"
+        location:
+          latitude: 60.9155
+          longitude: 7.1702
+        icon: water
+      -
+        title: "The Stegastein Viewpoint"
+        link: "https://www.visitflam.com/en/se-og-gjore/aktiviteter/stegastein-roundtrip/"
+        description: "The Stegastein tour is a popular tour that you have to experience while in Flam. Here, you'll experience a fantastic fjord view and closeness with nature.
+
+
+        This is a lovely sightseeing trip to the spectacular Stegastein viewpoint, 650 meters above the fjord. Stegastein is a part of the national tourist road that leads from Aurland to Laerdal, popularly known as \"The snow road\". Here you'll get a fantastic view of the fjord landscape that will give you the truly unique holiday photos.
+
+
+        Cost 290 NOK"
+        image: "https://www.visitflam.com/globalassets/stegastein/stegastein_host_sverrehjornevik_24561_1200x650.jpg?width=840&quality=60"
+        location:
+          latitude: 60.908228
+          longitude: 7.212857
+        icon: monument
+      -
+        title: "Pulpit Rock"
+        link: "https://www.visitnorway.com/listings/preikestolen-(pulpit-rock)-hike/185743/"
+        description: "The Pulpit Rock (Preikestolen), the most famous tourist attraction in Ryfylke, towers an impressive 604 metres over the Lysefjord.
+
+        The Pulpit Rock (Preikestolen), the most famous tourist attraction in Ryfylke, towers an impressive 604 metres over the Lysefjord. The plateau is approximately 25 x 25 metres, flat and you can enjoy a spectacular view of the Lysefjord and surrounding mountains. Along the trail, there are picnic areas and excellent bathing spots.
+        Remember proper walking shoes/boots, walking sticks, warm clothing and food.
+
+        2 hours hike from Preikestolhytta to Preikestolen (one way).
+        Season: April - October.
+
+        How to get to Preikestolen:
+        By public transportation in main seson: Ferry from Fiskepirterminalen in Stavanger to Tau and corresponding bus to Preikestolen Fjellstue where you start the hike, Boreal Transport or Tide Buss/Norled. www.boreal.no or www.tidebuss.no
+
+        By public transportation in low seson: Ferry from Stavanger to Tau and corresponding bus to Jørpeland. The remaining part of the way is by taxi from Jørpeland to Preikestolen fjellstue (around 9 km).
+
+        By car: Drive to Lauvvik and cross with ferry from Lauvvik to Oanes and continue along Rv 13 and follow the signs to Preikestolen. Or go by ferry from Stavanger to Tau (40 minutes) and drive south on National Tourist Route Ryfylke following the signs to Preikestolen.
+
+        It is also wonderful to experience the Pulpit Rock from the fjord, either from a sightseeing boat or from a car ferry going from Lauvvik, Oanes, Stavanger, or from several other places of call on Lysefjorden. See timetable at www.norled.no or www.rodne.no"
+        image: "http://i.dailymail.co.uk/i/pix/2015/08/04/09/2B1511F200000578-0-image-a-3_1438675284747.jpg"
+        location:
+          latitude: 58.986111
+          longitude: 6.188611
+        icon: golf
+      -
+        title: "The Steinsdalsfossen"
+        link: "https://www.visitnorway.com/places-to-go/fjord-norway/the-hardangerfjord-region/listings-hardanger-fjord/steinsdalsfossen-waterfall/1260/"
+        description: "One of the most popular waterfalls in Norway. The Steinsdalsfossen has a fall of 50 m and is special because you can walk safe and dry behind it. The fall occured in 1699 when the river changed course. There is a footpath from the car park up to and under the waterfall. Along National Tourist Route Hardanger.Tourist information office.
+
+
+        *National Tourist Routes*
+        Scenic roads for exploring Norway’s breathtaking landscapes - comprising selected stretches from north to south. 3 of them are in Hardanger. National Tourist Route Hardanger, National Tourist Route Hardangervidda and National Tourist Route Ryfylke. www.nasjonaleturistveger.no"
+        image: "https://res-2.cloudinary.com/simpleview/image/fetch/c_fill,f_jpg,h_605,q_65,w_1200/https://media.newmindmedia.com/TellUs/image/%3Ffile%3DA1FB30FDAB573426896285838403B106EC394DA4.jpg%26dh%3D600%26dw%3D800"
+        location:
+          latitude: 60.370556
+          longitude: 6.102778
+        icon: water
+      -
+        title: "Jostedalsbreen National Park"
+        link: "https://www.visitnorway.com/listings/jostedalsbreen-national-park/6301/"
+        description: "Jostedalsbreen National Park, which was founded in 1991, covers an area of 1,310 square kilometres. Jostedalsbreen is the biggest glacier in mainland Europe, and covers 487 square km2 of the park. The national park also contains many other large and small glaciers. Seven municipalities have areas within the national park, and the Jostedalsbreen glacier divides two of the world's longest fjords, the Sognefjord and the Nordfjord.
+
+
+        The glaciers are natural laboratories, particularly with respect to climate changes, geology and vegetation/flora. The movement of the glaciers contributes to constant changes in the landscape. The confluence of melt water from the glaciers creates glacial rivers, one of the most distinctive features of the Jostedalsbreen National Park. The landscape of the national park ranges from lush valleys to alpine mountains and an arctic climate. The core of the national park consists of untouched landscape that can only be reached on foot. Near the glacier, there is an interesting cultural landscape that is still used for agriculture and as grazing land. Around 600,000 people visit the Jostedalsbreen National Park every year.
+
+
+        One of the most unique features of the Jostedalsbreen glacier in olden times was the kinship and sense of community between the small communities on either side of the glacier. The old highways and byways crossed the glacier.
+
+
+        The most famous glacier arm of the great Jostedalsbreen is Briksdalsbreen with approximately 300.000 visitors every year, from all over the world.
+
+
+        At Jostedalsbreen National Park Centre you can learn more about the National Park."
+        image: "https://res-1.cloudinary.com/simpleview/image/fetch/c_fill,f_jpg,h_605,q_65,w_1200/https://media.newmindmedia.com/TellUs/image/%3Ffile%3D6F0741E6B2B2CE5E38B1B4C6575096E5D8FEF4BA.jpg%26dh%3D450%26dw%3D800"
+        location:
+          latitude: 61.710556
+          longitude: 6.924167
+        icon: "park"
+      -
+        title: "Sunnmøre Alps"
+        link: "http://www.visitalesund.com"
+        description: "The majestic Sunnmøre Alps are a veritable eldorado for mountain lovers, beautifully situated around several of the Sunnmøre fjords. The jagged peaks rise up from the fjords, many of them reaching altitudes of around 1,600 metres. Popular tourist venues include Molladalen, Slogen, Råna, Jønshorn and Kolåstinden, and the area also boasts of beautiful glaciers such as the Regndal and Gullmor Glaciers."
+        image: "https://res-2.cloudinary.com/simpleview/image/fetch/c_fill,f_jpg,h_605,q_65,w_1200/https://media.newmindmedia.com/TellUs/image/%3Ffile%3D14624283456D3506FE10DF57F2D2DC986662BBFB.jpg%26dh%3D543%26dw%3D800"
+        location:
+          latitude: 62.22
+          longitude: 6.57
+        icon: triangle-stroked
+      -
+        title: "Rondane National Park"
+        link: "https://www.visitnorway.com/listings/rondane-national-park/7359/"
+        description: "Rondane National Park is a mountain area between the Gudbrandsdalen and Atndalen valleys. The area stretches from Ringebu in the south to Dovre in the north.
+
+
+        Rondane National Park is a mountain area between the Gudbrandsdalen and Atndalen valleys. The area stretches from Ringebu in the south to Dovre in the north. It was awarded protected status and became the country’s first national park in 1962. The area was extended in 2003, and today it covers 963 km². 
+
+
+        The national park is home to one of our last wild reindeer populations, and comprises everything from woodland to exposed hillsides and mountain peaks. As many as nine of the Rondane mountain peaks are over 2000 metres above sea level. An extensive network of way-marked trails is available, and the area is ideal for everything from daytrips in gentle terrain to challenging multi-day mountain hikes."
+        image: "https://res-5.cloudinary.com/simpleview/image/fetch/c_fill,f_jpg,h_605,q_65,w_1200/https://media.newmindmedia.com/TellUs/image/%3Ffile%3D04CDBF2F23318C1DC6A487C7869C3F26B2E9321F.jpg%26dh%3D801%26dw%3D1200"
+        location:
+          latitude: 61.833333
+          longitude: 9.5
+        icon: park
+      -
+        title: "The Saboteur's trail"
+        link: "https://www.visitnorway.com/listings/the-saboteurs-trail/1469/"
+        description: "The Saboteurs' trail is the world-famous route the Norwegian Resistance used during the Second World War.
+
+
+        The Saboteur trail goes in varied terrain, mostly forest, at 450-1040 metres above sea level.
+
+
+        The saboteur's trail is the path the world-famous Norwegian resistance used during the World War 2, the night they ought to blow up the heavy water plant at Vemork.
+
+
+        The tour starts from Rjukan Fjellstue. From Rjukan Fjellstue you follow the gravel road for a little while, then it turns east, through varied forest - and mountain terrain.
+
+
+        Along the way there are information boards that tell you the history when Norwegian saboteurs went from Hardangervidda, and down the steep gorges to Rjukan to blow up the heavy water plant.
+
+
+        The spectacular nature makes the trip even more special. The trail is well marked, with some steep descent towards the end. During the trip you will have impressive views of Rjukan and the Norwegian Industrial Workers' Museum
+
+
+        Good footwear is essential. On rainy days boots are recommended as the trail can be wet and somewhat muddy.
+
+
+        Suitable for: Normally fit persons
+
+
+        Distance: About 8 kilometres
+
+
+        Time: About two hours
+
+
+        Starting point:  Rjukan Fjellstue, 11 km west from Rjukan
+
+
+        Parking: Rjukan Fjellstue or Vemork (bus to Rjukan Fjellstue everyday 12.35 from Våer/Vemork)
+
+
+        Directions to starting point: From Rjukan town centre, drive towards Rauland in the west.  After approximately 11 kilometres follow signs to Rjukan Fjellstue.
+
+
+        Buy map at: Rjukan Tourist Office, Torget 2, phone: +47 350 80 550."
+        image: "https://res-3.cloudinary.com/simpleview/image/fetch/c_fill,f_jpg,h_605,q_65,w_1200/https://media.newmindmedia.com/TellUs/image/%3Ffile%3D9E0427658BBC57A394C65BBF87F9CC57B855C166.jpg%26dh%3D534%26dw%3D800"
+        location:
+          latitude: 59.857500
+          longitude: 8.445556
+        icon: "golf"
+      -
+        title: "THE COASTAL PATH: LANGESUND - ROGNSTRANDA"
+        link: "https://www.visitnorway.com/listings/coastal-path%3A-langesund-rognstranda/10427/"
+        description: "This part of the trail is generally easy and straightforward to go , but can be hilly someplaces . Langesund is well worth a visit  before heading out onto the trail.
+
+
+        We go through Vaterlandsgata from the square out to Furustranda. Here is the information board on the coastal path. The trip out here going through idyllic white-painted wooden houses, where we can make detours into narrow alleyways or out to the characteristic piers extending far out into the strait.
+
+
+        We get glimpses into the manicured gardens and out to the elongated sound and Langøya with the lighthouse at the tip. The trail goes on around the rod quickly. This is an abandoned coastal fort from the war and there are good information boards about the history of the place. From here, there are magnificent views Langøytangen Lighthouse and large parts of the archipelago. A wide and good trail follows the west side of the rod to Steinvika. This is a popular hiking destination for swimming and sunbathing in the summer, and to experience the sea in rough weather.
+
+
+        Geology buffs will find interesting fossils here and the place is a well-known part of the Geopark.
+
+
+        Northwest Over we go on ancient trails through the old \"water park\" and comes to traditional Langesund. In and around Langesund rod is set up lots benches for picnics and to new views. These are from early last century but is still in good condition.
+
+
+        The progress in 2014 a larger volunteer work for bringing benches to light after prolonged overgrowth. See separate link below with detailed information. Vest for Langesund Bad has Bamble turlag built several bridges to get across a creek and through rough terrain.
+
+
+        The stunning great Krogshavn has large grassy for ball games and other activities. Here is the superb swimming on the rocks or on the sand beach. There are landscaped barbecue area with tables and benches for picnicking. This is Bamble millennium and one finds the anchor for Full City, which ran aground off the coast in summer 2009.
+
+
+        Both the Langesund Bad and Krogshavn there are information boards on the coastal path. Further west the path leads past Kjerrvik with many cottages and superb views over the sea.
+
+
+        We go north on hills overlooking the fjord and going to the shallow Sandvika. Maybe it can tempt you with a break at the old crofts and cottages by the sea.
+
+
+        The path takes a detour to Jypleviktangen, a promontory jutting out into the ocean and is a popular recreational area, especially in spring. Leather Vika just west has excellent opportunities for picnicking and is sheltered except when the wind comes straight from the south.
+
+
+        After walking in a hilly terrain, we will Rognsåsen, with unique views of the archipelago. Here we are at the very edge of the geologically interesting Oslo Field. From Rognsåsen trail goes quite steeply down to Rognstranda. Here is the campsite and lovely sandy beach.
+
+
+        Geology Park Gea Norvegica Geopark has informative displays here. They show the unique geological history of the place. It is a great landscaped barbecue area here. On Rognstranda ends this part of the trail, but for those who want a longer walk, simply follow the bruises on.
+
+
+        Much of the trail passes through nature reserves, so it is important to follow the rules applicable to such areas (see the information boards). Since the entire area is located on calcareous ground, it has a very rich flora.
+
+
+        Several places along the trail there are information boards on the area's flora and fauna. If you do not want to go the whole distance, the following trips be worth trying.
+
+
+        1) Start in Langesund and follow the path to Krogshavn. Follow Roads (with sidewalks) the short piece back to Langesund.
+
+
+        2) Start the Krogshavn and follow the path to Sandvika. Follow tractor road (along the coastal path option) north from Sandvika. Turn right again traktrovei after about 350m. Follow this approximately 500m and go straight north for housing development. Follow the road towards Langesund (with sidewalks) back to Krogshavn. Alternatively, go to Krogshavnt hrough residential areas, or cross the main road and go on nice trails through the woods south.
+
+
+        3) Start at the parking lot for Jypleviktangen. Follow the path south to the coastal path to Jypleviktangen and on to Rognsåsen. Approximately 300 m north of the viewpoint path leads right back to the parking lot."
+        image: "https://s3-eu-west-1.amazonaws.com/jotunheimr/prod/UO/WZ/cw-800.jpg"
+        location:
+          latitude: 59.000278
+          longitude: 9.748889
+        icon: "golf"
+      -
+        title: "Hiking Mount Venelifjellet in Vrådal"
+        link: "http://www.visittelemark.com/things-to-do/venelifjell-hiking-area-in-vradal-p546153"
+        description: "This is a great, family-friendly summit trip! Mount Venelifjellet – literally “the beautiful mountain” – carries its name well and is a popular hiking destination in Vrådal and Telemark.
+
+        This is a great, family-friendly summit trip! Mount Venelifjellet – literally “the beautiful mountain” – carries its name well and is a popular hiking destination in Vrådal and Telemark.
+
+        Start the trip at the car park in Bendiksmyr. The footpath follows footbridges across the marshes and then on to rocky ground until you reach Lake Venelitjørni. There you can stop for a rest in the gapahuk, try your luck at fishing in the lake or go for a refreshing swim. It is a great place for children to wait if they do not want to walk all the way to the summit.
+
+        From Lake Venelitjørni follow the trail to the top of the mountain, 904 m above sea level. On a clear day you can see all the way to the ocean and Kragerø, the Hardangervidda mountains and Mount Gaustatoppen.
+
+        Facts: Mount Venelifjellet, 905 m above sea level Roundtrip: 4,1 km, 3 hrs Total ascent: 305m Grading: medium walk Ordinary walking footwear. Hikingtrip/summit trip to Mount Venelifjellet with accommodation at Quality Straand Hotel. From NOK 980 per person/night , double occupancy
+
+        Included in this package is: breakfast, selfmade lunch packet, hikingmap, waterbottle and seat pad.
+
+        We recommend this family-friendly summit trip 904 m above sea level through relatively easy terrain and with magnificent views! The footpath follows footbridges across the marshes and then on to rocky ground until you reach Lake Venelitjørni. Here you can have a picnic in the gapahuk, take a bath or try your luck at fishing. From Lake Venelitjørni follow the trail to the top of the mountain. On a clear day
+
+        you can see all the way to the ocean and Kragerø, the Hardangervidda mountains and Mount Gaustatoppen.
+
+        http://www.straand.no/en/straand/straand_hotell/ Alternative routes: You may extend the trip by choosing alternative routes from the summit. The alternative routes both starts at the parkingarea at Bendiksmyr. All trails are clearly signposted and marked with red Ts.
+
+        Mount Venelifjellet roundtrip 7,2 km  - 5 hrs Total ascent:  406m. Grading: challenging
+
+        The path from the summit follows a ridge in an easterly direction. In humid weather, the path can be slippery so mountain hiking boots are recommended. Wet parties have footbridges. Great view of Grytedalen Nature Reserve. Here you may see the golden eagle chasing after its prey. Some large glacial moveblocks provide spectacular photographic background.   Veneli round trip 6,9 km - 4 hrs Total ascent: 321m Grading: medium. Some moist stretches.
+
+        The trail passes through a variety of mountain forest types. This is moose territory! On the northern side of Mount Veneli you follow an old packhorse and bridle path through virgin forests, now a protected spruce forest. The trail passes two summer mountain outfarms where the more than 100-year old log cabins still can be seen. Outfarm Veneli is open for visits. Between Tjørnstøyl and Venelistøyl lies “The Large Rock”, left after the last ice age. It is 10 m high and weighs over 1,000 tons."
+        image: "http://www.visittelemark.com/imageresizer/?image=%2fdmsimgs%2f5D464CD7DAD846B3669895C62543D61228CE61F1.jpg&action=ProductDetail"
+        location:
+          latitude: 59.307778
+          longitude: 8.556389
+        icon: "golf"
+      -
+        title: "Lårdalstigen"
+        link: "http://www.visittelemark.com/dalen/things-to-do/lardalstigen-p531293?utm_source=visitnorway&utm_campaign=Hiking&utm_medium=web&utm_term=Content&utm_content=UK"
+        description: "Lårdalstigen is a challenging, but fantastic walk with speactacular views from the edge of the mountain ridge above the Telemark Canal.
+
+
+        Along the hike, you will pass through old cultural landscape and historic sites. You can stop and admire the rugged silhouettes of Risen and Gygri, and read about the legend associated with these rock formations. Perhaps you will also spot ospreys?
+
+
+        Most people choose to start the walk at the top of Eidsborgberget, above Dalen, and walk to Lårdal, but it is also possible to start the hike in Lårdal and walk the opposite direction. From mid-May to mid-September you can enjoy the one way from the deck on one of the ferry boats M/S Victoria or M/S Henrik Ibsen on the Telemark Canal. Remember to book the ferry in advance if you want it to stop in Lårdal. 
+
+
+        The total length of the hike 14 km and a long days walk, or you can bring your tent and make it a 2 day hike. There is also a small cabin along the way, Heddebu, which is open to hikers.
+
+
+        The beautiful village of Lårdal has idyllic squares and a pleasant lakeside area with the old quay for the ferries on the Telemark Canal. There are also accomocation and eating place in Lårdal. 
+
+
+        Key facts
+
+        Day trip, 14 km one way
+
+        Time: 6-8 hours
+
+        Challenging
+
+        Accessible: May-October
+
+        Map: Hiking map Tokke 1 : 50 000  
+
+        Remember to wear sneakers with good soles or hiking boots, and to bring plenty of water (at least 2-3 litres on warm days).
+
+        For booking of the ferry boats, please call them directly, depending on their schedule: 
+
+        M/S Victoria: +47 951 14 395
+
+        M/S Henrik Ibsen: +47 948 89 906"
+        image: "http://www.visittelemark.com/imageresizer/?image=%2fdmsimgs%2fIMG_1793_2051543762.JPG&action=ProductDetail"
+        location:
+          latitude: 59.450550
+          longitude: 8.026184
+        icon: "golf"
+      -
+        title: "Telemarkskanalen"
+        link: "http://www.visittelemark.com/dalen/things-to-do/telemarkskanalen-p1355633"
+        description: "The Telemark Canal was completed in 1892 and has 18 locks, lifting the travlers from 0 to 72 meters above sea level on the 105 km long stretch between Skien and Dalen. 
+
+        \"MS Victoria\" and \"MS Henrik Ibsen\" sail between Dalen and Skien from May to September.
+        The Telemark Canal was carved into the rock over 100 years ago. When the canal was completed in 1892, it was called the \"eighth wonder\".
+
+        The canal connects the coast of Telemark with the interior through eight locks at a distance of 105 km from Skien to Dalen. It consists of two waterways; Skien- Dalen and Skien-Notodden. Therefore, it is now possible to experience the Telemark Canal by ferry, charter boats, your own boat, canoes and kayaks.
+
+        In addition, you can also experience the canal by car, bicycle or on foot.
+
+
+        [Locations Wikipedia](https://en.wikipedia.org/wiki/Telemark_Canal)"
+        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Telemarkskanalen.jpg/800px-Telemarkskanalen.jpg"
+        location:
+          latitude: 59.283333 
+          longitude: 9.266667
+        icon: water
+      -
+        title: "The whetstone walk"
+        link: "http://www.visittelemark.com/dalen/things-to-do/the-whetstone-walk-p1344793"
+        description: "This trail takes you up to the Brunåslid quarry. This was the largest of many quarries in the Eidsborg-Lårdal area. The quarry was likely opened in the early 1700’s and operated until about 1950. One can see the large heaps of waste stone (Norw. “Uslehaugene”) that remained from the whetstone production. At the upper heap one can see the foundation of one of the workmen’s sheds.
+
+
+        The whetstone (sharpening stone) has a long history, and one assumes that they were in production in the mountains here from at least around 700 AD. Sharpening stones were also characteristic trade goods that even the vikings brought with them on their voyages. Whetstone from Eidsborg has been found all over Europe.
+
+
+        A moderately demanding trek in hilly country which in large part follows old roads. The distance is no more than 4 kilometres, but one should plan on spending 2 hours due to the terrain. After the first rise there is a viewpoint with benches. There are also benches at the top by the quarry. Throughout the tour there are information signs. From the quarry you may take the main road back down to the museum.
+
+
+        The tour begins at West-Telemark Museum, Eidsborg. Signs clearly indicate the way to the museum from Høydalsmo and Dalen. Parking is at the museum and Eidsborg stave church. The trek begins at the Juvestoga house in the museum area. The whole trek is marked with signs. At the beginning of the tour there are signs with useful information about it.
+
+
+        On route E134 you drive towards Høydalsmo and then follow route Fv 45 and the signs for West-Telemark Museum, Eidsborg, and Eidsborg stave church. From Dalen you also follow route Fv45 towards Høydalsmo. Look for signs leading to West-Telemark Museum and Eidsborg stave church."
+        image: "http://www.visittelemark.com/imageresizer/?image=%2fdmsimgs%2f693374E4516D9D178D69BC5285D44731A5ADCB5E.jpg&action=ProductDetail"
+        location:
+          latitude: 59.46601
+          longitude:  8.017320
+        icon: "golf"
+      -
+        title: "Bufjordstigen in Dalen"
+        link: "http://www.visittelemark.com/dalen/things-to-do/bufjordstigen-in-dalen-p539733"
+        description: "An easy hike with culture, history and great fishing spots.
+
+        The walk starts at Dalen Bryggje, also known as Lastein.
+        This is where the renowned Eidsborg whetstone, Norway’s
+        oldest export, was shipped from. You will then pass a lovely
+        beach before crossing the Eidsborgbekken stream.
+
+        The trail then takes you past Tangane, a popular recreation
+        ground with an idyllic pine forest. You can get a good view of
+        Dalen Hotel from the gardens. Cross River Tokkeåi using the
+        stepping stones.
+
+        At Buøy, follow the nature trail through the fascinating “jungle”,
+        occasionally converging with the river with its great fishing
+        spots and extensive beaver population.
+
+        The tour then takes you back through the centre of Dalen and
+        its intimate shopping street, flower market, shops, cafés and
+        the Tokke town hall with its sculptures by Anne Grimdalen and
+        Charles Michalsen and assembly room clad in whetstone."
+        image: "http://www.visittelemark.com/imageresizer/?image=%2fdmsimgs%2f8E39AADFE6B469483829FA032290911BA56F0CA0.jpg&action=ProductDetail"
+        location:
+          latitude: 59.445289
+          longitude: 8.022337
+        icon: "golf"
+      -
+        title: "Daytrip to Gloppefoss WAterfall in Valle"
+        link: "https://www.visitnorway.com/listings/daytrip-to-gloppefoss-waterfall-in-valle/3827/"
+        description: "Gloppefoss is one of the highest waterfalls in the Setesdal Valley, with a great flow of water through the whole summer season.
+
+
+        Make sure not to miss this gorgeous scenery. Gloppefoss is one of the highest waterfalls in the Setesdal Valley, with a great flow of water through the whole summer season, even in periods with little rain. A marked path runs from highway 9 through the Veiåjuvet canyon to Gloppefoss. The scenery is impressive, with high mountains on both sides. The river Veiåne follows the bottom of the valley. The hike to Gloppefoss takes about 2 hours. Hikers will have to cross the river several times. Crossing is normally no problem as the river is not very deep. However, the flow of water will increase after long periods of rain, and under such conditions hikers are advised to consider whether crossing will be safe. Under normal weather conditions, the hike to Gloppefoss is a great experience, also for families with children. 
+        Parking by highway 9. The first part of the hike is on a gravel road, and then on a tractor road. The road follows the river in the Veiåjuvet canyon, through magnificent scenery. There are no cabins or homes in the area. No map is required as the road is easy to find and follows the valley and the river. 
+
+
+        Facts:
+        The trail starts approx. 9 km north of the centre of Valle, just past Lunden Camping. Duration: approx. 2 hours each way. Recommended for families. Please note that during and after periods of heavy rain, the flow of water in the river should be carefully considered before crossing. Parking: by the gate off highway 9. Litter: you are kindly requested not to litter the environment. Campfires are strictly forbidden. You are recommended to bring a packed lunch."
+        image: "https://res-1.cloudinary.com/simpleview/image/fetch/c_fill,f_jpg,h_605,q_65,w_1200/https://media.newmindmedia.com/TellUs/image/%3Ffile%3D9C06659BE0AF271DCA385F15D54BEF097CD42C34.jpg%26dh%3D532%26dw%3D800%26cropX%3D139%26cropY%3D0%26cropH%3D1447%26cropW%3D2175"
+        location:
+          latitude: 59.270000
+          longitude: 7.470556
+        icon: "golf"
+      -
+        title: "Ørnesvingen"
+        link: "https://www.visitnorway.com/listings/Ørnevegen-%26%238211%3B-Ørnesvingen/5903/"
+        description: "Ørnevegen –Eagle Road – is the name given to the steepest stretch of road up the mountain side from Geiranger towards Eidsdal on road no. 63.
+
+
+        The road swings through 11 hairpin bends up from the Geirangerfjord and to the highest point on the stretch, 620 metres above sea level at Korsmyra. 
+        The road was officially opened on 15th September 1955 and gave the village of Geiranger year-round road access.
+
+        The road was an attraction from the very first day, and was called Eagle Road because at its highest point it passed through terrain that had traditionally been the domain of a large number of eagles.
+
+
+        The name also reflects the wildness, the spectacular that tourists and others using the road will experience, especially if they stop at Ørnesvingen, the highest of the hairpins. Facilities have been provided here for visitors to take in the magnificent panorama over Geiranger, the Geirangerfjord, the Seven Sisters Falls and the alpine farm Knivsflå, or to gaze down on the many cruise ships that traffic the fjord far below.
+
+
+        The viewpoint has been recently upgraded, and was officially opened on 21st June 2006 with a simple ceremony as part of the project “Nasjonal Turistveg” (National Tourist Roads) under the auspices of Statens Vegvesen, - The Norwegian Public Roads Administration.
+
+
+        Ørnevegen has a one in ten incline at its steepest, and can test both drivers and vehicles that traffic the road in the winter months. Private and commercial vehicle branch interests use the road as a test bed to improve the road-holding capabilities of vehicles in winter conditions. The longest vehicle length permitted is 15 metres."
+        image: "http://www.nasjonaleturistveger.no/no/turistvegene/_image/708700.jpeg?_encoded=2f66666666666678302f30382f3b2930303231286874646977656c616373&_ts=1493cc36618"
+        location:
+          latitude: 62.126084
+          longitude: 7.167608
+        icon: car
+      -
+        title: "Dovrefjell-Sunndalsfjella National Park"
+        link: "http://www.fjordnorway.com/things-to-do/dovrefjell-sunndalsfjella-national-park-p1307923"
+        description: "ovre-Sunndalsfjella National Park is a Norwegian national park located in a high mountain area of ​​Dovre and Sunndalsfjella, where Sør-Trøndelag, Møre og Romsdal and Oppland counties meet. The park was created in 2002 to preserve an intact alpine ecosystem, and it covers an area of ​​1.693 km ².
+
+
+        The park will preserve an intact alpine ecosystem. It is a core area for caribou, and this was one of the main reasons for the creation and demarcation of the protected areas in Dovre. Key parts of the park has a population of musk ox, introduced in the interwar period, this was not part of the rationale for protection, but is nonetheless what most people associate with Dovre, together with Snøhetta (2286 meters above sea level). The area has a permanent population of wolverines, one thriving population died out around 1990, but is now (2012) under reintroduction, initially with success. One has permanent population of large birds of prey such as golden eagles and falcon.
+
+
+        Dovre (especially Knutshøene) and Sunndalsfjella is known for a rich flora with many endemic alpine plants. Equally rich plant localities, however, in some conservation areas. The park's vegetation also contains some distinctive plants that are likely survived the Ice Age on narrow ledges: Norwegian wormwood and various varieties of mountain poppy."
+        image: "https://d366vr5ky6gbfg.cloudfront.net/imageresizer/?image=%2fdmsimgs%2f08D114270970C2813B151774841E72FC373D5DD6.jpg&action=ProductDetail"
+        location:
+          latitude: 62.374013
+          longitude: 9.075697
+        icon: "park"
+      -
+        title: "Lillehammer Olympic Sliding Centre"
+        link: "http://www.olympiaparken.no/en/anleggene/lillehammer-olympic-sliding-centre"
+        description: "Lillehammer Olympic Sliding Centre is located at Hunderfossen, 15km north of the centre of Lillehammer and only 500 meters from Hunderfossen Family Park. The facility was completed and certified by the internation sporting organization FIL and FIBT in 1992.
+ 
+
+        The track is the only artificially frozen bobsleigh- and luge track in Scandinavia which in addition to national and international sport exercise, offers a range of different activities both winter and summer. The facility covers a large area that can be used for special events, competitions and ceremonies for groups.
+        
+
+        Welcome to a speed-filled adventure!"
+        image: "http://www.olympiaparken.no/images/stories/Olympiaparken-bob-bildecollage-m-tekst.jpg"
+        location:
+          latitude: 61.220744
+          longitude: 10.419215
+        icon: "skiing"
+      -
+        title: "Holmenkollen Ski Museum Skimuseet"
+        link: "http://www.skiforeningen.no/en/holmenkollen/skimuseet/"
+        description: "The Ski Museum is shot into the mountain below the ski jump. The museum opened in 1923 and is the world's oldest museum specialized in skiing. Here you can experience 4000 years of exciting ski history through various exhibitions."
+        image: "http://seasonandsalt.com/wp-content/uploads/2014/01/IMG_2173.jpg"
+        location:
+          latitude: 59.964010
+          longitude: 10.667741
+        icon: "skiing"
+      -
+        title: "Kon-Tiki Museum"
+        link: "http://www.kon-tiki.no"
+        description: "The Kon-Tiki Museum (Norwegian: Kon-Tiki Museet) is a museum in the Bygdøy peninsula in Oslo, Norway. It houses vessels and maps from the Kon-Tiki expedition, as well as a library with about 8000 books. It was opened in a provisional building in 1949. In 1957, the current building—designed by architects F. S. Platou and Otto Torgersen—was opened. In 1978, an extension of the museum designed by Torgersen was opened.
+
+
+        The museum was originally built to house the Kon-Tiki, a raft of balsa wood of pre-Columbian model that Norwegian adventurer Thor Heyerdahl used to sail from Peru to Polynesia in 1947. Another boat in the museum is the Ra II, a vessel built of reeds according to Heyerdahl's perception of an ancient Egyptian seagoing boat. Heyerdahl sailed the Ra II from North Africa to the Caribbean after a previous attempt with the reed boat Ra failed.
+
+
+        The Kon-Tiki Museum is situated near several other museums, including the Fram Museum; the Norwegian Museum of Cultural History; the Viking Ship Museum; and the Norwegian Maritime Museum."
+        image: "https://upload.wikimedia.org/wikipedia/commons/5/57/The_Kon-Tiki_Museum%2C_Oslo%2C_cropped.jpg"
+        location:
+          latitude: 59.903486
+          longitude: 10.697964
+        icon: "museum"
+      -
+        title: "Maihaugen at Lillehammer"
+        link: "https://www.visitnorway.com/listings/maihaugen-museum/5314/"
+        description: "Maihaugen at Lillehammer is one of the largest open air museums in Norway. Here you find Norwegian homes from various periods, exhibitions, wandring theatre, a fine museum shop, café and varied programmes.
+
+
+        Maihaugen is the ideal day out for both young and old. Maihaugen is one of the largest open air museums in Norway with 200 buildings from the 1200s and up to today.
+
+
+        *Living Maihaugen*
+        In the summer season the museum offers activities, recreation and adventures for the whole family. Join us on a nostalgic journey back to the 20th century. Revisit your childhood memories and share them with your family! Do you remember the 80s?
+
+
+        Relax, enjoy the surroundings and let yourself be transported a hundred years back in time. Dress up, help with the work and join in the fun. Skilled craftsmen offer advice on maintenance and restoration. Proficient guides are available and happy to share their knowledge. Several times a day during summer-season you can experience wandering theatre. That is an exciting and instructive way to convey past history, and contributes to making the past exiting and alive.  
+
+
+        *Exciting exhibitions*
+        All year you can enjoy several excellent exhibitions, like the indoor exhibition “We won the land” where you walk through tableaus from Norwegian history from the ice age till today.
+
+
+        In the main building you also find a nice museum shop and café.
+
+
+        *Beautiful museumpark – all year around*
+        The idyllic Open Air Museum with 200 buildings is open for hikers all year. Take the trip and enjoy the fact that whatever the season, Maihaugen is always beautiful.
+
+        
+
+        *Popular happenings*
+        The Christmas market is on the first weekend of advent, with Christmas decorated historic homes, stalls selling quality products and lots of activities for children.
+
+
+        There is also a Children's Winter Day in February and a Children's Summer Day in the end of August, both with lots of activities for children of all ages. At June 23rd Maihaugen offers traditional Norwegian Midsummer celebration."
+        image: "https://res-5.cloudinary.com/simpleview/image/fetch/c_fill,f_jpg,h_605,q_65,w_1200/https://media.newmindmedia.com/TellUs/image/%3Ffile%3DC0EC73395F3BB862CAF10417D3A9335DBBD51BAE.jpg%26dh%3D799%26dw%3D1200%26cropX%3D0%26cropY%3D0%26cropH%3D2588%26cropW%3D3888"
+        location:
+          latitude: 61.113056
+          longitude: 10.477778
+        icon: "museum"
+      -
+        title: "Hiking Mount Skåla"
+        link: "https://www.visitnorway.com/listings/skåla/6847/"
+        description: "The mountain with its foot in the sea
+
+
+        Mount Skåla is an imposingly beautiful giant of a mountain that towers 1,848 metres over the village of Loen in Nordfjord.
+
+
+        In Nordfjord, the northern part of Fjord Norway, hikers are spoilt for choice – the area features more than 230 marked hiking trails in varied terrain, all over the region.
+
+
+        The most famous hike in the area is the one to the top of Mount Skåla, a mountain in the Jostedalsbreen National Park with grand views of the surrounding glaciers, fjords and mountains. At the top, you will find one of Norway’s most original hiking cabins, called Kloumannstårnet or Skålatårnet.
+
+
+        Built in 1891, this round tower is definitely a tourist attraction in its own right. Spend the night there or just make yourself a well-deserved cup of coffee.
+
+
+        The hike to the top of Mount Skåla takes six to eight hours and requires a good level of fitness."
+        image: "http://en.nordfjord.no/imageresizer/?image=%2fdbimgs%2fskaala-kant-sverre-hjornevik7-gallery.jpg&action=Background_Overlay"
+        location:
+          latitude: 61.866944
+          longitude: 6.881389
+        icon: golf
+      -
+        title: "Rysstad Turpark (Nature Park)"
+        link: "https://www.visitnorway.com/listings/the-rysstad-nature-park/3824/"
+        description: "Take a walk in Rysstad Turpark, nature park, just south of the centre of Rysstad. The park is signposted from Highway 9. From the car park, a path leads up the \"Bakalian\" hillside, past an old mill. Many places you will find benches where you can take a rest on your way up. At the top there is a delightful view of Rysstad. The path continues northwards, and you`ll come to a forest road with signposts indicating the way back to the car park.
+
+
+        Feeling warm after the walk? Take a dip in the river below the waterfall.
+        Completing the walk will take you about two hours. The trip will be suitable for nearly everybody, even though parts of it is a bit steep."
+        image: "https://res-3.cloudinary.com/simpleview/image/fetch/c_limit,f_jpg,q_64,w_1200/https://media.newmindmedia.com/TellUs/image/%3Ffile%3DD452E587D9A312735983E5D58CCBDCCDA6567E8B.jpg%26dh%3D533%26dw%3D800%26cropX%3D0%26cropY%3D0%26cropH%3D999%26cropW%3D1500&.jpg"
+        location:
+          latitude: 59.093333
+          longitude: 7.535833
+        icon: golf
+      -
+        title: "Hartevassnuten"
+        link: "http://www.hovden.com/nl/TellusView/?&TLl=nl&TLp=472260"
+        description: "A taste of the high mountains - also accessible for children. With central Hovden as a starting point, the summit is reached within one hour.
+
+
+        From central Hovden there are marked hiking trails to four summits. The 1068-metre Hartevassnuten is one of those. From here, there are magnificent views of Hovden and the surrounding mountains. This is a great family hike, suitable for children aged 5 and upwards.
+
+
+        There are some steep sections and rock-covered slopes along the path, which takes you from birch forest to above the tree line. In some places it gets slippery during rain, so we recommend solid footwear.
+
+
+        How do we get to the starting point?
+        The hike begins in the centre of Hovden, where you may park your car. This is where the Tourist Information is located. Take national route no. 9 up the hill, before turning right. This is where the marked trail starts, and it is easy to find.
+        The first part of the trail goes though a cabin area. To reach the summit, you have to negotiate some steep sections. On your way, you get to see Hovden from above. From the summit, there are magnificent views of Hovden and the surrounding mountains.
+        You may choose to return the same way, or continue on the path, making it a round trip. Follow the blue markings and the descent will take you through some rock-covered slopes and bogs further down, before it encounters the road in the cabin area. 
+        This 6.5-kilometre hike takes approximately 2 ½ hours."
+        image: "https://res-3.cloudinary.com/simpleview/image/fetch/c_fill,f_jpg,h_605,q_65,w_1200/https://media.newmindmedia.com/TellUs/image/%3Ffile%3D449ABE06EF2DC7D0C17840FDFCB8038268F459C2.jpg%26dh%3D532%26dw%3D800%26cropX%3D0%26cropY%3D137%26cropH%3D1065%26cropW%3D1600"
+        location:
+          latitude: 59.560000
+          longitude: 7.355833
+        icon: golf
+      -
+        title: "Nos"
+        link: "http://www.hovden.com/nl/TellusView/?&TLl=nl&TLp=564090"
+        description: "Nos - 1209 m
+
+
+        Dit is de hoogste berg van de toppentochten, met beginpunt in het centrum. Volg het als \"lysløype\" met de gemarkeerde pad langs de Otra rivier naar het Høyfjellshotellet, en daarna via het voetpad richting het skicentrum, en verder via de gruisweg langs de Lundebuteigen naar de boomgrens. Daarna volgt u het pad naar de Falkaskar en naar de top. Deze tocht duurt ca.2 uur, met  een goed uur terug. Eventueel is het mogelijk om de kabelbaan naar de top va de Nos te nemen, en vandaar is het nog een kilometer naar de top. De terugtocht kan ook via de pistes van het Skicentrum gelopen worden."
+        image: "https://media.newmindmedia.com/TellUs/image/?file=C18F30CCE67487B147F7A635F9211A05B1A4EE95.jpg&dh=532&dw=800&cropX=0&cropY=0&cropH=680&cropW=1022"
+        location:
+          latitude: 59.569000
+          longitude: 7.365833
+        icon: golf
+      -
+        title: "Søre Hartevassnuten"
+        link: "http://www.hovden.com/en/TellusView/?&TLl=en&TLp=910811"
+        description: "Søre Hartevassnuten      1155 m.a.s.l.         
+
+
+        Along the lake Hartevatn is the mountain range Hartevassnutane, consisting of several distinct summits. Søre Hartevassnuten is the tallest one, at 1155 m.a.s.l. This is a demanding hike with continuous ascent all the way to the top, and going back on the other side of the mountain, you have to traverse a large scree slope.
+
+
+        Children and dogs may need assistance when crossing this section. Moreover, there is an almost vertical wall to the east, and if you are in the company of children, it is vital that you keep an extra eye on them.
+        On the first kilometre you follow the stream upwards through the birch forest, but the terrain gradually becomes more open, finally giving way to bare mountains. From the top there is a splendid view of the surrounding mountains. This is marked as a round trip on the top before you return on the same trail through the birch forest. The trip may also be combined with the summit Nordre Hartevassnuten, returning via the Hartevassnuten cabin area.
+
+
+        Starting point: Hegni recreation area, 1 km south of Hovden.
+
+
+        Length 6,1 km  Round trip 
+        Difficulty Demanding, ascent all the way. Large scree and steep slopes"
+        image: "https://media.newmindmedia.com/TellUs/image/?file=2CA151BE415E78C064AB798C83DD66F820C226E5.jpg&dh=532&dw=800&cropX=0&cropY=167&cropH=2172&cropW=3264"
+        location:
+          latitude: 59.56000
+          longitude: 7.365833
+        icon:
+      -
+        title: "Børtemannsbekken"
+        link: "http://www.hovden.com/nl/TellusView/?&TLl=nl&TLp=825506"
+        description: "Dit is een rondreis dat aan beide zijdens van de rivier loopt voor ongeveer 3 kilometer. Het neemt je boven de boomgrens en biedt een mooi uitzicht op het beschermd natuurgebied van Hovden waar de rivier grenst in het noorden. 
+
+        De beklimming is matig, zonder steile stukken, maar als het water hoog staat, kan je terug lopen op dezelfde manier. 
+        De noordelijke route (naar links) heeft vele gladde, schuine rotsen en kunnen glad zijn als het geregend heeft. De zuidelijke route (rechts) volgt een smal pad dat naar de DNT hut Tjørnbrotsbu leidt. 
+        Deze wandeling is geschikt voor gezinnen, maar kinderen zullen hulp nodig hebben bij het oversteken van de rivier."
+        image: "https://media.newmindmedia.com/TellUs/image/?file=78752941323FDF395E1592119781221B9C6D21D6.jpg&dh=532&dw=800"
+        location:
+          latitude: 59.569000
+          longitude: 7.345833
+        icon: golf
+      -
+        title: "Vardefjellet"
+        link: "https://www.visitnorway.com/listings/vardefjellet-819-moh/10292/"
+        description: "Vardefjellet (819 m.a.s.l.) is one of four summits surrounding Brokke, offering spectacular views.
+
+
+        The hike starts at Brokkestøylen, along the flood-lit trail to bridge number 2. Turn left and walk along the upper part of the flood-lit trail. Follow the blue marks to the direction sign, continue along the marked trail to the summit, where you find a stone cairn. You may walk back the same way or follow the sign and the marked path along the \"ridge\" to the field. Continue down the road Heibergveien, via the Sitåsen cabin area and back to Brokkestøylen.
+
+
+        At the summit there is a box with a guest book. Feel free to add your name and a greeting!
+
+
+        We also recommend the hike to the summits Løefjell, Uvedalsfjell and to Kvisletoppen via Brokke Alpinsenter."
+        location:
+          latitude: 59.088333
+          longitude: 7.409722
+        icon: golf
+      #-
+      #  title: "Aurlandsdalen Valley"
+      #  link: ""
+      #  description: ""
+      #  image: ""
+      #  location:
+      #    latitude:
+      #    longitude:
+      #  icon:
+  -
+    title: "Overnachting"
+    colour: "#0f0"
+    items:
+      -
+        title: "Hotel Garden"
+        link: "https://ligula.se/profilhotels/hotel-garden/"
+        description: "Hotel 1"
+        image: "https://ligula.se/wp-content/uploads/2016/05/GM_Garden_Fasad_NY_b_400x400-1.jpg"
+        location:
+          latitude: 55.604526
+          longitude: 13.003929
+        icon: lodging
+      -
+        title: "Voksenåsen"
+        link: "http://www.voksenaasen.no"
+        description: "Hotel 2"
+        image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Utiskt_fra_taken.jpg"
+        location:
+          latitude: 59.975028
+          longitude: 10.664876
+        icon: lodging
+      -
+        title: "Eikesdal"
+        link: "http://www.eikesdalferiehus.com"
+        description: ""
+        location:
+          latitude: 62.475829
+          longitude: 8.175020
+        icon: lodging
+# mountain: triangle-stroked
+#town-hall
+#industrial
+#restaurant
+#monument
+#museum
+#playground
+#park
+#      -
+#        title: ""
+#        link: ""
+#        description: ""
+#        image: ""
+#        location:
+#          latitude:
+#          longitude:
+#        icon:

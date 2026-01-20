@@ -1,0 +1,21 @@
+{
+  "name": "Olivier Pieters Website",
+  "description": "Personal website.",
+  "main": "",
+  "authors": [
+    "Olivier Pieters <me@olivierpieters.be>"
+  ],
+  "license": "Private.",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fira": "^0.1.0"
+  }
+}

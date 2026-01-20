@@ -1,0 +1,17 @@
+language: Python
+resources:
+  -
+    name: microlight
+    url: microlight
+    description: code highlighter
+    advantages:
+      - highlights code in every language
+      - very small
+    disadvantages:
+      - no colouring
+      - might produce unexpected results on incommon languages
+  -
+    name: Imager.js
+  -
+    name: Coach
+    description: The coach helps you find performance problems on your web page.

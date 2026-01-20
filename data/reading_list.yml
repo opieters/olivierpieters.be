@@ -1,0 +1,311 @@
+- year: 2025
+  books:
+    - 
+      title: Ik zeg geen vaarwel (We Do Not Part)
+      author: Han Kang
+    - 
+      title: Two Boys Kissing
+      author: David Levithan
+    - 
+      title: The Feeling of Falling in Love
+      Auteur: Mason Deaver
+- year: 2024
+  books:
+    - 
+      title: Atomic Habits
+      author: James Clear
+    - 
+      title: The Velvet Rage
+      author: Alan Downs
+    - 
+      title: Circe
+      author: Madeline Miller
+    - 
+      title: The Three Body Problem
+      author: Cixin Liu
+    - 
+      title: Het Smelt
+      author: Lize Spit
+    -
+      title: Normal People
+      author: Sally Rooney
+- year: 2023
+  books:
+    -
+      title: The Man Who Spoke Snakish
+      author: Andrus Kivirähk
+    - 
+      title: The Power of Strangers
+      author: Joe Keohane
+    -
+      title: Wool
+      author: Hugo Howey
+    -
+      title: Shift
+      author: Hugo Howey
+    -
+      title: Dust
+      author: Hugo Howey
+    -
+      title: Arrête avec tes mensonges (Lie With Me)
+      author: Philippe Besson
+    -
+      title: Swimming in the Dark
+      author: Tomasz Jędrowski
+    -
+      title: Project Hail Mary
+      author: Andy Weir
+    - 
+      title: Salt, Fat, Acid, Heat
+      author: Samin Nosrat
+- year: 2022
+  books:
+    -
+      title: Het seizoen van stormen
+      author: Andrzej Sapkowski
+    -
+      title: De laatste wens en Het zwaard der voorzienigheid
+      author: Andrzej Sapkowski
+    -
+      title: De vrouwe van het meer
+      author: Andrzej Sapkowski
+    -
+      title: De zwaluwentoren
+      author: Andrzej Sapkowski
+    -
+      title: De voordoop
+      author: Andrzej Sapkowski
+    -
+      title: Het bloed van de Elfen
+      author: Andrzej Sapkowski
+    -
+      title: De jaren van verachting
+      author: Andrzej Sapkowski
+- year: 2021
+  books:
+    -
+      title: Forward the Foundation
+      author: Isaac Asimov
+    -
+      title: Prelude to Foundation
+      author: Isaac Asimov
+    -
+      title: Locke & Key
+      author: Joe Hill & Gabriel Rodríguez
+    -
+      title: Foundation and Earth
+      author: Isaac Asimov
+    -
+      title: Foundation's Edge
+      author: Isaac Asimov
+    -
+      title: Briljant groen
+      author: Stefano Mancuso
+    -
+      title: De universele rechten van de plant
+      author: Stefano Mancuso
+    -
+      title: Second Foundation
+      author: Isaac Asimov
+    -
+      title: Foundation and Empire
+      author: Isaac Asimov
+    -
+      title: Foundation
+      author: Isaac Asimov
+    -
+      title: The Name of the Wind
+      author: Patrick Rothfuss
+    -
+      title: The Balad of Songbirds and Snakes
+      author: Suzanne Collins
+    - 
+      title: Children of Dune
+      author: Frank Herbert
+- year: 2020
+  books:
+    -
+      title: Dune
+      author: Frank Herbert
+    - 
+      title: The Handmaid's Tale
+      author: Margaret Atwood
+    - 
+      title: The Testaments
+      author: Margaret Atwood
+    -
+      title: Mannen die vrouwen haten
+      author: Stieg Larsson
+    -
+      title: De vrouw die met vuur speelde
+      author: Stieg Larsson
+    -
+      title: Gerechtigheid
+      author: Stieg Larsson
+    -
+      title: Dune Messiah
+      author: Frank Herbert
+    -
+      title: La Belle Sauvage
+      author: Philip Pullman
+    -
+      title: The Secret Commonwealth
+      author: Philip Pullman
+    -
+      title: "Blacksad: Volume 1 - Somewhere Within the Shadows"
+      author: Juan Díaz Canales & Juanjo Guarnido
+    -
+      title: Oathbringer
+      author: Brandon Sanderson
+      unfinished: true
+    -
+      title: Why We Sleep
+      author: Matthew Walker
+      unfinished: true
+-
+  year: 2019
+  books:
+    -
+      title: A Game of Thrones
+      author: George R. R. Martin
+    -
+      title: Northern Lights
+      author: Philip Pullman
+    -
+      title: The Subtle Knife
+      author: Philip Pullman
+    -
+      title: The Amber Spyglass
+      author: Philip Pullman
+    -
+      title: Good Omens
+      author: Terry Pratchett & Neil Gaiman
+    -
+      title: The Restaurant at the End of the Universe
+      author: Douglas Adams
+    -
+      title: Life, the Universe and Everything
+      author: Douglas Adams
+    -
+      title: Stardust
+      author: Neil Gaiman
+    -
+      title: So Long, and Thanks for All the Fish
+      author: Douglas Adams
+    -
+      title: The Garden Jungle
+      author: Dave Goulson
+    -
+      title: Mostly Harmless
+      author: Douglas Adams
+    -
+      title: The War of the Worlds
+      author: H. G. Wells
+-
+  year: 2018
+  books: 
+    -
+      title: Eating Animals
+      author: Jonathan Safran Foer
+    -
+      title: Lab Girl
+      author: Hope Jahren
+    -
+      title: The Way of Kings
+      author: Brandon Sanderson
+    -
+      title: Words of Radiance
+      author: Brandon Sanderson
+    -
+      title: Edgedancer
+      author: Brandon Sanderson
+    -
+      title: "A Sting in the Tale: My Adventures with Bumblebees"
+      author: Dave Goulson
+    -
+      title: The Human Division
+      author: John Scalzi
+    -
+      title: The End of All Things
+      author: John Scalzi
+    -
+      title: Bee Quest
+      author: Dave Goulson
+    -
+      title: The Hitchhiker's Guide to the Galaxy
+      author: Douglas Adams
+    -
+      title: A Buzz in the Meadow
+      author: Dave Goulson
+-
+  year: 2017
+  books:
+    -
+      title: The Peace War
+      author: Vernor Vinge
+    -
+      title: Zoe's Tale
+      author: John Scalzi
+-
+  year: 2016
+  books:
+    -
+      title: Good Omens
+      author: Terry Pratchett & Neil Gaiman
+    -
+      title: Old Man's War
+      author: John Scalzi
+    -
+      title: The Darkness That Comes Before
+      author: R. Scott Bakker
+    -
+      title: The Ghost Brigades
+      author: John Scalzi
+    -
+      title: The Last Colony
+      author: John Scalzi
+-
+  year: 2015
+  books:
+    -
+      title: A Clash of Kings
+      author: George R. R. Martin
+    -
+      title: A Storm of Swords
+      author: George R. R. Martin
+    -
+      title: A Feast for Crows
+      author: George R. R. Martin
+    -
+      title: A Dance With Dragons
+      author: George R. R. Martin
+-
+  year: 2014
+  books:
+    -
+      title: A Game of Thrones
+      author: George R. R. Martin
+-
+  year: 2013
+  books:
+    -
+      title: The Subtle Knife
+      author: Philip Pullman
+    -
+      title: The Amber Spyglass
+      author: Philip Pullman
+    -
+      title: The Hunger Games
+      author: Suzanne Collins
+    -
+      title: Catching Fire
+      author: Suzanne Collins
+    -
+      title: Mockingjay
+      author: Suzanne Collins
+-
+  year: 2012
+  books:
+    -
+      title: The Golden Compass
+      author: Philip Pullman

@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /misc/
+Disallow: /errors/
+Disallow: /assets/images/
+Disallow: /assets/json/
+Disallow: /analytics/
+Disallow: /cloud/
+Disallow: /.well-known/
+Disallow: /series/
+Disallow: /summaries/
+Disallow: /preview
+Disallow: /blog/archive/
+Disallow: /archive/
+Disallow: /tags/

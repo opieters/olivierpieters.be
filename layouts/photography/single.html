@@ -1,0 +1,68 @@
+{{ define "head" }}
+
+{{ $lightgalleryCSS := resources.Get "vendor/node_modules/lightgallery.js/dist/css/lightgallery.min.css" }} 
+<link type="text/css" rel="stylesheet" href="{{ $lightgalleryCSS.Permalink }}" crossorigin="anonymous" integrity="{{ $lightgalleryCSS.Data.Integrity }}">
+
+{{ $lgTRansitionsCSS := resources.Get "vendor/node_modules/lightgallery.js/dist/css/lg-transitions.min.css" }} 
+<link type="text/css" rel="stylesheet" href="{{ $lgTRansitionsCSS.Permalink }}" crossorigin="anonymous" integrity="{{ $lgTRansitionsCSS.Data.Integrity }}">
+
+{{ $leafletCSS := resources.Get "vendor/node_modules/leaflet/dist/leaflet.css" }} 
+<link type="text/css" rel="stylesheet" href="{{ $leafletCSS.Permalink }}" crossorigin="anonymous" integrity="{{ $leafletCSS.Data.Integrity }}">
+
+{{ end }}
+
+{{ define "title" }}
+  {{ .Title }}
+{{ end }}
+
+
+{{ define "description" }}
+Image gallery of {{ .Title }}.
+{{ end }}
+
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+{{ end }}
+
+
+{{ define "post_footer" }}
+  {{ if isset .Params "support" }}
+    {{ $jquery := resources.Get "vendor/node_modules/jquery/dist/jquery.min.js" }}
+    <script src="{{ $jquery.Permalink }}" crossorigin="anonymous" integrity="{{ $jquery.Data.Integrity }}"></script>
+    
+    {{ $lightgallery := resources.Get "vendor/node_modules/lightgallery.js/dist/js/lightgallery.min.js" }}
+    <script src="{{ $lightgallery.Permalink }}" crossorigin="anonymous" integrity="{{ $lightgallery.Data.Integrity }}"></script>
+    
+    {{ $lgZoom := resources.Get "vendor/node_modules/lg-zoom.js/dist/lg-zoom.min.js" }}
+    <script src="{{ $lgZoom.Permalink }}" crossorigin="anonymous" integrity="{{ $lgZoom.Data.Integrity }}"></script>
+    
+    {{ $lgFullscreen := resources.Get "vendor/node_modules/lg-fullscreen.js/dist/lg-fullscreen.min.js" }}
+    <script src="{{ $lgFullscreen.Permalink }}" crossorigin="anonymous" integrity="{{ $lgFullscreen.Data.Integrity }}"></script>
+    
+    {{ $lgAutoplay := resources.Get "vendor/node_modules/lg-autoplay.js/dist/lg-autoplay.min.js" }}
+    <script src="{{ $lgAutoplay.Permalink }}" crossorigin="anonymous" integrity="{{ $lgAutoplay.Data.Integrity }}"></script>
+
+    {{ $picturefill := resources.Get "vendor/node_modules/picturefill/dist/picturefill.min.js" }}
+    <script src="{{ $picturefill.Permalink }}" crossorigin="anonymous" integrity="{{ $picturefill.Data.Integrity }}"></script>
+
+    {{ $isotope := resources.Get "vendor/node_modules/isotope-layout/dist/isotope.pkgd.min.js" }}
+    <script src="{{ $isotope.Permalink }}" crossorigin="anonymous" integrity="{{ $isotope.Data.Integrity }}"></script>
+
+    {{ $imagesloaded := resources.Get "vendor/node_modules/imagesloaded/imagesloaded.pkgd.min.js" }}
+    <script src="{{ $imagesloaded.Permalink }}" crossorigin="anonymous" integrity="{{ $imagesloaded.Data.Integrity }}"></script>
+
+    {{ $leaflet := resources.Get "vendor/node_modules/leaflet/dist/leaflet.js" }}
+    <script src="{{ $leaflet.Permalink }}" crossorigin="anonymous" integrity="{{ $leaflet.Data.Integrity }}"></script>
+
+    {{ $maki := resources.Get "vendor/node_modules/leaflet-makimarkers/Leaflet.MakiMarkers.js" }}
+    <script src="{{ $maki.Permalink }}" crossorigin="anonymous" integrity="{{ $maki.Data.Integrity }}"></script>
+
+    {{ $base := resources.Get "js/gallery.js" }}
+    {{ $galleryJS := slice $base | resources.Concat "js/gallery.js" }}
+    <script src="{{ $galleryJS.Permalink }}" crossorigin="anonymous" integrity="{{ $galleryJS.Data.Integrity }}"></script>
+
+  {{ end }}
+{{ end }}

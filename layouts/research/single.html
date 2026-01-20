@@ -1,0 +1,93 @@
+{{ define "head" }}
+{{ end }}
+
+{{ define "title" }}
+  {{ .Title | markdownify }}
+{{ end }}
+
+
+{{ define "description" }}
+{{ .Params.abstract | markdownify }}
+{{ end }}
+
+{{ define "main" }}
+<div class="paper">
+  <header class="paper-header">
+    <h1 class="paper-title">{{ .Title | markdownify }}</h1>
+    <div class="authors">
+        {{ range .Params.authors }}
+        <span class="paper-author">{{ . }}</span>
+        {{ end }}
+    </div>
+    <div class="published">
+        Pre-print published on <span class="paper-meta">{{ .Date.Format "2 January 2006" }}</span>
+        {{ if isset .Params "update" }}<span class="post-meta">(updated {{ dateFormat "2 January 2006" .Params.update }})</span>{{ end }}
+    </div>
+    <div class="keywords">Keywords: 
+    {{ range .Params.tags }}
+    <span class="paper-keyword">{{ . }}</span>
+    {{ end }}
+    </div>
+    <div class="meta column">
+        <div class="four columns">This is a pre-print version</div>
+        <div class="four columns"><a href="{{ .Params.pdf }}">Download PDF-version</a></div>
+        <div class="four columns"><a href="{ {.Params.doi }}">View published article</a></div>
+    </div>
+    <div class="abstract">
+        <h2>Abstract</h2>
+        <p>{{ .Params.abstract }}</p>
+    </div>
+  </header>
+
+  <article class="paper-content">
+    {{ .Content }}
+  </article>
+
+</div>
+{{ end }}
+
+{{ define "post_footer "}}
+  <script type="text/javascript" rel="stylesheet" src="{{ .Site.Data.static.js.slideout.digest }}" crossorigin="anonymous", integrity="{{ .Site.Data.static.js.slideout.sri }}"></script>
+  <script type="text/javascript" rel="stylesheet" src="{{ .Site.Data.static.js.menu.digest }}" crossorigin="anonymous", integrity="{{ .Site.Data.static.js.menu.sri }}"></script>
+
+  {{ if isset .Params "support" }}
+    {{ if in .Params.support "word_cloud" }}
+    {% js jqcloud2/dist/jqcloud.min.js %}
+    {{ end }}
+
+    {{ if in .Params.support "jquery" }}
+    {% js jquery/dist/jquery.min.js %}
+    {{ end }}
+
+    {{ if isset .Params "json_data" }}
+    <script type="text/javascript" rel="stylesheet" src="{{ .Site.Data.static.js.json_data.digest }}" crossorigin="anonymous", integrity="{{ .Site.Data.static.json_data.menu.sri }}"></script>
+    {{ end }}
+
+    {{ if in .Params.support "gallery" }}
+      <script type="text/javascript" rel="stylesheet" src="{{ .Site.Data.static.js.lightgallery.digest }}" crossorigin="anonymous", integrity="{{ .Site.Data.static.js.lightgallery.sri }}"></script>
+      <script type="text/javascript" rel="stylesheet" src="{{ .Site.Data.static.js.lgzoom.digest }}" crossorigin="anonymous", integrity="{{ .Site.Data.static.js.lgzoom.sri }}"></script>
+      <script type="text/javascript" rel="stylesheet" src="{{ .Site.Data.static.js.lgfullscreen.digest }}" crossorigin="anonymous", integrity="{{ .Site.Data.static.js.lgfullscreen.sri }}"></script>
+      <script type="text/javascript" rel="stylesheet" src="{{ .Site.Data.static.js.lgautoplay.digest }}" crossorigin="anonymous", integrity="{{ .Site.Data.static.js.lgautoplay.sri }}"></script>
+      <script type="text/javascript" rel="stylesheet" src="{{ .Site.Data.static.js.picturefill.digest }}" crossorigin="anonymous", integrity="{{ .Site.Data.static.js.picturefill.sri }}"></script>
+      <script type="text/javascript" rel="stylesheet" src="{{ .Site.Data.static.js.isotope.digest }}" crossorigin="anonymous", integrity="{{ .Site.Data.static.js.isotope.sri }}"></script>
+      <script type="text/javascript" rel="stylesheet" src="{{ .Site.Data.static.js.imagesloaded.digest }}" crossorigin="anonymous", integrity="{{ .Site.Data.static.js.imagesloaded.sri }}"></script>
+      <script type="text/javascript" rel="stylesheet" src="{{ .Site.Data.static.js.gallery.digest }}" crossorigin="anonymous", integrity="{{ .Site.Data.static.js.gallery.sri }}"></script>
+    {{ end }}
+
+    {{ if in .Params.support "maps" }}
+      <script type="text/javascript" rel="stylesheet" src="{{ .Site.Data.static.js.leaflet.digest }}" crossorigin="anonymous", integrity="{{ .Site.Data.static.js.leaflet.sri }}"></script>
+      <script type="text/javascript" rel="stylesheet" src="{{ .Site.Data.static.js.Leaflet.digest }}" crossorigin="anonymous", integrity="{{ .Site.Data.static.js.Leaflet.sri }}"></script>
+      <script type="text/javascript" rel="stylesheet" src="{{ .Site.Data.static.js.map.digest }}" crossorigin="anonymous", integrity="{{ .Site.Data.static.js.map.sri }}"></script>
+    {{ end }}
+
+    {{ if in .Params.support "search" }}
+      <script type="text/javascript" rel="stylesheet" src="{{ .Site.Data.static.js.search.digest }}" crossorigin="anonymous", integrity="{{ .Site.Data.static.js.search.sri }}"></script>
+    {{ end }}
+
+    {{ if in .Params.support "math" }}
+      <script type="text/javascript" rel="stylesheet" src="{{ .Site.Data.static.js.katex.digest }}" crossorigin="anonymous", integrity="{{ .Site.Data.static.js.katex.sri }}"></script>
+      <script type="text/javascript" rel="stylesheet" src="{{ .Site.Data.static.js.math.digest }}" crossorigin="anonymous", integrity="{{ .Site.Data.static.js.math.sri }}"></script>
+    {{ end }}
+
+  {{ end }}
+{{ end }}

@@ -1,0 +1,4 @@
+{{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Get "file")) }}
+{{ $icon := (printf "/images/file-logos/%s-file.svg" (.Get "type")) }}
+
+<a href={{ $original.Permalink | safeHTMLAttr }} target="_blank"><img class="file-icon" src="{{ $icon | safeHTMLAttr }}" alt="{{ printf "%s-file" (.Get "type")}}"></a>

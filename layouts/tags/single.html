@@ -1,0 +1,22 @@
+---
+layout: default
+exclude_from_search: true
+support: [jquery, search]
+title: Search
+permalink: /search.html
+js_file: "js/search"
+---
+
+<h1>{{ .Title }}</h1>
+
+<p>Search for a specific blog post on this website.</p>
+
+<div class="center-element">
+    <input type="text" id="search" placeholder="Search" autocomplete="off" class="search-box">
+</div>
+
+<div class="invisible-divider"></div>
+
+<div id="results" class="search-results">
+</div>
+

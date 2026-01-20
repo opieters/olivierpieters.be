@@ -1,0 +1,628 @@
+DS_Store:
+  images/: {digest: /images/.DS_Store, sri: ''}
+  images/latex/: {digest: /images/latex/.DS_Store, sri: ''}
+css:
+  css/custom: {digest: /assets/css/custom.css, sri: ''}
+  css/cv_styling: {digest: /assets/css/cv_styling.css, sri: ''}
+  css/fira: {digest: /assets/css/fira.css, sri: ''}
+  css/ionicons: {digest: /assets/css/ionicons.min.css, sri: ''}
+  css/katex: {digest: /assets/css/katex.min.css, sri: ''}
+  css/leaflet: {digest: /assets/css/leaflet.css, sri: ''}
+  css/lg-transitions: {digest: /assets/css/lg-transitions.min.css, sri: ''}
+  css/lightgallery: {digest: /assets/css/lightgallery.min.css, sri: ''}
+  css/main: {digest: /assets/css/main.css, sri: ''}
+eot:
+  css/eot/FiraMono-Bold: {digest: /assets/css/eot/FiraMono-Bold.eot, sri: ''}
+  css/eot/FiraMono-Medium: {digest: /assets/css/eot/FiraMono-Medium.eot, sri: ''}
+  css/eot/FiraMono-Regular: {digest: /assets/css/eot/FiraMono-Regular.eot, sri: ''}
+  css/eot/FiraSans-Bold: {digest: /assets/css/eot/FiraSans-Bold.eot, sri: ''}
+  css/eot/FiraSans-BoldItalic: {digest: /assets/css/eot/FiraSans-BoldItalic.eot, sri: ''}
+  css/eot/FiraSans-Book: {digest: /assets/css/eot/FiraSans-Book.eot, sri: ''}
+  css/eot/FiraSans-BookItalic: {digest: /assets/css/eot/FiraSans-BookItalic.eot, sri: ''}
+  css/eot/FiraSans-Eight: {digest: /assets/css/eot/FiraSans-Eight.eot, sri: ''}
+  css/eot/FiraSans-EightItalic: {digest: /assets/css/eot/FiraSans-EightItalic.eot,
+    sri: ''}
+  css/eot/FiraSans-ExtraBold: {digest: /assets/css/eot/FiraSans-ExtraBold.eot, sri: ''}
+  css/eot/FiraSans-ExtraBoldItalic: {digest: /assets/css/eot/FiraSans-ExtraBoldItalic.eot,
+    sri: ''}
+  css/eot/FiraSans-ExtraLight: {digest: /assets/css/eot/FiraSans-ExtraLight.eot, sri: ''}
+  css/eot/FiraSans-ExtraLightItalic: {digest: /assets/css/eot/FiraSans-ExtraLightItalic.eot,
+    sri: ''}
+  css/eot/FiraSans-Four: {digest: /assets/css/eot/FiraSans-Four.eot, sri: ''}
+  css/eot/FiraSans-FourItalic: {digest: /assets/css/eot/FiraSans-FourItalic.eot, sri: ''}
+  css/eot/FiraSans-Hair: {digest: /assets/css/eot/FiraSans-Hair.eot, sri: ''}
+  css/eot/FiraSans-HairItalic: {digest: /assets/css/eot/FiraSans-HairItalic.eot, sri: ''}
+  css/eot/FiraSans-Heavy: {digest: /assets/css/eot/FiraSans-Heavy.eot, sri: ''}
+  css/eot/FiraSans-HeavyItalic: {digest: /assets/css/eot/FiraSans-HeavyItalic.eot,
+    sri: ''}
+  css/eot/FiraSans-Italic: {digest: /assets/css/eot/FiraSans-Italic.eot, sri: ''}
+  css/eot/FiraSans-Light: {digest: /assets/css/eot/FiraSans-Light.eot, sri: ''}
+  css/eot/FiraSans-LightItalic: {digest: /assets/css/eot/FiraSans-LightItalic.eot,
+    sri: ''}
+  css/eot/FiraSans-Medium: {digest: /assets/css/eot/FiraSans-Medium.eot, sri: ''}
+  css/eot/FiraSans-MediumItalic: {digest: /assets/css/eot/FiraSans-MediumItalic.eot,
+    sri: ''}
+  css/eot/FiraSans-Regular: {digest: /assets/css/eot/FiraSans-Regular.eot, sri: ''}
+  css/eot/FiraSans-SemiBold: {digest: /assets/css/eot/FiraSans-SemiBold.eot, sri: ''}
+  css/eot/FiraSans-SemiBoldItalic: {digest: /assets/css/eot/FiraSans-SemiBoldItalic.eot,
+    sri: ''}
+  css/eot/FiraSans-Thin: {digest: /assets/css/eot/FiraSans-Thin.eot, sri: ''}
+  css/eot/FiraSans-ThinItalic: {digest: /assets/css/eot/FiraSans-ThinItalic.eot, sri: ''}
+  css/eot/FiraSans-Two: {digest: /assets/css/eot/FiraSans-Two.eot, sri: ''}
+  css/eot/FiraSans-TwoItalic: {digest: /assets/css/eot/FiraSans-TwoItalic.eot, sri: ''}
+  css/eot/FiraSans-Ultra: {digest: /assets/css/eot/FiraSans-Ultra.eot, sri: ''}
+  css/eot/FiraSans-UltraItalic: {digest: /assets/css/eot/FiraSans-UltraItalic.eot,
+    sri: ''}
+  css/eot/FiraSans-UltraLight: {digest: /assets/css/eot/FiraSans-UltraLight.eot, sri: ''}
+  css/eot/FiraSans-UltraLightItalic: {digest: /assets/css/eot/FiraSans-UltraLightItalic.eot,
+    sri: ''}
+  fonts/ionicons: {digest: /assets/fonts/ionicons.eot, sri: ''}
+eps:
+  images/file-logos/c-file: {digest: /images/file-logos/c-file.eps, sri: ''}
+  images/file-logos/cpp-file: {digest: /images/file-logos/cpp-file.eps, sri: ''}
+  images/file-logos/css-file: {digest: /images/file-logos/css-file.eps, sri: ''}
+  images/file-logos/csv-file: {digest: /images/file-logos/csv-file.eps, sri: ''}
+  images/file-logos/h-file: {digest: /images/file-logos/h-file.eps, sri: ''}
+  images/file-logos/html-file: {digest: /images/file-logos/html-file.eps, sri: ''}
+  images/file-logos/js-file: {digest: /images/file-logos/js-file.eps, sri: ''}
+  images/file-logos/m-file: {digest: /images/file-logos/m-file.eps, sri: ''}
+  images/file-logos/md-file: {digest: /images/file-logos/md-file.eps, sri: ''}
+  images/file-logos/py-file: {digest: /images/file-logos/py-file.eps, sri: ''}
+  images/file-logos/sh-file: {digest: /images/file-logos/sh-file.eps, sri: ''}
+  images/file-logos/tex-file: {digest: /images/file-logos/tex-file.eps, sri: ''}
+  images/file-logos/txt-file: {digest: /images/file-logos/txt-file.eps, sri: ''}
+  images/file-logos/vhdl-file: {digest: /images/file-logos/vhdl-file.eps, sri: ''}
+ico:
+  favicons/favicon: {digest: /assets/favicons/favicon.ico, sri: ''}
+jpg:
+  images/cv/Olivier Pieters: {digest: /images/cv/Olivier Pieters.jpg, sri: ''}
+  images/introduction: {digest: /images/introduction.jpg, sri: ''}
+  images/introduction-small: {digest: /images/introduction-small.jpg, sri: ''}
+js:
+  js/Leaflet.MakiMarkers: {digest: /assets/js/Leaflet.MakiMarkers.js, sri: ''}
+  js/analytics: {digest: /assets/js/analytics.js, sri: ''}
+  js/comments: {digest: /assets/js/comments.js, sri: ''}
+  js/galleries/ghent-light-festival: {digest: /assets/js/galleries/ghent-light-festival.js,
+    sri: ''}
+  js/galleries/mull-2016: {digest: /assets/js/galleries/mull-2016.js, sri: ''}
+  js/galleries/scotland-2015/braemar: {digest: /assets/js/galleries/scotland-2015/braemar.js,
+    sri: ''}
+  js/galleries/scotland-2015/edinburgh: {digest: /assets/js/galleries/scotland-2015/edinburgh.js,
+    sri: ''}
+  js/galleries/scotland-2015/fort-william: {digest: /assets/js/galleries/scotland-2015/fort-william.js,
+    sri: ''}
+  js/galleries/scotland-2015/glasgow: {digest: /assets/js/galleries/scotland-2015/glasgow.js,
+    sri: ''}
+  js/galleries/scotland-2015/ijmuiden: {digest: /assets/js/galleries/scotland-2015/ijmuiden.js,
+    sri: ''}
+  js/galleries/scotland-2015/isle-of-skye: {digest: /assets/js/galleries/scotland-2015/isle-of-skye.js,
+    sri: ''}
+  js/galleries/scotland-2015/loch-lomond: {digest: /assets/js/galleries/scotland-2015/loch-lomond.js,
+    sri: ''}
+  js/galleries/scotland-2015/newcastle-upon-tyne: {digest: /assets/js/galleries/scotland-2015/newcastle-upon-tyne.js,
+    sri: ''}
+  js/galleries/scotland-2015/oban-mull-fiona: {digest: /assets/js/galleries/scotland-2015/oban-mull-fiona.js,
+    sri: ''}
+  js/galleries/scotland-2015/stirling-castle: {digest: /assets/js/galleries/scotland-2015/stirling-castle.js,
+    sri: ''}
+  js/galleries/switzerland-2016/lavaux: {digest: /assets/js/galleries/switzerland-2016/lavaux.js,
+    sri: ''}
+  js/galleries/switzerland-2016/morges-lausanne: {digest: /assets/js/galleries/switzerland-2016/morges-lausanne.js,
+    sri: ''}
+  js/galleries/switzerland-2016/rochers-de-naye: {digest: /assets/js/galleries/switzerland-2016/rochers-de-naye.js,
+    sri: ''}
+  js/galleries/switzerland-2016/scex-rouge-reusch: {digest: /assets/js/galleries/switzerland-2016/scex-rouge-reusch.js,
+    sri: ''}
+  js/galleries/switzerland-2016/val-d-illiez: {digest: /assets/js/galleries/switzerland-2016/val-d-illiez.js,
+    sri: ''}
+  js/galleries/switzerland-2016/yverdon-les-bains-st-croix: {digest: /assets/js/galleries/switzerland-2016/yverdon-les-bains-st-croix.js,
+    sri: ''}
+  js/galleries/united-states-2012/arches: {digest: /assets/js/galleries/united-states-2012/arches.js,
+    sri: ''}
+  js/galleries/united-states-2012/bryce-canyon: {digest: /assets/js/galleries/united-states-2012/bryce-canyon.js,
+    sri: ''}
+  js/galleries/united-states-2012/canyonlands: {digest: /assets/js/galleries/united-states-2012/canyonlands.js,
+    sri: ''}
+  js/galleries/united-states-2012/death-valley: {digest: /assets/js/galleries/united-states-2012/death-valley.js,
+    sri: ''}
+  js/galleries/united-states-2012/grand-canyon: {digest: /assets/js/galleries/united-states-2012/grand-canyon.js,
+    sri: ''}
+  js/galleries/united-states-2012/grand-teton: {digest: /assets/js/galleries/united-states-2012/grand-teton.js,
+    sri: ''}
+  js/galleries/united-states-2012/hoover-dam: {digest: /assets/js/galleries/united-states-2012/hoover-dam.js,
+    sri: ''}
+  js/galleries/united-states-2012/lake-mead-and-valley-of-fire: {digest: /assets/js/galleries/united-states-2012/lake-mead-and-valley-of-fire.js,
+    sri: ''}
+  js/galleries/united-states-2012/las-vegas: {digest: /assets/js/galleries/united-states-2012/las-vegas.js,
+    sri: ''}
+  js/galleries/united-states-2012/los-angeles: {digest: /assets/js/galleries/united-states-2012/los-angeles.js,
+    sri: ''}
+  js/galleries/united-states-2012/mammoth-lakes: {digest: /assets/js/galleries/united-states-2012/mammoth-lakes.js,
+    sri: ''}
+  js/galleries/united-states-2012/misc: {digest: /assets/js/galleries/united-states-2012/misc.js,
+    sri: ''}
+  js/galleries/united-states-2012/monument-valley: {digest: /assets/js/galleries/united-states-2012/monument-valley.js,
+    sri: ''}
+  js/galleries/united-states-2012/natural-bridges: {digest: /assets/js/galleries/united-states-2012/natural-bridges.js,
+    sri: ''}
+  js/galleries/united-states-2012/red-rock-canyon: {digest: /assets/js/galleries/united-states-2012/red-rock-canyon.js,
+    sri: ''}
+  js/galleries/united-states-2012/san-francisco: {digest: /assets/js/galleries/united-states-2012/san-francisco.js,
+    sri: ''}
+  js/galleries/united-states-2012/yellowstone: {digest: /assets/js/galleries/united-states-2012/yellowstone.js,
+    sri: ''}
+  js/galleries/united-states-2012/yosemite: {digest: /assets/js/galleries/united-states-2012/yosemite.js,
+    sri: ''}
+  js/galleries/united-states-2012/zion: {digest: /assets/js/galleries/united-states-2012/zion.js,
+    sri: ''}
+  js/imagesloaded: {digest: /assets/js/imagesloaded.pkgd.min.js, sri: ''}
+  js/isotope: {digest: /assets/js/isotope.pkgd.min.js, sri: ''}
+  js/jquery: {digest: /assets/js/jquery.min.js, sri: ''}
+  js/katex: {digest: /assets/js/katex.min.js, sri: ''}
+  js/leaflet: {digest: /assets/js/leaflet.js, sri: ''}
+  js/lg-autoplay: {digest: /assets/js/lg-autoplay.min.js, sri: ''}
+  js/lg-fullscreen: {digest: /assets/js/lg-fullscreen.min.js, sri: ''}
+  js/lg-zoom: {digest: /assets/js/lg-zoom.min.js, sri: ''}
+  js/lightgallery: {digest: /assets/js/lightgallery.min.js, sri: ''}
+  js/map: {digest: /assets/js/map.js, sri: ''}
+  js/math: {digest: /assets/js/math.js, sri: ''}
+  js/menu: {digest: /assets/js/menu.js, sri: ''}
+  js/picturefill: {digest: /assets/js/picturefill.min.js, sri: ''}
+  js/slideout: {digest: /assets/js/slideout.min.js, sri: ''}
+json:
+  favicons/manifest: {digest: /assets/favicons/manifest.json, sri: ''}
+map:
+  css/ionicons: {digest: /assets/css/ionicons.min.css.map, sri: ''}
+otf:
+  css/otf/FiraMono-Bold: {digest: /assets/css/otf/FiraMono-Bold.otf, sri: ''}
+  css/otf/FiraMono-Medium: {digest: /assets/css/otf/FiraMono-Medium.otf, sri: ''}
+  css/otf/FiraMono-Regular: {digest: /assets/css/otf/FiraMono-Regular.otf, sri: ''}
+  css/otf/FiraSans-Bold: {digest: /assets/css/otf/FiraSans-Bold.otf, sri: ''}
+  css/otf/FiraSans-BoldItalic: {digest: /assets/css/otf/FiraSans-BoldItalic.otf, sri: ''}
+  css/otf/FiraSans-Book: {digest: /assets/css/otf/FiraSans-Book.otf, sri: ''}
+  css/otf/FiraSans-BookItalic: {digest: /assets/css/otf/FiraSans-BookItalic.otf, sri: ''}
+  css/otf/FiraSans-Eight: {digest: /assets/css/otf/FiraSans-Eight.otf, sri: ''}
+  css/otf/FiraSans-EightItalic: {digest: /assets/css/otf/FiraSans-EightItalic.otf,
+    sri: ''}
+  css/otf/FiraSans-ExtraBold: {digest: /assets/css/otf/FiraSans-ExtraBold.otf, sri: ''}
+  css/otf/FiraSans-ExtraBoldItalic: {digest: /assets/css/otf/FiraSans-ExtraBoldItalic.otf,
+    sri: ''}
+  css/otf/FiraSans-ExtraLight: {digest: /assets/css/otf/FiraSans-ExtraLight.otf, sri: ''}
+  css/otf/FiraSans-ExtraLightItalic: {digest: /assets/css/otf/FiraSans-ExtraLightItalic.otf,
+    sri: ''}
+  css/otf/FiraSans-Four: {digest: /assets/css/otf/FiraSans-Four.otf, sri: ''}
+  css/otf/FiraSans-FourItalic: {digest: /assets/css/otf/FiraSans-FourItalic.otf, sri: ''}
+  css/otf/FiraSans-Hair: {digest: /assets/css/otf/FiraSans-Hair.otf, sri: ''}
+  css/otf/FiraSans-HairItalic: {digest: /assets/css/otf/FiraSans-HairItalic.otf, sri: ''}
+  css/otf/FiraSans-Heavy: {digest: /assets/css/otf/FiraSans-Heavy.otf, sri: ''}
+  css/otf/FiraSans-HeavyItalic: {digest: /assets/css/otf/FiraSans-HeavyItalic.otf,
+    sri: ''}
+  css/otf/FiraSans-Italic: {digest: /assets/css/otf/FiraSans-Italic.otf, sri: ''}
+  css/otf/FiraSans-Light: {digest: /assets/css/otf/FiraSans-Light.otf, sri: ''}
+  css/otf/FiraSans-LightItalic: {digest: /assets/css/otf/FiraSans-LightItalic.otf,
+    sri: ''}
+  css/otf/FiraSans-Medium: {digest: /assets/css/otf/FiraSans-Medium.otf, sri: ''}
+  css/otf/FiraSans-MediumItalic: {digest: /assets/css/otf/FiraSans-MediumItalic.otf,
+    sri: ''}
+  css/otf/FiraSans-Regular: {digest: /assets/css/otf/FiraSans-Regular.otf, sri: ''}
+  css/otf/FiraSans-SemiBold: {digest: /assets/css/otf/FiraSans-SemiBold.otf, sri: ''}
+  css/otf/FiraSans-SemiBoldItalic: {digest: /assets/css/otf/FiraSans-SemiBoldItalic.otf,
+    sri: ''}
+  css/otf/FiraSans-Thin: {digest: /assets/css/otf/FiraSans-Thin.otf, sri: ''}
+  css/otf/FiraSans-ThinItalic: {digest: /assets/css/otf/FiraSans-ThinItalic.otf, sri: ''}
+  css/otf/FiraSans-Two: {digest: /assets/css/otf/FiraSans-Two.otf, sri: ''}
+  css/otf/FiraSans-TwoItalic: {digest: /assets/css/otf/FiraSans-TwoItalic.otf, sri: ''}
+  css/otf/FiraSans-Ultra: {digest: /assets/css/otf/FiraSans-Ultra.otf, sri: ''}
+  css/otf/FiraSans-UltraItalic: {digest: /assets/css/otf/FiraSans-UltraItalic.otf,
+    sri: ''}
+  css/otf/FiraSans-UltraLight: {digest: /assets/css/otf/FiraSans-UltraLight.otf, sri: ''}
+  css/otf/FiraSans-UltraLightItalic: {digest: /assets/css/otf/FiraSans-UltraLightItalic.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-Bold: {digest: /assets/css/otf/FiraSansCondensed-Bold.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-BoldItalic: {digest: /assets/css/otf/FiraSansCondensed-BoldItalic.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-Book: {digest: /assets/css/otf/FiraSansCondensed-Book.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-BookItalic: {digest: /assets/css/otf/FiraSansCondensed-BookItalic.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-Eight: {digest: /assets/css/otf/FiraSansCondensed-Eight.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-EightItalic: {digest: /assets/css/otf/FiraSansCondensed-EightItalic.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-ExtraBold: {digest: /assets/css/otf/FiraSansCondensed-ExtraBold.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-ExtraLight: {digest: /assets/css/otf/FiraSansCondensed-ExtraLight.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-ExtraLightItalic: {digest: /assets/css/otf/FiraSansCondensed-ExtraLightItalic.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-ExtraboldItalic: {digest: /assets/css/otf/FiraSansCondensed-ExtraboldItalic.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-Four: {digest: /assets/css/otf/FiraSansCondensed-Four.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-FourItalic: {digest: /assets/css/otf/FiraSansCondensed-FourItalic.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-Hair: {digest: /assets/css/otf/FiraSansCondensed-Hair.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-HairItalic: {digest: /assets/css/otf/FiraSansCondensed-HairItalic.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-Heavy: {digest: /assets/css/otf/FiraSansCondensed-Heavy.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-HeavyItalic: {digest: /assets/css/otf/FiraSansCondensed-HeavyItalic.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-Italic: {digest: /assets/css/otf/FiraSansCondensed-Italic.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-Light: {digest: /assets/css/otf/FiraSansCondensed-Light.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-LightItalic: {digest: /assets/css/otf/FiraSansCondensed-LightItalic.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-Medium: {digest: /assets/css/otf/FiraSansCondensed-Medium.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-MediumItalic: {digest: /assets/css/otf/FiraSansCondensed-MediumItalic.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-Regular: {digest: /assets/css/otf/FiraSansCondensed-Regular.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-SemiBold: {digest: /assets/css/otf/FiraSansCondensed-SemiBold.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-SemiboldItalic: {digest: /assets/css/otf/FiraSansCondensed-SemiboldItalic.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-Thin: {digest: /assets/css/otf/FiraSansCondensed-Thin.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-ThinItalic: {digest: /assets/css/otf/FiraSansCondensed-ThinItalic.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-Two: {digest: /assets/css/otf/FiraSansCondensed-Two.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-TwoItalic: {digest: /assets/css/otf/FiraSansCondensed-TwoItalic.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-Ultra: {digest: /assets/css/otf/FiraSansCondensed-Ultra.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-UltraItalic: {digest: /assets/css/otf/FiraSansCondensed-UltraItalic.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-UltraLight: {digest: /assets/css/otf/FiraSansCondensed-UltraLight.otf,
+    sri: ''}
+  css/otf/FiraSansCondensed-UltraLightItalic: {digest: /assets/css/otf/FiraSansCondensed-UltraLightItalic.otf,
+    sri: ''}
+pdf:
+  images/file-logos/c-file: {digest: /images/file-logos/c-file.pdf, sri: ''}
+  images/file-logos/cpp-file: {digest: /images/file-logos/cpp-file.pdf, sri: ''}
+  images/file-logos/css-file: {digest: /images/file-logos/css-file.pdf, sri: ''}
+  images/file-logos/csv-file: {digest: /images/file-logos/csv-file.pdf, sri: ''}
+  images/file-logos/h-file: {digest: /images/file-logos/h-file.pdf, sri: ''}
+  images/file-logos/html-file: {digest: /images/file-logos/html-file.pdf, sri: ''}
+  images/file-logos/js-file: {digest: /images/file-logos/js-file.pdf, sri: ''}
+  images/file-logos/m-file: {digest: /images/file-logos/m-file.pdf, sri: ''}
+  images/file-logos/md-file: {digest: /images/file-logos/md-file.pdf, sri: ''}
+  images/file-logos/py-file: {digest: /images/file-logos/py-file.pdf, sri: ''}
+  images/file-logos/sh-file: {digest: /images/file-logos/sh-file.pdf, sri: ''}
+  images/file-logos/tex-file: {digest: /images/file-logos/tex-file.pdf, sri: ''}
+  images/file-logos/txt-file: {digest: /images/file-logos/txt-file.pdf, sri: ''}
+  images/file-logos/vhdl-file: {digest: /images/file-logos/vhdl-file.pdf, sri: ''}
+png:
+  favicons/android-chrome-144x144: {digest: /assets/favicons/android-chrome-144x144.png,
+    sri: ''}
+  favicons/android-chrome-192x192: {digest: /assets/favicons/android-chrome-192x192.png,
+    sri: ''}
+  favicons/android-chrome-36x36: {digest: /assets/favicons/android-chrome-36x36.png,
+    sri: ''}
+  favicons/android-chrome-48x48: {digest: /assets/favicons/android-chrome-48x48.png,
+    sri: ''}
+  favicons/android-chrome-72x72: {digest: /assets/favicons/android-chrome-72x72.png,
+    sri: ''}
+  favicons/android-chrome-96x96: {digest: /assets/favicons/android-chrome-96x96.png,
+    sri: ''}
+  favicons/apple-touch-icon: {digest: /assets/favicons/apple-touch-icon.png, sri: ''}
+  favicons/apple-touch-icon-114x114: {digest: /assets/favicons/apple-touch-icon-114x114.png,
+    sri: ''}
+  favicons/apple-touch-icon-120x120: {digest: /assets/favicons/apple-touch-icon-120x120.png,
+    sri: ''}
+  favicons/apple-touch-icon-144x144: {digest: /assets/favicons/apple-touch-icon-144x144.png,
+    sri: ''}
+  favicons/apple-touch-icon-152x152: {digest: /assets/favicons/apple-touch-icon-152x152.png,
+    sri: ''}
+  favicons/apple-touch-icon-180x180: {digest: /assets/favicons/apple-touch-icon-180x180.png,
+    sri: ''}
+  favicons/apple-touch-icon-57x57: {digest: /assets/favicons/apple-touch-icon-57x57.png,
+    sri: ''}
+  favicons/apple-touch-icon-60x60: {digest: /assets/favicons/apple-touch-icon-60x60.png,
+    sri: ''}
+  favicons/apple-touch-icon-72x72: {digest: /assets/favicons/apple-touch-icon-72x72.png,
+    sri: ''}
+  favicons/apple-touch-icon-76x76: {digest: /assets/favicons/apple-touch-icon-76x76.png,
+    sri: ''}
+  favicons/apple-touch-icon-precomposed: {digest: /assets/favicons/apple-touch-icon-precomposed.png,
+    sri: ''}
+  favicons/favicon-16x16: {digest: /assets/favicons/favicon-16x16.png, sri: ''}
+  favicons/favicon-32x32: {digest: /assets/favicons/favicon-32x32.png, sri: ''}
+  favicons/favicon-96x96: {digest: /assets/favicons/favicon-96x96.png, sri: ''}
+  favicons/mstile-144x144: {digest: /assets/favicons/mstile-144x144.png, sri: ''}
+  favicons/mstile-150x150: {digest: /assets/favicons/mstile-150x150.png, sri: ''}
+  favicons/mstile-310x150: {digest: /assets/favicons/mstile-310x150.png, sri: ''}
+  favicons/mstile-310x310: {digest: /assets/favicons/mstile-310x310.png, sri: ''}
+  favicons/mstile-70x70: {digest: /assets/favicons/mstile-70x70.png, sri: ''}
+  images/Raspberry-Pi-GPIO-Layout-Revision-2: {digest: /images/Raspberry-Pi-GPIO-Layout-Revision-2.png, sri: ''}
+  images/cv/CVO Handelsschool Aalst: {digest: /images/cv/CVO Handelsschool Aalst.png, sri: ''}
+  images/cv/Ghent University: {digest: /images/cv/Ghent University.png, sri: ''}
+  images/cv/Huawei: {digest: /images/cv/Huawei.png, sri: ''}
+  images/cv/Newtec: {digest: /images/cv/Newtec.png, sri: ''}
+  images/cv/SVI Gijzegem: {digest: /images/cv/SVI Gijzegem.png, sri: ''}
+  images/file-logos/c-file: {digest: /images/file-logos/c-file.png, sri: ''}
+  images/file-logos/cpp-file: {digest: /images/file-logos/cpp-file.png, sri: ''}
+  images/file-logos/css-file: {digest: /images/file-logos/css-file.png, sri: ''}
+  images/file-logos/csv-file: {digest: /images/file-logos/csv-file.png, sri: ''}
+  images/file-logos/h-file: {digest: /images/file-logos/h-file.png, sri: ''}
+  images/file-logos/html-file: {digest: /images/file-logos/html-file.png, sri: ''}
+  images/file-logos/js-file: {digest: /images/file-logos/js-file.png, sri: ''}
+  images/file-logos/m-file: {digest: /images/file-logos/m-file.png, sri: ''}
+  images/file-logos/md-file: {digest: /images/file-logos/md-file.png, sri: ''}
+  images/file-logos/py-file: {digest: /images/file-logos/py-file.png, sri: ''}
+  images/file-logos/sh-file: {digest: /images/file-logos/sh-file.png, sri: ''}
+  images/file-logos/tex-file: {digest: /images/file-logos/tex-file.png, sri: ''}
+  images/file-logos/txt-file: {digest: /images/file-logos/txt-file.png, sri: ''}
+  images/file-logos/vhdl-file: {digest: /images/file-logos/vhdl-file.png, sri: ''}
+  images/latex/duckduckgo-homepage: {digest: /images/latex/duckduckgo-homepage.png,
+    sri: ''}
+  images/latex/https_image: {digest: /images/latex/https_image.png, sri: ''}
+  images/timelapsr/realization: {digest: /images/timelapsr/realization.png,
+    sri: ''}
+  images/timelapsr/realization-large: {digest: /images/timelapsr/realization-large.png,
+    sri: ''}
+  images/timelapsr/realization-original: {digest: /images/timelapsr/realization-original.png,
+    sri: ''}
+sketch:
+  images/file-logos/files: {digest: /images/file-logos/files.sketch, sri: ''}
+  images/icons/location: {digest: /images/icons/location.sketch, sri: ''}
+  images/icons/search-icon: {digest: /images/icons/search-icon.sketch, sri: ''}
+svg:
+  favicons/safari-pinned-tab: {digest: /assets/favicons/safari-pinned-tab.svg, sri: ''}
+  fonts/ionicons: {digest: /assets/fonts/ionicons.svg, sri: ''}
+  images/cv/Ghent University: {digest: /images/cv/Ghent University.svg, sri: ''}
+  images/file-logos/c-file: {digest: /images/file-logos/c-file.svg, sri: ''}
+  images/file-logos/cpp-file: {digest: /images/file-logos/cpp-file.svg, sri: ''}
+  images/file-logos/css-file: {digest: /images/file-logos/css-file.svg, sri: ''}
+  images/file-logos/csv-file: {digest: /images/file-logos/csv-file.svg, sri: ''}
+  images/file-logos/h-file: {digest: /images/file-logos/h-file.svg, sri: ''}
+  images/file-logos/html-file: {digest: /images/file-logos/html-file.svg, sri: ''}
+  images/file-logos/js-file: {digest: /images/file-logos/js-file.svg, sri: ''}
+  images/file-logos/m-file: {digest: /images/file-logos/m-file.svg, sri: ''}
+  images/file-logos/md-file: {digest: /images/file-logos/md-file.svg, sri: ''}
+  images/file-logos/py-file: {digest: /images/file-logos/py-file.svg, sri: ''}
+  images/file-logos/sh-file: {digest: /images/file-logos/sh-file.svg, sri: ''}
+  images/file-logos/tex-file: {digest: /images/file-logos/tex-file.svg, sri: ''}
+  images/file-logos/txt-file: {digest: /images/file-logos/txt-file.svg, sri: ''}
+  images/file-logos/vhdl-file: {digest: /images/file-logos/vhdl-file.svg, sri: ''}
+  images/file-logos/zip-file: {digest: /images/file-logos/zip-file.svg, sri: ''}
+  images/icons/by-nc-sa: {digest: /images/icons/by-nc-sa.eu.svg, sri: ''}
+  images/icons/cd-arrow: {digest: /images/icons/cd-arrow.svg, sri: ''}
+  images/icons/done: {digest: /images/icons/done.svg, sri: ''}
+  images/icons/location: {digest: /images/icons/location.svg, sri: ''}
+  images/icons/not-done: {digest: /images/icons/not-done.svg, sri: ''}
+  images/icons/op: {digest: /images/icons/op.svg, sri: ''}
+  images/icons/op-small: {digest: /images/icons/op-small.svg, sri: ''}
+  images/icons/search-icon: {digest: /images/icons/search-icon.svg, sri: ''}
+  images/latex/amplifier-buffer: {digest: /images/latex/amplifier-buffer.svg,
+    sri: ''}
+  images/latex/amplifier-difference: {digest: /images/latex/amplifier-difference.svg,
+    sri: ''}
+  images/latex/amplifier-differentiator: {digest: /images/latex/amplifier-differentiator.svg,
+    sri: ''}
+  images/latex/amplifier-feedback-block-diagram: {digest: /images/latex/amplifier-feedback-block-diagram.svg,
+    sri: ''}
+  images/latex/amplifier-feedback-circuit: {digest: /images/latex/amplifier-feedback-circuit.svg,
+    sri: ''}
+  images/latex/amplifier-input-voltage-offset: {digest: /images/latex/amplifier-input-voltage-offset.svg,
+    sri: ''}
+  images/latex/amplifier-integrator: {digest: /images/latex/amplifier-integrator.svg,
+    sri: ''}
+  images/latex/amplifier-inverting: {digest: /images/latex/amplifier-inverting.svg,
+    sri: ''}
+  images/latex/amplifier-schmitt-trigger: {digest: /images/latex/amplifier-schmitt-trigger.svg,
+    sri: ''}
+  images/latex/amplifier-sum: {digest: /images/latex/amplifier-sum.svg, sri: ''}
+  images/latex/amplifier-transimpedance: {digest: /images/latex/amplifier-transimpedance.svg,
+    sri: ''}
+  images/latex/axis-example: {digest: /images/latex/axis-example.svg, sri: ''}
+  images/latex/axis-example2: {digest: /images/latex/axis-example2.svg, sri: ''}
+  images/latex/block-diagram-example: {digest: /images/latex/block-diagram-example.svg,
+    sri: ''}
+  images/latex/business-card-back: {digest: /images/latex/business-card-back.svg,
+    sri: ''}
+  images/latex/business-card-front: {digest: /images/latex/business-card-front.svg,
+    sri: ''}
+  images/latex/business-card-outline: {digest: /images/latex/business-card-outline.svg,
+    sri: ''}
+  images/latex/circuitikz-example: {digest: /images/latex/circuitikz-example.svg,
+    sri: ''}
+  images/latex/equivalent-blocks: {digest: /images/latex/equivalent-blocks.svg,
+    sri: ''}
+  images/latex/equivalent-start: {digest: /images/latex/equivalent-start.svg,
+    sri: ''}
+  images/latex/feedback-distortion: {digest: /images/latex/feedback-distortion.svg,
+    sri: ''}
+  images/latex/feedback-distortion-noise: {digest: /images/latex/feedback-distortion-noise.svg,
+    sri: ''}
+  images/latex/latex-import-data-plot: {digest: /images/latex/latex-import-data-plot.svg,
+    sri: ''}
+  images/latex/latex-import-data-table: {digest: /images/latex/latex-import-data-table.svg,
+    sri: ''}
+  images/latex/latex-vs-word: {digest: /images/latex/latex-vs-word.svg, sri: ''}
+  images/latex/matlab-scripting-circuit: {digest: /images/latex/matlab-scripting-circuit.svg,
+    sri: ''}
+  images/matlab/latex-matlab-scripting-tf1: {digest: /images/matlab/latex-matlab-scripting-tf1.svg,
+    sri: ''}
+  images/matlab/latex-matlab-scripting-tf2: {digest: /images/matlab/latex-matlab-scripting-tf2.svg,
+    sri: ''}
+  images/timelapsr/timelapsr-circuit: {digest: /images/timelapsr/timelapsr-circuit.svg,
+    sri: ''}
+  images/w3c/html5: {digest: /images/w3c/html5.svg, sri: ''}
+  images/w3c/html5_3d_effects: {digest: /images/w3c/html5_3d_effects.svg, sri: ''}
+  images/w3c/html5_connectivity: {digest: /images/w3c/html5_connectivity.svg,
+    sri: ''}
+  images/w3c/html5_css3_styling: {digest: /images/w3c/html5_css3_styling.svg,
+    sri: ''}
+  images/w3c/html5_device_access: {digest: /images/w3c/html5_device_access.svg,
+    sri: ''}
+  images/w3c/html5_multimedia: {digest: /images/w3c/html5_multimedia.svg, sri: ''}
+  images/w3c/html5_offline_storage: {digest: /images/w3c/html5_offline_storage.svg,
+    sri: ''}
+  images/w3c/html5_perfintegration: {digest: /images/w3c/html5_perfintegration.svg,
+    sri: ''}
+  images/w3c/html5_semantics: {digest: /images/w3c/html5_semantics.svg, sri: ''}
+ttf:
+  css/ttf/FiraMono-Bold: {digest: /assets/css/ttf/FiraMono-Bold.ttf, sri: ''}
+  css/ttf/FiraMono-Medium: {digest: /assets/css/ttf/FiraMono-Medium.ttf, sri: ''}
+  css/ttf/FiraMono-Regular: {digest: /assets/css/ttf/FiraMono-Regular.ttf, sri: ''}
+  css/ttf/FiraSans-Bold: {digest: /assets/css/ttf/FiraSans-Bold.ttf, sri: ''}
+  css/ttf/FiraSans-BoldItalic: {digest: /assets/css/ttf/FiraSans-BoldItalic.ttf, sri: ''}
+  css/ttf/FiraSans-Book: {digest: /assets/css/ttf/FiraSans-Book.ttf, sri: ''}
+  css/ttf/FiraSans-BookItalic: {digest: /assets/css/ttf/FiraSans-BookItalic.ttf, sri: ''}
+  css/ttf/FiraSans-Eight: {digest: /assets/css/ttf/FiraSans-Eight.ttf, sri: ''}
+  css/ttf/FiraSans-EightItalic: {digest: /assets/css/ttf/FiraSans-EightItalic.ttf,
+    sri: ''}
+  css/ttf/FiraSans-ExtraBold: {digest: /assets/css/ttf/FiraSans-ExtraBold.ttf, sri: ''}
+  css/ttf/FiraSans-ExtraBoldItalic: {digest: /assets/css/ttf/FiraSans-ExtraBoldItalic.ttf,
+    sri: ''}
+  css/ttf/FiraSans-ExtraLight: {digest: /assets/css/ttf/FiraSans-ExtraLight.ttf, sri: ''}
+  css/ttf/FiraSans-ExtraLightItalic: {digest: /assets/css/ttf/FiraSans-ExtraLightItalic.ttf,
+    sri: ''}
+  css/ttf/FiraSans-Four: {digest: /assets/css/ttf/FiraSans-Four.ttf, sri: ''}
+  css/ttf/FiraSans-FourItalic: {digest: /assets/css/ttf/FiraSans-FourItalic.ttf, sri: ''}
+  css/ttf/FiraSans-Hair: {digest: /assets/css/ttf/FiraSans-Hair.ttf, sri: ''}
+  css/ttf/FiraSans-HairItalic: {digest: /assets/css/ttf/FiraSans-HairItalic.ttf, sri: ''}
+  css/ttf/FiraSans-Heavy: {digest: /assets/css/ttf/FiraSans-Heavy.ttf, sri: ''}
+  css/ttf/FiraSans-HeavyItalic: {digest: /assets/css/ttf/FiraSans-HeavyItalic.ttf,
+    sri: ''}
+  css/ttf/FiraSans-Italic: {digest: /assets/css/ttf/FiraSans-Italic.ttf, sri: ''}
+  css/ttf/FiraSans-Light: {digest: /assets/css/ttf/FiraSans-Light.ttf, sri: ''}
+  css/ttf/FiraSans-LightItalic: {digest: /assets/css/ttf/FiraSans-LightItalic.ttf,
+    sri: ''}
+  css/ttf/FiraSans-Medium: {digest: /assets/css/ttf/FiraSans-Medium.ttf, sri: ''}
+  css/ttf/FiraSans-MediumItalic: {digest: /assets/css/ttf/FiraSans-MediumItalic.ttf,
+    sri: ''}
+  css/ttf/FiraSans-Regular: {digest: /assets/css/ttf/FiraSans-Regular.ttf, sri: ''}
+  css/ttf/FiraSans-SemiBold: {digest: /assets/css/ttf/FiraSans-SemiBold.ttf, sri: ''}
+  css/ttf/FiraSans-SemiBoldItalic: {digest: /assets/css/ttf/FiraSans-SemiBoldItalic.ttf,
+    sri: ''}
+  css/ttf/FiraSans-Thin: {digest: /assets/css/ttf/FiraSans-Thin.ttf, sri: ''}
+  css/ttf/FiraSans-ThinItalic: {digest: /assets/css/ttf/FiraSans-ThinItalic.ttf, sri: ''}
+  css/ttf/FiraSans-Two: {digest: /assets/css/ttf/FiraSans-Two.ttf, sri: ''}
+  css/ttf/FiraSans-TwoItalic: {digest: /assets/css/ttf/FiraSans-TwoItalic.ttf, sri: ''}
+  css/ttf/FiraSans-Ultra: {digest: /assets/css/ttf/FiraSans-Ultra.ttf, sri: ''}
+  css/ttf/FiraSans-UltraItalic: {digest: /assets/css/ttf/FiraSans-UltraItalic.ttf,
+    sri: ''}
+  css/ttf/FiraSans-UltraLight: {digest: /assets/css/ttf/FiraSans-UltraLight.ttf, sri: ''}
+  css/ttf/FiraSans-UltraLightItalic: {digest: /assets/css/ttf/FiraSans-UltraLightItalic.ttf,
+    sri: ''}
+  fonts/ionicons: {digest: /assets/fonts/ionicons.ttf, sri: ''}
+woff:
+  css/woff/FiraMono-Bold: {digest: /assets/css/woff/FiraMono-Bold.woff, sri: ''}
+  css/woff/FiraMono-Medium: {digest: /assets/css/woff/FiraMono-Medium.woff, sri: ''}
+  css/woff/FiraMono-Regular: {digest: /assets/css/woff/FiraMono-Regular.woff, sri: ''}
+  css/woff/FiraSans-Bold: {digest: /assets/css/woff/FiraSans-Bold.woff, sri: ''}
+  css/woff/FiraSans-BoldItalic: {digest: /assets/css/woff/FiraSans-BoldItalic.woff,
+    sri: ''}
+  css/woff/FiraSans-Book: {digest: /assets/css/woff/FiraSans-Book.woff, sri: ''}
+  css/woff/FiraSans-BookItalic: {digest: /assets/css/woff/FiraSans-BookItalic.woff,
+    sri: ''}
+  css/woff/FiraSans-Eight: {digest: /assets/css/woff/FiraSans-Eight.woff, sri: ''}
+  css/woff/FiraSans-EightItalic: {digest: /assets/css/woff/FiraSans-EightItalic.woff,
+    sri: ''}
+  css/woff/FiraSans-ExtraBold: {digest: /assets/css/woff/FiraSans-ExtraBold.woff,
+    sri: ''}
+  css/woff/FiraSans-ExtraBoldItalic: {digest: /assets/css/woff/FiraSans-ExtraBoldItalic.woff,
+    sri: ''}
+  css/woff/FiraSans-ExtraLight: {digest: /assets/css/woff/FiraSans-ExtraLight.woff,
+    sri: ''}
+  css/woff/FiraSans-ExtraLightItalic: {digest: /assets/css/woff/FiraSans-ExtraLightItalic.woff,
+    sri: ''}
+  css/woff/FiraSans-Four: {digest: /assets/css/woff/FiraSans-Four.woff, sri: ''}
+  css/woff/FiraSans-FourItalic: {digest: /assets/css/woff/FiraSans-FourItalic.woff,
+    sri: ''}
+  css/woff/FiraSans-Hair: {digest: /assets/css/woff/FiraSans-Hair.woff, sri: ''}
+  css/woff/FiraSans-HairItalic: {digest: /assets/css/woff/FiraSans-HairItalic.woff,
+    sri: ''}
+  css/woff/FiraSans-Heavy: {digest: /assets/css/woff/FiraSans-Heavy.woff, sri: ''}
+  css/woff/FiraSans-HeavyItalic: {digest: /assets/css/woff/FiraSans-HeavyItalic.woff,
+    sri: ''}
+  css/woff/FiraSans-Italic: {digest: /assets/css/woff/FiraSans-Italic.woff, sri: ''}
+  css/woff/FiraSans-Light: {digest: /assets/css/woff/FiraSans-Light.woff, sri: ''}
+  css/woff/FiraSans-LightItalic: {digest: /assets/css/woff/FiraSans-LightItalic.woff,
+    sri: ''}
+  css/woff/FiraSans-Medium: {digest: /assets/css/woff/FiraSans-Medium.woff, sri: ''}
+  css/woff/FiraSans-MediumItalic: {digest: /assets/css/woff/FiraSans-MediumItalic.woff,
+    sri: ''}
+  css/woff/FiraSans-Regular: {digest: /assets/css/woff/FiraSans-Regular.woff, sri: ''}
+  css/woff/FiraSans-SemiBold: {digest: /assets/css/woff/FiraSans-SemiBold.woff, sri: ''}
+  css/woff/FiraSans-SemiBoldItalic: {digest: /assets/css/woff/FiraSans-SemiBoldItalic.woff,
+    sri: ''}
+  css/woff/FiraSans-Thin: {digest: /assets/css/woff/FiraSans-Thin.woff, sri: ''}
+  css/woff/FiraSans-ThinItalic: {digest: /assets/css/woff/FiraSans-ThinItalic.woff,
+    sri: ''}
+  css/woff/FiraSans-Two: {digest: /assets/css/woff/FiraSans-Two.woff, sri: ''}
+  css/woff/FiraSans-TwoItalic: {digest: /assets/css/woff/FiraSans-TwoItalic.woff,
+    sri: ''}
+  css/woff/FiraSans-Ultra: {digest: /assets/css/woff/FiraSans-Ultra.woff, sri: ''}
+  css/woff/FiraSans-UltraItalic: {digest: /assets/css/woff/FiraSans-UltraItalic.woff,
+    sri: ''}
+  css/woff/FiraSans-UltraLight: {digest: /assets/css/woff/FiraSans-UltraLight.woff,
+    sri: ''}
+  css/woff/FiraSans-UltraLightItalic: {digest: /assets/css/woff/FiraSans-UltraLightItalic.woff,
+    sri: ''}
+  fonts/ionicons: {digest: /assets/fonts/ionicons.woff, sri: ''}
+woff2:
+  css/woff2/FiraMono-Bold: {digest: /assets/css/woff2/FiraMono-Bold.woff2, sri: ''}
+  css/woff2/FiraMono-Medium: {digest: /assets/css/woff2/FiraMono-Medium.woff2, sri: ''}
+  css/woff2/FiraMono-Regular: {digest: /assets/css/woff2/FiraMono-Regular.woff2, sri: ''}
+  css/woff2/FiraSans-Bold: {digest: /assets/css/woff2/FiraSans-Bold.woff2, sri: ''}
+  css/woff2/FiraSans-BoldItalic: {digest: /assets/css/woff2/FiraSans-BoldItalic.woff2,
+    sri: ''}
+  css/woff2/FiraSans-Book: {digest: /assets/css/woff2/FiraSans-Book.woff2, sri: ''}
+  css/woff2/FiraSans-BookItalic: {digest: /assets/css/woff2/FiraSans-BookItalic.woff2,
+    sri: ''}
+  css/woff2/FiraSans-Eight: {digest: /assets/css/woff2/FiraSans-Eight.woff2, sri: ''}
+  css/woff2/FiraSans-EightItalic: {digest: /assets/css/woff2/FiraSans-EightItalic.woff2,
+    sri: ''}
+  css/woff2/FiraSans-ExtraBold: {digest: /assets/css/woff2/FiraSans-ExtraBold.woff2,
+    sri: ''}
+  css/woff2/FiraSans-ExtraBoldItalic: {digest: /assets/css/woff2/FiraSans-ExtraBoldItalic.woff2,
+    sri: ''}
+  css/woff2/FiraSans-ExtraLight: {digest: /assets/css/woff2/FiraSans-ExtraLight.woff2,
+    sri: ''}
+  css/woff2/FiraSans-ExtraLightItalic: {digest: /assets/css/woff2/FiraSans-ExtraLightItalic.woff2,
+    sri: ''}
+  css/woff2/FiraSans-Four: {digest: /assets/css/woff2/FiraSans-Four.woff2, sri: ''}
+  css/woff2/FiraSans-FourItalic: {digest: /assets/css/woff2/FiraSans-FourItalic.woff2,
+    sri: ''}
+  css/woff2/FiraSans-Hair: {digest: /assets/css/woff2/FiraSans-Hair.woff2, sri: ''}
+  css/woff2/FiraSans-HairItalic: {digest: /assets/css/woff2/FiraSans-HairItalic.woff2,
+    sri: ''}
+  css/woff2/FiraSans-Heavy: {digest: /assets/css/woff2/FiraSans-Heavy.woff2, sri: ''}
+  css/woff2/FiraSans-HeavyItalic: {digest: /assets/css/woff2/FiraSans-HeavyItalic.woff2,
+    sri: ''}
+  css/woff2/FiraSans-Italic: {digest: /assets/css/woff2/FiraSans-Italic.woff2, sri: ''}
+  css/woff2/FiraSans-Light: {digest: /assets/css/woff2/FiraSans-Light.woff2, sri: ''}
+  css/woff2/FiraSans-LightItalic: {digest: /assets/css/woff2/FiraSans-LightItalic.woff2,
+    sri: ''}
+  css/woff2/FiraSans-Medium: {digest: /assets/css/woff2/FiraSans-Medium.woff2, sri: ''}
+  css/woff2/FiraSans-MediumItalic: {digest: /assets/css/woff2/FiraSans-MediumItalic.woff2,
+    sri: ''}
+  css/woff2/FiraSans-Regular: {digest: /assets/css/woff2/FiraSans-Regular.woff2, sri: ''}
+  css/woff2/FiraSans-SemiBold: {digest: /assets/css/woff2/FiraSans-SemiBold.woff2,
+    sri: ''}
+  css/woff2/FiraSans-SemiBoldItalic: {digest: /assets/css/woff2/FiraSans-SemiBoldItalic.woff2,
+    sri: ''}
+  css/woff2/FiraSans-Thin: {digest: /assets/css/woff2/FiraSans-Thin.woff2, sri: ''}
+  css/woff2/FiraSans-ThinItalic: {digest: /assets/css/woff2/FiraSans-ThinItalic.woff2,
+    sri: ''}
+  css/woff2/FiraSans-Two: {digest: /assets/css/woff2/FiraSans-Two.woff2, sri: ''}
+  css/woff2/FiraSans-TwoItalic: {digest: /assets/css/woff2/FiraSans-TwoItalic.woff2,
+    sri: ''}
+  css/woff2/FiraSans-Ultra: {digest: /assets/css/woff2/FiraSans-Ultra.woff2, sri: ''}
+  css/woff2/FiraSans-UltraItalic: {digest: /assets/css/woff2/FiraSans-UltraItalic.woff2,
+    sri: ''}
+  css/woff2/FiraSans-UltraLight: {digest: /assets/css/woff2/FiraSans-UltraLight.woff2,
+    sri: ''}
+  css/woff2/FiraSans-UltraLightItalic: {digest: /assets/css/woff2/FiraSans-UltraLightItalic.woff2,
+    sri: ''}
+  fonts/ionicons: {digest: /assets/fonts/ionicons.woff2, sri: ''}
+xml:
+  favicons/browserconfig: {digest: /assets/favicons/browserconfig.xml, sri: ''}

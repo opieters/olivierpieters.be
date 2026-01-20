@@ -1,0 +1,52 @@
+map: false
+picture_path: stonehenge-2016
+title: "Stonehenge"
+pictures:
+- filename: CYM-0092
+  original: CYM-0092-6000x4000.jpg
+  sizes:
+  - CYM-0092-1732x1155.jpg
+  - CYM-0092-3872x2581.jpg
+  thumbnail: CYM-0092-thumbnail.jpg
+- filename: CYM-0100
+  original: CYM-0100-6000x4000.jpg
+  sizes:
+  - CYM-0100-3872x2581.jpg
+  - CYM-0100-1732x1155.jpg
+  thumbnail: CYM-0100-thumbnail.jpg
+- filename: CYM-0117
+  original: CYM-0117-6000x4000.jpg
+  sizes:
+  - CYM-0117-3872x2581.jpg
+  - CYM-0117-1732x1155.jpg
+  thumbnail: CYM-0117-thumbnail.jpg
+- filename: CYM-0162
+  original: CYM-0162-3872x2581.jpg
+  sizes:
+  - CYM-0162-1732x1155.jpg
+  - CYM-0162-3872x2581.jpg
+  thumbnail: CYM-0162-thumbnail.jpg
+- filename: CYM-0171
+  original: CYM-0171-3872x2581.jpg
+  sizes:
+  - CYM-0171-1732x1155.jpg
+  - CYM-0171-3872x2581.jpg
+  thumbnail: CYM-0171-thumbnail.jpg
+- filename: CYM-0200
+  original: CYM-0200-6000x4000.jpg
+  sizes:
+  - CYM-0200-1732x1155.jpg
+  - CYM-0200-3872x2581.jpg
+  thumbnail: CYM-0200-thumbnail.jpg
+- filename: CYM-0233
+  original: CYM-0233-4000x6000.jpg
+  sizes:
+  - CYM-0233-1155x1732.jpg
+  - CYM-0233-2581x3872.jpg
+  thumbnail: CYM-0233-thumbnail.jpg
+- filename: CYM-0267
+  original: CYM-0267-6000x4000.jpg
+  sizes:
+  - CYM-0267-1732x1155.jpg
+  - CYM-0267-3872x2581.jpg
+  thumbnail: CYM-0267-thumbnail.jpg

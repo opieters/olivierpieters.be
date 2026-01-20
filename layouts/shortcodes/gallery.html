@@ -1,0 +1,10 @@
+{{ $data := index $.Site.Data.galleries (.Get 0) }}
+<div id="image-gallery0" class="image-gallery" >  
+{{ range $idx, $image := $data.pictures }}
+<div class="image-wrapper">
+    <a href="https://olivierpieters.be/images/{{ $data.picture_path }}/{{ $image.original }}" data-responsive="{{ range $image.sizes }}{{ $a := split . "-"  }}{{ $width := index (split (index $a (sub (len $a) 1)) "x") 0 }} https://olivierpieters.be/images/{{ $data.picture_path }}/{{ .}} {{ $width }}, {{ end }}" class="image">
+        <img id="$idx" alt="{{ $image.filename }}" src="https://olivierpieters.be/images/{{ $data.picture_path }}/{{ $image.thumbnail }}" /> 
+    </a> 
+</div> 
+{{ end }}
+</div>

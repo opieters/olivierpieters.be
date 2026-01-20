@@ -1,0 +1,332 @@
+map: false
+picture_path: wales-2016
+title: "Wales"
+pictures:
+- filename: CYM-0293
+  original: CYM-0293-6000x4000.jpg
+  sizes:
+  - CYM-0293-1732x1155.jpg
+  - CYM-0293-3872x2581.jpg
+  thumbnail: CYM-0293-thumbnail.jpg
+- filename: CYM-0304
+  original: CYM-0304-3872x2581.jpg
+  sizes:
+  - CYM-0304-1732x1155.jpg
+  - CYM-0304-3872x2581.jpg
+  thumbnail: CYM-0304-thumbnail.jpg
+- filename: CYM-0481
+  original: CYM-0481-6000x4000.jpg
+  sizes:
+  - CYM-0481-3872x2581.jpg
+  - CYM-0481-1732x1155.jpg
+  thumbnail: CYM-0481-thumbnail.jpg
+- filename: CYM-0514
+  original: CYM-0514-6000x4000.jpg
+  sizes:
+  - CYM-0514-1732x1155.jpg
+  - CYM-0514-3872x2581.jpg
+  thumbnail: CYM-0514-thumbnail.jpg
+- filename: CYM-0545
+  original: CYM-0545-6000x4000.jpg
+  sizes:
+  - CYM-0545-3872x2581.jpg
+  - CYM-0545-1732x1155.jpg
+  thumbnail: CYM-0545-thumbnail.jpg
+- filename: CYM-0604
+  original: CYM-0604-6000x4000.jpg
+  sizes:
+  - CYM-0604-3872x2581.jpg
+  - CYM-0604-1732x1155.jpg
+  thumbnail: CYM-0604-thumbnail.jpg
+- filename: CYM-0629
+  original: CYM-0629-6000x4000.jpg
+  sizes:
+  - CYM-0629-3872x2581.jpg
+  - CYM-0629-1732x1155.jpg
+  thumbnail: CYM-0629-thumbnail.jpg
+- filename: CYM-0654
+  original: CYM-0654-6000x4000.jpg
+  sizes:
+  - CYM-0654-3872x2581.jpg
+  - CYM-0654-1732x1155.jpg
+  thumbnail: CYM-0654-thumbnail.jpg
+- filename: CYM-0655
+  original: CYM-0655-6000x4000.jpg
+  sizes:
+  - CYM-0655-1732x1155.jpg
+  - CYM-0655-3872x2581.jpg
+  thumbnail: CYM-0655-thumbnail.jpg
+- filename: CYM-0674
+  original: CYM-0674-6000x4000.jpg
+  sizes:
+  - CYM-0674-3872x2581.jpg
+  - CYM-0674-1732x1155.jpg
+  thumbnail: CYM-0674-thumbnail.jpg
+- filename: CYM-0728
+  original: CYM-0728-6000x4000.jpg
+  sizes:
+  - CYM-0728-1732x1155.jpg
+  - CYM-0728-3872x2581.jpg
+  thumbnail: CYM-0728-thumbnail.jpg
+- filename: CYM-0742
+  original: CYM-0742-3872x2581.jpg
+  sizes:
+  - CYM-0742-1732x1155.jpg
+  - CYM-0742-3872x2581.jpg
+  thumbnail: CYM-0742-thumbnail.jpg
+- filename: CYM-0748
+  original: CYM-0748-6000x4000.jpg
+  sizes:
+  - CYM-0748-1732x1155.jpg
+  - CYM-0748-3872x2581.jpg
+  thumbnail: CYM-0748-thumbnail.jpg
+- filename: CYM-0758
+  original: CYM-0758-6000x4000.jpg
+  sizes:
+  - CYM-0758-1732x1155.jpg
+  - CYM-0758-3872x2581.jpg
+  thumbnail: CYM-0758-thumbnail.jpg
+- filename: CYM-0804
+  original: CYM-0804-6000x4000.jpg
+  sizes:
+  - CYM-0804-3872x2581.jpg
+  - CYM-0804-1732x1155.jpg
+  thumbnail: CYM-0804-thumbnail.jpg
+- filename: CYM-0807
+  original: CYM-0807-6000x4000.jpg
+  sizes:
+  - CYM-0807-3872x2581.jpg
+  - CYM-0807-1732x1155.jpg
+  thumbnail: CYM-0807-thumbnail.jpg
+- filename: CYM-0809
+  original: CYM-0809-6000x4000.jpg
+  sizes:
+  - CYM-0809-3872x2581.jpg
+  - CYM-0809-1732x1155.jpg
+  thumbnail: CYM-0809-thumbnail.jpg
+- filename: CYM-0812
+  original: CYM-0812-6000x4000.jpg
+  sizes:
+  - CYM-0812-1732x1155.jpg
+  - CYM-0812-3872x2581.jpg
+  thumbnail: CYM-0812-thumbnail.jpg
+- filename: CYM-0843
+  original: CYM-0843-6000x4000.jpg
+  sizes:
+  - CYM-0843-3872x2581.jpg
+  - CYM-0843-1732x1155.jpg
+  thumbnail: CYM-0843-thumbnail.jpg
+- filename: CYM-0844
+  original: CYM-0844-6000x4000.jpg
+  sizes:
+  - CYM-0844-3872x2581.jpg
+  - CYM-0844-1732x1155.jpg
+  thumbnail: CYM-0844-thumbnail.jpg
+- filename: CYM-0878
+  original: CYM-0878-3872x2581.jpg
+  sizes:
+  - CYM-0878-1732x1155.jpg
+  - CYM-0878-3872x2581.jpg
+  thumbnail: CYM-0878-thumbnail.jpg
+- filename: CYM-0899
+  original: CYM-0899-6000x4000.jpg
+  sizes:
+  - CYM-0899-3872x2581.jpg
+  - CYM-0899-1732x1155.jpg
+  thumbnail: CYM-0899-thumbnail.jpg
+- filename: CYM-0907
+  original: CYM-0907-6000x4000.jpg
+  sizes:
+  - CYM-0907-3872x2581.jpg
+  - CYM-0907-1732x1155.jpg
+  thumbnail: CYM-0907-thumbnail.jpg
+- filename: CYM-0958
+  original: CYM-0958-3872x2581.jpg
+  sizes:
+  - CYM-0958-1732x1155.jpg
+  - CYM-0958-3872x2581.jpg
+  thumbnail: CYM-0958-thumbnail.jpg
+- filename: CYM-0969
+  original: CYM-0969-6000x4000.jpg
+  sizes:
+  - CYM-0969-3872x2581.jpg
+  - CYM-0969-1732x1155.jpg
+  thumbnail: CYM-0969-thumbnail.jpg
+- filename: CYM-0994
+  original: CYM-0994-6000x4000.jpg
+  sizes:
+  - CYM-0994-3872x2581.jpg
+  - CYM-0994-1732x1155.jpg
+  thumbnail: CYM-0994-thumbnail.jpg
+- filename: CYM-1020
+  original: CYM-1020-6000x4000.jpg
+  sizes:
+  - CYM-1020-3872x2581.jpg
+  - CYM-1020-1732x1155.jpg
+  thumbnail: CYM-1020-thumbnail.jpg
+- filename: CYM-1027
+  original: CYM-1027-6000x4000.jpg
+  sizes:
+  - CYM-1027-3872x2581.jpg
+  - CYM-1027-1732x1155.jpg
+  thumbnail: CYM-1027-thumbnail.jpg
+- filename: CYM-1038
+  original: CYM-1038-3872x2581.jpg
+  sizes:
+  - CYM-1038-1732x1155.jpg
+  - CYM-1038-3872x2581.jpg
+  thumbnail: CYM-1038-thumbnail.jpg
+- filename: CYM-1050-1039-PANO
+  original: CYM-1050-1039-PANO-10070x3329.jpg
+  sizes:
+  - CYM-1050-1039-PANO-2459x813.jpg
+  - CYM-1050-1039-PANO-5500x1818.jpg
+  thumbnail: CYM-1050-1039-PANO-thumbnail.jpg
+- filename: CYM-1063
+  original: CYM-1063-6000x4000.jpg
+  sizes:
+  - CYM-1063-3872x2581.jpg
+  - CYM-1063-1732x1155.jpg
+  thumbnail: CYM-1063-thumbnail.jpg
+- filename: CYM-1084
+  original: CYM-1084-6000x4000.jpg
+  sizes:
+  - CYM-1084-3872x2581.jpg
+  - CYM-1084-1732x1155.jpg
+  thumbnail: CYM-1084-thumbnail.jpg
+- filename: CYM-1087
+  original: CYM-1087-6000x4000.jpg
+  sizes:
+  - CYM-1087-3872x2581.jpg
+  - CYM-1087-1732x1155.jpg
+  thumbnail: CYM-1087-thumbnail.jpg
+- filename: CYM-1105
+  original: CYM-1105-6000x4000.jpg
+  sizes:
+  - CYM-1105-1732x1155.jpg
+  - CYM-1105-3872x2581.jpg
+  thumbnail: CYM-1105-thumbnail.jpg
+- filename: CYM-1114
+  original: CYM-1114-6000x4000.jpg
+  sizes:
+  - CYM-1114-3872x2581.jpg
+  - CYM-1114-1732x1155.jpg
+  thumbnail: CYM-1114-thumbnail.jpg
+- filename: CYM-1117
+  original: CYM-1117-6000x4000.jpg
+  sizes:
+  - CYM-1117-3872x2581.jpg
+  - CYM-1117-1732x1155.jpg
+  thumbnail: CYM-1117-thumbnail.jpg
+- filename: CYM-1123
+  original: CYM-1123-6000x4000.jpg
+  sizes:
+  - CYM-1123-3872x2581.jpg
+  - CYM-1123-1732x1155.jpg
+  thumbnail: CYM-1123-thumbnail.jpg
+
+- filename: CYM-1130
+  original: CYM-1130-6000x4000.jpg
+  sizes:
+  - CYM-1130-3872x2581.jpg
+  - CYM-1130-1732x1155.jpg
+  thumbnail: CYM-1130-thumbnail.jpg
+- filename: CYM-1169
+  original: CYM-1169-6000x4000.jpg
+  sizes:
+  - CYM-1169-3872x2581.jpg
+  - CYM-1169-1732x1155.jpg
+  thumbnail: CYM-1169-thumbnail.jpg
+- filename: CYM-1172
+  original: CYM-1172-6000x4000.jpg
+  sizes:
+  - CYM-1172-1732x1155.jpg
+  - CYM-1172-3872x2581.jpg
+  thumbnail: CYM-1172-thumbnail.jpg
+- filename: CYM-1178
+  original: CYM-1178-3872x2581.jpg
+  sizes:
+  - CYM-1178-1732x1155.jpg
+  - CYM-1178-3872x2581.jpg
+  thumbnail: CYM-1178-thumbnail.jpg
+- filename: CYM-1242
+  original: CYM-1242-6000x4000.jpg
+  sizes:
+  - CYM-1242-3872x2581.jpg
+  - CYM-1242-1732x1155.jpg
+  thumbnail: CYM-1242-thumbnail.jpg
+- filename: CYM-1247
+  original: CYM-1247-6000x4000.jpg
+  sizes:
+  - CYM-1247-1732x1155.jpg
+  - CYM-1247-3872x2581.jpg
+  thumbnail: CYM-1247-thumbnail.jpg
+- filename: CYM-1266
+  original: CYM-1266-6000x4000.jpg
+  sizes:
+  - CYM-1266-3872x2581.jpg
+  - CYM-1266-1732x1155.jpg
+  thumbnail: CYM-1266-thumbnail.jpg
+- filename: CYM-1291
+  original: CYM-1291-6000x4000.jpg
+  sizes:
+  - CYM-1291-3872x2581.jpg
+  - CYM-1291-1732x1155.jpg
+  thumbnail: CYM-1291-thumbnail.jpg
+- filename: CYM-1320
+  original: CYM-1320-3872x2581.jpg
+  sizes:
+  - CYM-1320-1732x1155.jpg
+  - CYM-1320-3872x2581.jpg
+  thumbnail: CYM-1320-thumbnail.jpg
+- filename: CYM-1327
+  original: CYM-1327-3872x2581.jpg
+  sizes:
+  - CYM-1327-1732x1155.jpg
+  - CYM-1327-3872x2581.jpg
+  thumbnail: CYM-1327-thumbnail.jpg
+- filename: CYM-1359
+  original: CYM-1359-6000x4000.jpg
+  sizes:
+  - CYM-1359-1732x1155.jpg
+  - CYM-1359-3872x2581.jpg
+  thumbnail: CYM-1359-thumbnail.jpg
+
+
+
+- filename: CYM-1463
+  original: CYM-1463-6000x4000.jpg
+  sizes:
+  - CYM-1463-1732x1155.jpg
+  - CYM-1463-3872x2581.jpg
+  thumbnail: CYM-1463-thumbnail.jpg
+- filename: CYM-1534
+  original: CYM-1534-6000x4000.jpg
+  sizes:
+  - CYM-1534-1732x1155.jpg
+  - CYM-1534-3872x2581.jpg
+  thumbnail: CYM-1534-thumbnail.jpg
+- filename: CYM-1560
+  original: CYM-1560-3872x2581.jpg
+  sizes:
+  - CYM-1560-1732x1155.jpg
+  - CYM-1560-3872x2581.jpg
+  thumbnail: CYM-1560-thumbnail.jpg
+- filename: CYM-1590
+  original: CYM-1590-3872x2581.jpg
+  sizes:
+  - CYM-1590-1732x1155.jpg
+  - CYM-1590-3872x2581.jpg
+  thumbnail: CYM-1590-thumbnail.jpg
+- filename: CYM-1619
+  original: CYM-1619-6000x4000.jpg
+  sizes:
+  - CYM-1619-3872x2581.jpg
+  - CYM-1619-1732x1155.jpg
+  thumbnail: CYM-1619-thumbnail.jpg
+- filename: CYM-1624
+  original: CYM-1624-6000x4000.jpg
+  sizes:
+  - CYM-1624-3872x2581.jpg
+  - CYM-1624-1732x1155.jpg
+  thumbnail: CYM-1624-thumbnail.jpg

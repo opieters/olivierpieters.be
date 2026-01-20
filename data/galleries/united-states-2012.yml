@@ -1,0 +1,443 @@
+picture_path: united-states-2012
+title: United States
+pictures:
+- GPS:
+    longitude: -118.30033611111111
+    latitude: 34.11816388888889
+  filename: US-2012-0112
+  original: US-2012-0112-6000x4000.jpg
+  sizes:
+  - US-2012-0112-4242x2828.jpg
+  - US-2012-0112-2121x1414.jpg
+  - US-2012-0112-2999x1999.jpg
+  thumbnail: US-2012-0112-thumbnail.jpg
+- GPS:
+    longitude: -118.47463611111111
+    latitude: 34.07754444444445
+  filename: US-2012-0175
+  original: US-2012-0175-4252x3865.jpg
+  sizes:
+  - US-2012-0175-3632x3302.jpg
+  - US-2012-0175-1816x1651.jpg
+  - US-2012-0175-2568x2335.jpg
+  thumbnail: US-2012-0175-thumbnail.jpg
+
+- GPS:
+    longitude: -112.22249166666667
+    latitude: 36.110952777777776
+  filename: US-2012-0628
+  original: US-2012-0628-6000x4000.jpg
+  sizes:
+  - US-2012-0628-4242x2828.jpg
+  - US-2012-0628-2121x1414.jpg
+  - US-2012-0628-2999x1999.jpg
+  thumbnail: US-2012-0628-thumbnail.jpg
+
+- GPS:
+    longitude: -112.08687777777777
+    latitude: 35.99673611111111
+  filename: US-2012-0858
+  original: US-2012-0858-6000x4000.jpg
+  sizes:
+  - US-2012-0858-4242x2828.jpg
+  - US-2012-0858-2121x1414.jpg
+  - US-2012-0858-2999x1999.jpg
+  thumbnail: US-2012-0858-thumbnail.jpg
+
+- GPS:
+    longitude: -110.09229166666667
+    latitude: 36.98319166666667
+  filename: US-2012-1159
+  original: US-2012-1159-6000x4000.jpg
+  sizes:
+  - US-2012-1159-4242x2828.jpg
+  - US-2012-1159-2121x1414.jpg
+  - US-2012-1159-2999x1999.jpg
+  thumbnail: US-2012-1159-thumbnail.jpg
+
+- GPS:
+    longitude: -110.25468333333333
+    latitude: 36.72963611111111
+  filename: US-2012-1190
+  original: US-2012-1190-6000x4000.jpg
+  sizes:
+  - US-2012-1190-4242x2828.jpg
+  - US-2012-1190-2121x1414.jpg
+  - US-2012-1190-2999x1999.jpg
+  thumbnail: US-2012-1190-thumbnail.jpg
+
+- GPS:
+    longitude: -109.93968333333333
+    latitude: 37.279555555555554
+  filename: US-2012-1295
+  original: US-2012-1295-7776x1856.jpg
+  sizes:
+  - US-2012-1295-7090x1692.jpg
+  - US-2012-1295-3545x846.jpg
+  - US-2012-1295-5013x1197.jpg
+  thumbnail: US-2012-1295-thumbnail.jpg
+- GPS:
+    longitude: -110.00727222222223
+    latitude: 37.615991666666666
+  filename: US-2012-1369
+  original: US-2012-1369-6000x4000.jpg
+  sizes:
+  - US-2012-1369-4242x2828.jpg
+  - US-2012-1369-2121x1414.jpg
+  - US-2012-1369-2999x1999.jpg
+  thumbnail: US-2012-1369-thumbnail.jpg
+- GPS:
+    longitude: -109.53793888888889
+    latitude: 38.687577777777776
+  filename: US-2012-1582
+  original: US-2012-1582-4999x3333.jpg
+  sizes:
+  - US-2012-1582-4242x2828.jpg
+  - US-2012-1582-2121x1414.jpg
+  - US-2012-1582-3000x2000.jpg
+  thumbnail: US-2012-1582-thumbnail.jpg
+- GPS:
+    longitude: -109.55566388888889
+    latitude: 38.71949444444444
+  filename: US-2012-1604
+  original: US-2012-1604-8192x1856.jpg
+  sizes:
+  - US-2012-1604-7277x1649.jpg
+  - US-2012-1604-3638x824.jpg
+  - US-2012-1604-5146x1166.jpg
+  thumbnail: US-2012-1604-thumbnail.jpg
+- GPS:
+    longitude: -109.87521944444444
+    latitude: 38.39746111111111
+  filename: US-2012-1720
+  original: US-2012-1720-6000x4000.jpg
+  sizes:
+  - US-2012-1720-4242x2828.jpg
+  - US-2012-1720-2121x1414.jpg
+  - US-2012-1720-2999x1999.jpg
+  thumbnail: US-2012-1720-thumbnail.jpg
+- GPS:
+    longitude: -109.88798611111112
+    latitude: 38.37931388888889
+  filename: US-2012-1801
+  original: US-2012-1801-6000x4000.jpg
+  sizes:
+  - US-2012-1801-4242x2828.jpg
+  - US-2012-1801-2121x1414.jpg
+  - US-2012-1801-2999x1999.jpg
+  thumbnail: US-2012-1801-thumbnail.jpg
+- GPS:
+    longitude: -110.7147638888889
+    latitude: 43.76251388888889
+  filename: US-2012-2094
+  original: US-2012-2094-6000x4000.jpg
+  sizes:
+  - US-2012-2094-4242x2828.jpg
+  - US-2012-2094-2121x1414.jpg
+  - US-2012-2094-2999x1999.jpg
+  thumbnail: US-2012-2094-thumbnail.jpg
+- GPS:
+    longitude: -110.72283333333334
+    latitude: 43.776894444444444
+  filename: US-2012-2131
+  original: US-2012-2131-6000x4000.jpg
+  sizes:
+  - US-2012-2131-4242x2828.jpg
+  - US-2012-2131-2121x1414.jpg
+  - US-2012-2131-2999x1999.jpg
+  thumbnail: US-2012-2131-thumbnail.jpg
+- GPS:
+    longitude: -110.72283333333334
+    latitude: 43.776894444444444
+  filename: US-2012-2195
+  original: US-2012-2195-6000x4000.jpg
+  sizes:
+  - US-2012-2195-4242x2828.jpg
+  - US-2012-2195-2121x1414.jpg
+  - US-2012-2195-2999x1999.jpg
+  thumbnail: US-2012-2195-thumbnail.jpg
+- GPS:
+    longitude: -110.55541388888889
+    latitude: 43.86631666666667
+  filename: US-2012-2308
+  original: US-2012-2308-6000x4000.jpg
+  sizes:
+  - US-2012-2308-4242x2828.jpg
+  - US-2012-2308-2121x1414.jpg
+  - US-2012-2308-2999x1999.jpg
+  thumbnail: US-2012-2308-thumbnail.jpg
+- filename: US-2012-2427
+  original: US-2012-2427-6000x4000.jpg
+  sizes:
+  - US-2012-2427-4242x2828.jpg
+  - US-2012-2427-2121x1414.jpg
+  - US-2012-2427-2999x1999.jpg
+  thumbnail: US-2012-2427-thumbnail.jpg
+- GPS:
+    longitude: -110.82993888888889
+    latitude: 44.46183611111111
+  filename: US-2012-2637
+  original: US-2012-2637-4000x6000.jpg
+  sizes:
+  - US-2012-2637-2828x4242.jpg
+  - US-2012-2637-1414x2121.jpg
+  - US-2012-2637-1999x2999.jpg
+  thumbnail: US-2012-2637-thumbnail.jpg
+- filename: US-2012-2859
+  original: US-2012-2859-3866x2577.jpg
+  sizes:
+  - US-2012-2859-2121x1414.jpg
+  - US-2012-2859-3000x2000.jpg
+  - US-2012-2859-3866x2577.jpg
+  thumbnail: US-2012-2859-thumbnail.jpg
+- GPS:
+    longitude: -110.74685555555556
+    latitude: 44.701675
+  filename: US-2012-2910
+  original: US-2012-2910-6000x4000.jpg
+  sizes:
+  - US-2012-2910-4242x2828.jpg
+  - US-2012-2910-2121x1414.jpg
+  - US-2012-2910-2999x1999.jpg
+  thumbnail: US-2012-2910-thumbnail.jpg
+- GPS:
+    longitude: -110.72963611111112
+    latitude: 44.89108611111111
+  filename: US-2012-2943
+  original: US-2012-2943-6000x4000.jpg
+  sizes:
+  - US-2012-2943-4242x2828.jpg
+  - US-2012-2943-2121x1414.jpg
+  - US-2012-2943-2999x1999.jpg
+  thumbnail: US-2012-2943-thumbnail.jpg
+- GPS:
+    longitude: -110.49499444444444
+    latitude: 44.7351
+  filename: US-2012-3234
+  original: US-2012-3234-6000x4000.jpg
+  sizes:
+  - US-2012-3234-4242x2828.jpg
+  - US-2012-3234-2121x1414.jpg
+  - US-2012-3234-2999x1999.jpg
+  thumbnail: US-2012-3234-thumbnail.jpg
+
+- GPS:
+    longitude: -112.1616
+    latitude: 37.656555555555556
+  filename: US-2012-3456
+  original: US-2012-3456-6000x4000.jpg
+  sizes:
+  - US-2012-3456-4242x2828.jpg
+  - US-2012-3456-2121x1414.jpg
+  - US-2012-3456-2999x1999.jpg
+  thumbnail: US-2012-3456-thumbnail.jpg
+- GPS:
+    longitude: -112.16457222222223
+    latitude: 37.63047777777778
+  filename: US-2012-3774
+  original: US-2012-3774-5505x3670.jpg
+  sizes:
+  - US-2012-3774-4242x2828.jpg
+  - US-2012-3774-2121x1414.jpg
+  - US-2012-3774-2999x1999.jpg
+  thumbnail: US-2012-3774-thumbnail.jpg
+- GPS:
+    longitude: -112.92589722222223
+    latitude: 37.216994444444445
+  filename: US-2012-3861
+  original: US-2012-3861-6000x4000.jpg
+  sizes:
+  - US-2012-3861-4242x2828.jpg
+  - US-2012-3861-2121x1414.jpg
+  - US-2012-3861-2999x1999.jpg
+  thumbnail: US-2012-3861-thumbnail.jpg
+- GPS:
+    longitude: -112.94671111111111
+    latitude: 37.28488888888889
+  filename: US-2012-3940
+  original: US-2012-3940-6000x4000.jpg
+  sizes:
+  - US-2012-3940-4242x2828.jpg
+  - US-2012-3940-2121x1414.jpg
+  - US-2012-3940-2999x1999.jpg
+  thumbnail: US-2012-3940-thumbnail.jpg
+- GPS:
+    longitude: -112.95866944444445
+    latitude: 37.24845277777778
+  filename: US-2012-4134
+  original: US-2012-4134-6000x4000.jpg
+  sizes:
+  - US-2012-4134-4242x2828.jpg
+  - US-2012-4134-2121x1414.jpg
+  - US-2012-4134-2999x1999.jpg
+  thumbnail: US-2012-4134-thumbnail.jpg
+- GPS:
+    longitude: -115.17126111111112
+    latitude: 36.11202222222222
+  filename: US-2012-4288
+  original: US-2012-4288-6000x4000.jpg
+  sizes:
+  - US-2012-4288-4242x2828.jpg
+  - US-2012-4288-2121x1414.jpg
+  - US-2012-4288-2999x1999.jpg
+  thumbnail: US-2012-4288-thumbnail.jpg
+- GPS:
+    longitude: -115.17435277777778
+    latitude: 36.102383333333336
+  filename: US-2012-4317
+  original: US-2012-4317-6000x4000.jpg
+  sizes:
+  - US-2012-4317-4242x2828.jpg
+  - US-2012-4317-2121x1414.jpg
+  - US-2012-4317-2999x1999.jpg
+  thumbnail: US-2012-4317-thumbnail.jpg
+- GPS:
+    longitude: -114.73772222222222
+    latitude: 36.016041666666666
+  filename: US-2012-4339
+  original: US-2012-4339-6000x4000.jpg
+  sizes:
+  - US-2012-4339-4242x2828.jpg
+  - US-2012-4339-2121x1414.jpg
+  - US-2012-4339-2999x1999.jpg
+  thumbnail: US-2012-4339-thumbnail.jpg
+- GPS:
+    longitude: -114.73772222222222
+    latitude: 36.016041666666666
+  filename: US-2012-4388
+  original: US-2012-4388-5854x3903.jpg
+  sizes:
+  - US-2012-4388-4242x2828.jpg
+  - US-2012-4388-2121x1414.jpg
+  - US-2012-4388-2999x1999.jpg
+  thumbnail: US-2012-4388-thumbnail.jpg
+- GPS:
+    longitude: -114.46306666666666
+    latitude: 36.426716666666664
+  filename: US-2012-4427
+  original: US-2012-4427-6000x4000.jpg
+  sizes:
+  - US-2012-4427-4242x2828.jpg
+  - US-2012-4427-2121x1414.jpg
+  - US-2012-4427-2999x1999.jpg
+  thumbnail: US-2012-4427-thumbnail.jpg
+- GPS:
+    longitude: -115.42745555555555
+    latitude: 36.13553888888889
+  filename: US-2012-4560
+  original: US-2012-4560-6000x4000.jpg
+  sizes:
+  - US-2012-4560-4242x2828.jpg
+  - US-2012-4560-2121x1414.jpg
+  - US-2012-4560-2999x1999.jpg
+  thumbnail: US-2012-4560-thumbnail.jpg
+- GPS:
+    longitude: -115.43106111111112
+    latitude: 36.14626388888889
+  filename: US-2012-4576
+  original: US-2012-4576-6000x4000.jpg
+  sizes:
+  - US-2012-4576-4242x2828.jpg
+  - US-2012-4576-2121x1414.jpg
+  - US-2012-4576-2999x1999.jpg
+  thumbnail: US-2012-4576-thumbnail.jpg
+- GPS:
+    longitude: -115.45203611111111
+    latitude: 36.11514722222223
+  filename: US-2012-4741
+  original: US-2012-4741-6000x4000.jpg
+  sizes:
+  - US-2012-4741-4242x2828.jpg
+  - US-2012-4741-2121x1414.jpg
+  - US-2012-4741-2999x1999.jpg
+  thumbnail: US-2012-4741-thumbnail.jpg
+- GPS:
+    longitude: -116.99101666666667
+    latitude: 36.590719444444446
+  filename: US-2012-4901
+  original: US-2012-4901-6000x4000.jpg
+  sizes:
+  - US-2012-4901-4242x2828.jpg
+  - US-2012-4901-2121x1414.jpg
+  - US-2012-4901-2999x1999.jpg
+  thumbnail: US-2012-4901-thumbnail.jpg
+- GPS:
+    longitude: -116.78046666666667
+    latitude: 36.24614444444445
+  filename: US-2012-5037
+  original: US-2012-5037-6000x4000.jpg
+  sizes:
+  - US-2012-5037-4242x2828.jpg
+  - US-2012-5037-2121x1414.jpg
+  - US-2012-5037-2999x1999.jpg
+  thumbnail: US-2012-5037-thumbnail.jpg
+- GPS:
+    longitude: -119.02750277777778
+    latitude: 37.76103055555556
+  filename: US-2012-5353
+  original: US-2012-5353-6000x4000.jpg
+  sizes:
+  - US-2012-5353-4242x2828.jpg
+  - US-2012-5353-2121x1414.jpg
+  - US-2012-5353-2999x1999.jpg
+  thumbnail: US-2012-5353-thumbnail.jpg
+- GPS:
+    longitude: -119.48478333333334
+    latitude: 37.810963888888885
+  filename: US-2012-5465
+  original: US-2012-5465-6000x4000.jpg
+  sizes:
+  - US-2012-5465-4242x2828.jpg
+  - US-2012-5465-2121x1414.jpg
+  - US-2012-5465-2999x1999.jpg
+  thumbnail: US-2012-5465-thumbnail.jpg
+- GPS:
+    longitude: -119.59713888888888
+    latitude: 37.513958333333335
+  filename: US-2012-5644
+  original: US-2012-5644-2160x3872.jpg
+  sizes:
+  - US-2012-5644-1294x2319.jpg
+  - US-2012-5644-1829x3279.jpg
+  - US-2012-5644-2160x3872.jpg
+  thumbnail: US-2012-5644-thumbnail.jpg
+- GPS:
+    longitude: -119.59713888888888
+    latitude: 37.513958333333335
+  filename: US-2012-5721
+  original: US-2012-5721-6000x4000.jpg
+  sizes:
+  - US-2012-5721-4242x2828.jpg
+  - US-2012-5721-2121x1414.jpg
+  - US-2012-5721-2999x1999.jpg
+  thumbnail: US-2012-5721-thumbnail.jpg
+- GPS:
+    longitude: -122.4775638888889
+    latitude: 37.81103611111111
+  filename: US-2012-5948
+  original: US-2012-5948-6000x4000.jpg
+  sizes:
+  - US-2012-5948-4242x2828.jpg
+  - US-2012-5948-2121x1414.jpg
+  - US-2012-5948-2999x1999.jpg
+  thumbnail: US-2012-5948-thumbnail.jpg
+- GPS:
+    longitude: -122.39988055555557
+    latitude: 37.79319722222222
+  filename: US-2012-6166
+  original: US-2012-6166-6000x4000.jpg
+  sizes:
+  - US-2012-6166-4242x2828.jpg
+  - US-2012-6166-2121x1414.jpg
+  - US-2012-6166-2999x1999.jpg
+  thumbnail: US-2012-6166-thumbnail.jpg
+- GPS:
+    longitude: -122.40655833333334
+    latitude: 37.79609444444444
+  filename: US-2012-6311
+  original: US-2012-6311-6000x4000.jpg
+  sizes:
+  - US-2012-6311-4242x2828.jpg
+  - US-2012-6311-2121x1414.jpg
+  - US-2012-6311-2999x1999.jpg
+  thumbnail: US-2012-6311-thumbnail.jpg
