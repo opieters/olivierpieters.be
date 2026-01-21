@@ -4,3 +4,10 @@
 
 [build.environment]
   HUGO_VERSION = "0.154.5"
+  NODE_VERSION = "18"
+
+[[build.processing.css.bundle]]
+  minify = true
+
+[[build.processing.js.bundle]]
+  minify = true
