@@ -3,6 +3,6 @@ module.exports = {
     map: false
   },
   plugins: [
-    require('postcss-preset-env')
+    require('autoprefixer')
   ]
 };

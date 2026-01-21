@@ -1,7 +1,17 @@
 {
+  "name": "olivierpieters",
+  "version": "0.0.1",
+  "author": "",
+  "scripts": {
+    "clean": "rimraf public/ resources/ builds/",
+    "start": "hugo server",
+    "build": "hugo"
+  },
   "dependencies": {
-    "postcss": "^8.5.6",
     "postcss-cli": "^11.0.1",
-    "postcss-preset-env": "^9.0.0"
+    "autoprefixer": "^10.4.23",
+    "hugo-extended": "^0.154.5",
+    "netlify-lambda": "^1.6.3",
+    "rimraf": "^6.1.2"
   }
 }
