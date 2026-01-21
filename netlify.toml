@@ -3,7 +3,7 @@
   publish = "public"
 
 [build.environment]
-  NODE_VERSION = "18"
-  NPM_VERSION = "10.9.4"
+  NODE_VERSION = "25.3.0"
+  NPM_VERSION = "11.7.0"
   NPM_FLAGS = "--no-optional"
 
