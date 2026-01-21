@@ -1,10 +1,10 @@
-{{ $style := resources.Get "css/main.css" | toCSS | fingerprint }} 
+{{ $style := resources.Get "css/main.css" }} 
 <link type="text/css" rel="stylesheet" href="{{ $style.Permalink }}" crossorigin="anonymous" integrity="{{ $style.Data.Integrity }}">
 
-{{ $fira := resources.Get "vendor/bower_components/fira/fira.css" | fingerprint }} 
+{{ $fira := resources.Get "vendor/bower_components/fira/fira.css" }} 
 <link type="text/css" rel="stylesheet" href="{{ $fira.Permalink }}" crossorigin="anonymous" integrity="{{ $fira.Data.Integrity }}">
 
-{{ $katex := resources.Get "vendor/node_modules/katex/dist/katex.min.css" | fingerprint }} 
+{{ $katex := resources.Get "vendor/node_modules/katex/dist/katex.min.css" }} 
 <link type="text/css" rel="stylesheet" href="{{ $katex.Permalink }}" crossorigin="anonymous" integrity="{{ $katex.Data.Integrity }}">
 
 
