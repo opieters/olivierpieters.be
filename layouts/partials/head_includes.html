@@ -1,7 +1,7 @@
-{{ $style := resources.Get "css/main.css" | toCSS | minify | fingerprint }} 
+{{ $style := resources.Get "css/main.css" | toCSS | fingerprint }} 
 <link type="text/css" rel="stylesheet" href="{{ $style.Permalink }}" crossorigin="anonymous" integrity="{{ $style.Data.Integrity }}">
 
-{{ $fira := resources.Get "vendor/bower_components/fira/fira.css" | minify | fingerprint }} 
+{{ $fira := resources.Get "vendor/bower_components/fira/fira.css" | fingerprint }} 
 <link type="text/css" rel="stylesheet" href="{{ $fira.Permalink }}" crossorigin="anonymous" integrity="{{ $fira.Data.Integrity }}">
 
 {{ $katex := resources.Get "vendor/node_modules/katex/dist/katex.min.css" | fingerprint }} 
